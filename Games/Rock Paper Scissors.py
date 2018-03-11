@@ -44,17 +44,17 @@ def game(wins, loses):
         
     if RPS_CPU != player_clean:
         if win_condition(player_clean, RPS_CPU):
-            sleep(2)
+            sleep(1)
             print ("Player wins!")
             wins += 1
             score(wins, loses)
         else:
-            sleep(2)
+            sleep(1)
             print ("CPU wins")
             loses += 1
             score(wins, loses)
     else:
-        sleep(2)
+        sleep(1)
         print("Tie!")
         score(wins, loses)
 
@@ -67,11 +67,14 @@ def score(wins, loses):
     else:
         print("Final score is - " + "Wins: " + str(wins) + " Loses: " + str(loses))
         print("Thanks for playing!")
-        sleep(3)
+        sleep(5)
 
-print("Would you like to play, rock, paper, scissors?")
-user_input = input()
+print("Welcome to the Rock Paper Scissors application!")
+sleep(1)
+user_input = input("Would you like to play, rock, paper, scissors? ")
 if user_input.capitalize() in confirm:
+    sleep(1)
     game(wins, loses)
 else:
-    print("Okay, have a nice day")
+    print("Okay, have a nice day.")
+    sleep(5)
