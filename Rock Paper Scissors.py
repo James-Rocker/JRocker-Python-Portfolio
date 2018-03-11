@@ -12,6 +12,7 @@ wins  = 0
 loses = 0
 
 RPS = ['Rock','Paper','Scissors']
+confirm = ['Yes', 'Y', 'Okay']
 
 def game(wins, loses):
     Player_RPS = input("Please select either rock, paper or scissors: ")
@@ -58,13 +59,19 @@ def game(wins, loses):
         score(wins, loses)
 
 def score(wins, loses):
-        print ("Wins: " + str(wins) + " Loses: " + str(loses))
-        print ("Do you want to play again?")
-        user_input = input()
-        if user_input.capitalize() == "Yes":
-                game(wins, loses)
+    print ("Wins: " + str(wins) + " Loses: " + str(loses))
+    print ("Do you want to play again?")
+    user_input = input()
+    if user_input.capitalize() in confirm:
+        game(wins, loses)
+    else:
+        print("Final score is - " + "Wins: " + str(wins) + " Loses: " + str(loses))
+        print("Thanks for playing!")
+        sleep(3)
 
 print("Would you like to play, rock, paper, scissors?")
 user_input = input()
-if user_input.capitalize() == "Yes":
-        game(wins, loses)
+if user_input.capitalize() in confirm:
+    game(wins, loses)
+else:
+    print("Okay, have a nice day")
