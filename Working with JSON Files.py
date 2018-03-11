@@ -1,7 +1,7 @@
 import imp
 import pip
 
-package = 'urllib'
+package = 'urllib3'
 
 try:
     imp.find_module(package)
@@ -27,9 +27,7 @@ except ImportError:
     else:
         pip.main(['install', package])
 
-import urllib, json
-url = "http://maps.googleapis.com/maps/api/geocode/json?address=googleplex&sensor=false"
-response = urllib.urlopen("http://maps.googleapis.com/maps/api/geocode/json?address=googleplex&sensor=false")
-data = json.loads(response.read())
-
-print (data)
+import urllib3
+http = urllib3.PoolManager()
+response = http.request("GET", "http://maps.googleapis.com/maps/api/geocode/json?address=googleplex&sensor=false").data
+print(response)

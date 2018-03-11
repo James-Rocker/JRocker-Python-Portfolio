@@ -1,0 +1,5 @@
+Python 3
+matplotlib
+numpy
+urllib3
+pandas
