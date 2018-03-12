@@ -1,0 +1,30 @@
+Fix
+
+1. Fix the bokehn graph index issue
+5. Fix the 401 error on the twitter streaming bot
+6. Update the box and whiskers graph to no longer require the large maplotlib download
+
+
+Build
+
+1. Retrieve a publically available dataset, store the data using SQLalchemy and display the data using geoplotlib
+2. show use of inner joins, left joins, filter, order, having and with statements
+3. Add a script generating data for a sqllite database
+4. Show use of working with big data
+5. Creates some process maps that show the flow of logic with some of the python scripts, SQL and github
+6. Build a basic neural network
+7. Learn about extract financial data from a website API, putting to a csv file and then reading the csv file 
+7.5. Build some financial reports based on the datacamp course
+8. Look at the old scripts on your machine and extract the datascraping sections
+9. Build a basic django website to just display html and css understanding
+10. Build an interface for the games so the user can select 
+11. Start looking into python to .exe so the user no longer has to install python to run the scripts
+
+Misc
+
+1. Add further certifications from Datacamp (particularly the python finance section)
+2. Start learning R to a better degree
+3. Finish the codeacademy course
+4. Finish the free code camp course
+5. Start and complete a udemy course
+6. Look into further methods of using python for business intelligence purposes
