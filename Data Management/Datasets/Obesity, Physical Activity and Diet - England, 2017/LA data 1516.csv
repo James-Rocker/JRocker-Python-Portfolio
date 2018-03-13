@@ -1,0 +1,1459 @@
+Year,Org_Type,ONS_Code,Org_Code,Org_Name,Classification,Metric_Primary,Value
+2015/16,National,E92000001,,England,FAE_Primary_Obesity,All persons,"9,929"
+2015/16,Region,E12000001,A,North East,FAE_Primary_Obesity,All persons,"1,593"
+2015/16,Region,E12000002,B,North West,FAE_Primary_Obesity,All persons,873
+2015/16,Region,E12000003,D,Yorkshire and the Humber,FAE_Primary_Obesity,All persons,674
+2015/16,Region,E12000004,E,East Midlands,FAE_Primary_Obesity,All persons,355
+2015/16,Region,E12000005,F,West Midlands,FAE_Primary_Obesity,All persons,"1,463"
+2015/16,Region,E12000006,G,East of England,FAE_Primary_Obesity,All persons,688
+2015/16,Region,E12000007,H,London,FAE_Primary_Obesity,All persons,"2,127"
+2015/16,Region,E12000008,J,South East,FAE_Primary_Obesity,All persons,"1,399"
+2015/16,Region,E12000009,K,South West,FAE_Primary_Obesity,All persons,757
+2015/16,LocalAuthority,E06000001,111,Hartlepool,FAE_Primary_Obesity,All persons,50
+2015/16,LocalAuthority,E06000002,112,Middlesbrough,FAE_Primary_Obesity,All persons,74
+2015/16,LocalAuthority,E06000003,113,Redcar and Cleveland,FAE_Primary_Obesity,All persons,57
+2015/16,LocalAuthority,E06000004,114,Stockton-on-Tees,FAE_Primary_Obesity,All persons,114
+2015/16,LocalAuthority,E06000005,117,Darlington,FAE_Primary_Obesity,All persons,42
+2015/16,LocalAuthority,E06000006,321,Halton,FAE_Primary_Obesity,All persons,17
+2015/16,LocalAuthority,E06000007,322,Warrington,FAE_Primary_Obesity,All persons,*
+2015/16,LocalAuthority,E06000008,324,Blackburn with Darwen,FAE_Primary_Obesity,All persons,21
+2015/16,LocalAuthority,E06000009,325,Blackpool,FAE_Primary_Obesity,All persons,*
+2015/16,LocalAuthority,E06000010,215,"Kingston upon Hull, City of",FAE_Primary_Obesity,All persons,34
+2015/16,LocalAuthority,E06000011,214,East Riding of Yorkshire,FAE_Primary_Obesity,All persons,28
+2015/16,LocalAuthority,E06000012,216,North East Lincolnshire,FAE_Primary_Obesity,All persons,24
+2015/16,LocalAuthority,E06000013,217,North Lincolnshire,FAE_Primary_Obesity,All persons,32
+2015/16,LocalAuthority,E06000014,219,York,FAE_Primary_Obesity,All persons,*
+2015/16,LocalAuthority,E06000015,507,Derby,FAE_Primary_Obesity,All persons,*
+2015/16,LocalAuthority,E06000016,509,Leicester,FAE_Primary_Obesity,All persons,24
+2015/16,LocalAuthority,E06000017,510,Rutland                                                                         ,FAE_Primary_Obesity,All persons,*
+2015/16,LocalAuthority,E06000018,512,Nottingham,FAE_Primary_Obesity,All persons,17
+2015/16,LocalAuthority,E06000019,415,"Herefordshire, County of",FAE_Primary_Obesity,All persons,34
+2015/16,LocalAuthority,E06000020,418,Telford and Wrekin,FAE_Primary_Obesity,All persons,117
+2015/16,LocalAuthority,E06000021,414,Stoke-on-Trent,FAE_Primary_Obesity,All persons,151
+2015/16,LocalAuthority,E06000022,908,Bath and North East Somerset,FAE_Primary_Obesity,All persons,11
+2015/16,LocalAuthority,E06000023,909,"Bristol, City of",FAE_Primary_Obesity,All persons,67
+2015/16,LocalAuthority,E06000024,910,North Somerset,FAE_Primary_Obesity,All persons,24
+2015/16,LocalAuthority,E06000025,911,South Gloucestershire,FAE_Primary_Obesity,All persons,43
+2015/16,LocalAuthority,E06000026,913,Plymouth,FAE_Primary_Obesity,All persons,64
+2015/16,LocalAuthority,E06000027,914,Torbay,FAE_Primary_Obesity,All persons,7
+2015/16,LocalAuthority,E06000028,810,Bournemouth,FAE_Primary_Obesity,All persons,22
+2015/16,LocalAuthority,E06000029,811,Poole,FAE_Primary_Obesity,All persons,19
+2015/16,LocalAuthority,E06000030,819,Swindon,FAE_Primary_Obesity,All persons,27
+2015/16,LocalAuthority,E06000031,624,Peterborough,FAE_Primary_Obesity,All persons,24
+2015/16,LocalAuthority,E06000032,611,Luton,FAE_Primary_Obesity,All persons,71
+2015/16,LocalAuthority,E06000033,621,Southend-on-Sea,FAE_Primary_Obesity,All persons,21
+2015/16,LocalAuthority,E06000034,622,Thurrock,FAE_Primary_Obesity,All persons,27
+2015/16,LocalAuthority,E06000035,821,Medway,FAE_Primary_Obesity,All persons,90
+2015/16,LocalAuthority,E06000036,614,Bracknell Forest,FAE_Primary_Obesity,All persons,21
+2015/16,LocalAuthority,E06000037,615,West Berkshire,FAE_Primary_Obesity,All persons,24
+2015/16,LocalAuthority,E06000038,616,Reading,FAE_Primary_Obesity,All persons,23
+2015/16,LocalAuthority,E06000039,617,Slough,FAE_Primary_Obesity,All persons,20
+2015/16,LocalAuthority,E06000040,618,Windsor and Maidenhead,FAE_Primary_Obesity,All persons,8
+2015/16,LocalAuthority,E06000041,619,Wokingham,FAE_Primary_Obesity,All persons,14
+2015/16,LocalAuthority,E06000042,613,Milton Keynes,FAE_Primary_Obesity,All persons,34
+2015/16,LocalAuthority,E06000043,816,Brighton and Hove,FAE_Primary_Obesity,All persons,46
+2015/16,LocalAuthority,E06000044,813,Portsmouth,FAE_Primary_Obesity,All persons,93
+2015/16,LocalAuthority,E06000045,814,Southampton,FAE_Primary_Obesity,All persons,47
+2015/16,LocalAuthority,E06000046,803,Isle of Wight,FAE_Primary_Obesity,All persons,13
+2015/16,LocalAuthority,E06000047,116,County Durham,FAE_Primary_Obesity,All persons,425
+2015/16,LocalAuthority,E06000049,326,Cheshire East,FAE_Primary_Obesity,All persons,43
+2015/16,LocalAuthority,E06000050,327,Cheshire West and Chester,FAE_Primary_Obesity,All persons,50
+2015/16,LocalAuthority,E06000051,417,Shropshire,FAE_Primary_Obesity,All persons,77
+2015/16,LocalAuthority,E06000052,902,Cornwall,FAE_Primary_Obesity,All persons,148
+2015/16,LocalAuthority,E06000053,906,Isles of Scilly,FAE_Primary_Obesity,All persons,0
+2015/16,LocalAuthority,E06000054,817,Wiltshire,FAE_Primary_Obesity,All persons,52
+2015/16,LocalAuthority,E06000055,625,Bedford,FAE_Primary_Obesity,All persons,22
+2015/16,LocalAuthority,E06000056,626,Central Bedfordshire,FAE_Primary_Obesity,All persons,33
+2015/16,LocalAuthority,E06000057,104,Northumberland,FAE_Primary_Obesity,All persons,103
+2015/16,LocalAuthority,E08000001,304,Bolton,FAE_Primary_Obesity,All persons,54
+2015/16,LocalAuthority,E08000002,305,Bury,FAE_Primary_Obesity,All persons,12
+2015/16,LocalAuthority,E08000003,306,Manchester,FAE_Primary_Obesity,All persons,91
+2015/16,LocalAuthority,E08000004,307,Oldham,FAE_Primary_Obesity,All persons,27
+2015/16,LocalAuthority,E08000005,308,Rochdale,FAE_Primary_Obesity,All persons,32
+2015/16,LocalAuthority,E08000006,309,Salford,FAE_Primary_Obesity,All persons,28
+2015/16,LocalAuthority,E08000007,310,Stockport,FAE_Primary_Obesity,All persons,27
+2015/16,LocalAuthority,E08000008,311,Tameside,FAE_Primary_Obesity,All persons,17
+2015/16,LocalAuthority,E08000009,312,Trafford,FAE_Primary_Obesity,All persons,21
+2015/16,LocalAuthority,E08000010,313,Wigan,FAE_Primary_Obesity,All persons,40
+2015/16,LocalAuthority,E08000011,315,Knowsley,FAE_Primary_Obesity,All persons,33
+2015/16,LocalAuthority,E08000012,316,Liverpool,FAE_Primary_Obesity,All persons,75
+2015/16,LocalAuthority,E08000013,318,St. Helens,FAE_Primary_Obesity,All persons,19
+2015/16,LocalAuthority,E08000014,317,Sefton,FAE_Primary_Obesity,All persons,39
+2015/16,LocalAuthority,E08000015,319,Wirral,FAE_Primary_Obesity,All persons,57
+2015/16,LocalAuthority,E08000016,204,Barnsley,FAE_Primary_Obesity,All persons,33
+2015/16,LocalAuthority,E08000017,205,Doncaster,FAE_Primary_Obesity,All persons,42
+2015/16,LocalAuthority,E08000018,206,Rotherham,FAE_Primary_Obesity,All persons,*
+2015/16,LocalAuthority,E08000019,207,Sheffield,FAE_Primary_Obesity,All persons,113
+2015/16,LocalAuthority,E08000021,107,Newcastle upon Tyne,FAE_Primary_Obesity,All persons,63
+2015/16,LocalAuthority,E08000022,108,North Tyneside,FAE_Primary_Obesity,All persons,78
+2015/16,LocalAuthority,E08000023,109,South Tyneside,FAE_Primary_Obesity,All persons,145
+2015/16,LocalAuthority,E08000024,110,Sunderland,FAE_Primary_Obesity,All persons,320
+2015/16,LocalAuthority,E08000025,406,Birmingham,FAE_Primary_Obesity,All persons,302
+2015/16,LocalAuthority,E08000026,407,Coventry,FAE_Primary_Obesity,All persons,68
+2015/16,LocalAuthority,E08000027,408,Dudley,FAE_Primary_Obesity,All persons,32
+2015/16,LocalAuthority,E08000028,409,Sandwell,FAE_Primary_Obesity,All persons,136
+2015/16,LocalAuthority,E08000029,410,Solihull,FAE_Primary_Obesity,All persons,60
+2015/16,LocalAuthority,E08000030,411,Walsall,FAE_Primary_Obesity,All persons,42
+2015/16,LocalAuthority,E08000031,412,Wolverhampton,FAE_Primary_Obesity,All persons,49
+2015/16,LocalAuthority,E08000032,209,Bradford,FAE_Primary_Obesity,All persons,91
+2015/16,LocalAuthority,E08000033,210,Calderdale,FAE_Primary_Obesity,All persons,52
+2015/16,LocalAuthority,E08000034,211,Kirklees,FAE_Primary_Obesity,All persons,36
+2015/16,LocalAuthority,E08000035,212,Leeds,FAE_Primary_Obesity,All persons,45
+2015/16,LocalAuthority,E08000036,213,Wakefield,FAE_Primary_Obesity,All persons,33
+2015/16,LocalAuthority,E08000037,106,Gateshead,FAE_Primary_Obesity,All persons,122
+2015/16,LocalAuthority,E09000001,714,City of London,FAE_Primary_Obesity,All persons,*
+2015/16,LocalAuthority,E09000002,716,Barking and Dagenham,FAE_Primary_Obesity,All persons,34
+2015/16,LocalAuthority,E09000003,717,Barnet,FAE_Primary_Obesity,All persons,94
+2015/16,LocalAuthority,E09000004,718,Bexley,FAE_Primary_Obesity,All persons,82
+2015/16,LocalAuthority,E09000005,719,Brent,FAE_Primary_Obesity,All persons,105
+2015/16,LocalAuthority,E09000006,720,Bromley,FAE_Primary_Obesity,All persons,60
+2015/16,LocalAuthority,E09000007,702,Camden,FAE_Primary_Obesity,All persons,61
+2015/16,LocalAuthority,E09000008,721,Croydon,FAE_Primary_Obesity,All persons,70
+2015/16,LocalAuthority,E09000009,722,Ealing,FAE_Primary_Obesity,All persons,128
+2015/16,LocalAuthority,E09000010,723,Enfield,FAE_Primary_Obesity,All persons,64
+2015/16,LocalAuthority,E09000011,703,Greenwich,FAE_Primary_Obesity,All persons,111
+2015/16,LocalAuthority,E09000012,704,Hackney,FAE_Primary_Obesity,All persons,52
+2015/16,LocalAuthority,E09000013,705,Hammersmith and Fulham,FAE_Primary_Obesity,All persons,61
+2015/16,LocalAuthority,E09000014,724,Haringey,FAE_Primary_Obesity,All persons,68
+2015/16,LocalAuthority,E09000015,725,Harrow,FAE_Primary_Obesity,All persons,50
+2015/16,LocalAuthority,E09000016,726,Havering,FAE_Primary_Obesity,All persons,32
+2015/16,LocalAuthority,E09000017,727,Hillingdon,FAE_Primary_Obesity,All persons,90
+2015/16,LocalAuthority,E09000018,728,Hounslow,FAE_Primary_Obesity,All persons,68
+2015/16,LocalAuthority,E09000019,706,Islington,FAE_Primary_Obesity,All persons,67
+2015/16,LocalAuthority,E09000020,707,Kensington and Chelsea,FAE_Primary_Obesity,All persons,29
+2015/16,LocalAuthority,E09000021,729,Kingston upon Thames,FAE_Primary_Obesity,All persons,*
+2015/16,LocalAuthority,E09000022,708,Lambeth,FAE_Primary_Obesity,All persons,109
+2015/16,LocalAuthority,E09000023,709,Lewisham,FAE_Primary_Obesity,All persons,127
+2015/16,LocalAuthority,E09000024,730,Merton,FAE_Primary_Obesity,All persons,43
+2015/16,LocalAuthority,E09000025,731,Newham,FAE_Primary_Obesity,All persons,52
+2015/16,LocalAuthority,E09000026,732,Redbridge,FAE_Primary_Obesity,All persons,35
+2015/16,LocalAuthority,E09000027,733,Richmond upon Thames,FAE_Primary_Obesity,All persons,26
+2015/16,LocalAuthority,E09000028,710,Southwark,FAE_Primary_Obesity,All persons,116
+2015/16,LocalAuthority,E09000029,734,Sutton,FAE_Primary_Obesity,All persons,42
+2015/16,LocalAuthority,E09000030,711,Tower Hamlets,FAE_Primary_Obesity,All persons,35
+2015/16,LocalAuthority,E09000031,735,Waltham Forest,FAE_Primary_Obesity,All persons,66
+2015/16,LocalAuthority,E09000032,712,Wandsworth,FAE_Primary_Obesity,All persons,52
+2015/16,LocalAuthority,E09000033,713,Westminster,FAE_Primary_Obesity,All persons,72
+2015/16,LocalAuthority,E10000002,612,Buckinghamshire,FAE_Primary_Obesity,All persons,48
+2015/16,LocalAuthority,E10000003,623,Cambridgeshire,FAE_Primary_Obesity,All persons,45
+2015/16,LocalAuthority,E10000006,102,Cumbria,FAE_Primary_Obesity,All persons,49
+2015/16,LocalAuthority,E10000007,506,Derbyshire,FAE_Primary_Obesity,All persons,86
+2015/16,LocalAuthority,E10000008,912,Devon,FAE_Primary_Obesity,All persons,118
+2015/16,LocalAuthority,E10000009,809,Dorset,FAE_Primary_Obesity,All persons,38
+2015/16,LocalAuthority,E10000011,815,East Sussex,FAE_Primary_Obesity,All persons,101
+2015/16,LocalAuthority,E10000012,620,Essex,FAE_Primary_Obesity,All persons,129
+2015/16,LocalAuthority,E10000013,904,Gloucestershire,FAE_Primary_Obesity,All persons,48
+2015/16,LocalAuthority,E10000014,812,Hampshire,FAE_Primary_Obesity,All persons,188
+2015/16,LocalAuthority,E10000015,606,Hertfordshire,FAE_Primary_Obesity,All persons,152
+2015/16,LocalAuthority,E10000016,820,Kent,FAE_Primary_Obesity,All persons,257
+2015/16,LocalAuthority,E10000017,323,Lancashire,FAE_Primary_Obesity,All persons,107
+2015/16,LocalAuthority,E10000018,508,Leicestershire,FAE_Primary_Obesity,All persons,32
+2015/16,LocalAuthority,E10000019,503,Lincolnshire,FAE_Primary_Obesity,All persons,38
+2015/16,LocalAuthority,E10000020,607,Norfolk,FAE_Primary_Obesity,All persons,95
+2015/16,LocalAuthority,E10000021,504,Northamptonshire,FAE_Primary_Obesity,All persons,95
+2015/16,LocalAuthority,E10000023,218,North Yorkshire,FAE_Primary_Obesity,All persons,86
+2015/16,LocalAuthority,E10000024,511,Nottinghamshire,FAE_Primary_Obesity,All persons,43
+2015/16,LocalAuthority,E10000025,608,Oxfordshire,FAE_Primary_Obesity,All persons,82
+2015/16,LocalAuthority,E10000027,905,Somerset,FAE_Primary_Obesity,All persons,69
+2015/16,LocalAuthority,E10000028,413,Staffordshire,FAE_Primary_Obesity,All persons,189
+2015/16,LocalAuthority,E10000029,609,Suffolk,FAE_Primary_Obesity,All persons,69
+2015/16,LocalAuthority,E10000030,805,Surrey,FAE_Primary_Obesity,All persons,169
+2015/16,LocalAuthority,E10000031,404,Warwickshire,FAE_Primary_Obesity,All persons,99
+2015/16,LocalAuthority,E10000032,807,West Sussex,FAE_Primary_Obesity,All persons,121
+2015/16,LocalAuthority,E10000034,416,Worcestershire,FAE_Primary_Obesity,All persons,107
+2015/16,National,E92000001,,England,FAE_Primary_Obesity,Female,"7,356"
+2015/16,Region,E12000001,A,North East,FAE_Primary_Obesity,Female,"1,192"
+2015/16,Region,E12000002,B,North West,FAE_Primary_Obesity,Female,585
+2015/16,Region,E12000003,D,Yorkshire and the Humber,FAE_Primary_Obesity,Female,506
+2015/16,Region,E12000004,E,East Midlands,FAE_Primary_Obesity,Female,261
+2015/16,Region,E12000005,F,West Midlands,FAE_Primary_Obesity,Female,"1,079"
+2015/16,Region,E12000006,G,East of England,FAE_Primary_Obesity,Female,491
+2015/16,Region,E12000007,H,London,FAE_Primary_Obesity,Female,"1,616"
+2015/16,Region,E12000008,J,South East,FAE_Primary_Obesity,Female,"1,053"
+2015/16,Region,E12000009,K,South West,FAE_Primary_Obesity,Female,573
+2015/16,LocalAuthority,E06000001,111,Hartlepool,FAE_Primary_Obesity,Female,42
+2015/16,LocalAuthority,E06000002,112,Middlesbrough,FAE_Primary_Obesity,Female,58
+2015/16,LocalAuthority,E06000003,113,Redcar and Cleveland,FAE_Primary_Obesity,Female,48
+2015/16,LocalAuthority,E06000004,114,Stockton-on-Tees,FAE_Primary_Obesity,Female,87
+2015/16,LocalAuthority,E06000005,117,Darlington,FAE_Primary_Obesity,Female,33
+2015/16,LocalAuthority,E06000006,321,Halton,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E06000007,322,Warrington,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E06000008,324,Blackburn with Darwen,FAE_Primary_Obesity,Female,15
+2015/16,LocalAuthority,E06000009,325,Blackpool,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E06000010,215,"Kingston upon Hull, City of",FAE_Primary_Obesity,Female,18
+2015/16,LocalAuthority,E06000011,214,East Riding of Yorkshire,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E06000012,216,North East Lincolnshire,FAE_Primary_Obesity,Female,18
+2015/16,LocalAuthority,E06000013,217,North Lincolnshire,FAE_Primary_Obesity,Female,21
+2015/16,LocalAuthority,E06000014,219,York,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E06000015,507,Derby,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E06000016,509,Leicester,FAE_Primary_Obesity,Female,14
+2015/16,LocalAuthority,E06000017,510,Rutland                                                                         ,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E06000018,512,Nottingham,FAE_Primary_Obesity,Female,11
+2015/16,LocalAuthority,E06000019,415,"Herefordshire, County of",FAE_Primary_Obesity,Female,23
+2015/16,LocalAuthority,E06000020,418,Telford and Wrekin,FAE_Primary_Obesity,Female,85
+2015/16,LocalAuthority,E06000021,414,Stoke-on-Trent,FAE_Primary_Obesity,Female,104
+2015/16,LocalAuthority,E06000022,908,Bath and North East Somerset,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E06000023,909,"Bristol, City of",FAE_Primary_Obesity,Female,48
+2015/16,LocalAuthority,E06000024,910,North Somerset,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E06000025,911,South Gloucestershire,FAE_Primary_Obesity,Female,35
+2015/16,LocalAuthority,E06000026,913,Plymouth,FAE_Primary_Obesity,Female,51
+2015/16,LocalAuthority,E06000027,914,Torbay,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E06000028,810,Bournemouth,FAE_Primary_Obesity,Female,12
+2015/16,LocalAuthority,E06000029,811,Poole,FAE_Primary_Obesity,Female,12
+2015/16,LocalAuthority,E06000030,819,Swindon,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E06000031,624,Peterborough,FAE_Primary_Obesity,Female,16
+2015/16,LocalAuthority,E06000032,611,Luton,FAE_Primary_Obesity,Female,48
+2015/16,LocalAuthority,E06000033,621,Southend-on-Sea,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E06000034,622,Thurrock,FAE_Primary_Obesity,Female,20
+2015/16,LocalAuthority,E06000035,821,Medway,FAE_Primary_Obesity,Female,62
+2015/16,LocalAuthority,E06000036,614,Bracknell Forest,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E06000037,615,West Berkshire,FAE_Primary_Obesity,Female,16
+2015/16,LocalAuthority,E06000038,616,Reading,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E06000039,617,Slough,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E06000040,618,Windsor and Maidenhead,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E06000041,619,Wokingham,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E06000042,613,Milton Keynes,FAE_Primary_Obesity,Female,27
+2015/16,LocalAuthority,E06000043,816,Brighton and Hove,FAE_Primary_Obesity,Female,33
+2015/16,LocalAuthority,E06000044,813,Portsmouth,FAE_Primary_Obesity,Female,76
+2015/16,LocalAuthority,E06000045,814,Southampton,FAE_Primary_Obesity,Female,35
+2015/16,LocalAuthority,E06000046,803,Isle of Wight,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E06000047,116,County Durham,FAE_Primary_Obesity,Female,307
+2015/16,LocalAuthority,E06000049,326,Cheshire East,FAE_Primary_Obesity,Female,33
+2015/16,LocalAuthority,E06000050,327,Cheshire West and Chester,FAE_Primary_Obesity,Female,37
+2015/16,LocalAuthority,E06000051,417,Shropshire,FAE_Primary_Obesity,Female,56
+2015/16,LocalAuthority,E06000052,902,Cornwall,FAE_Primary_Obesity,Female,116
+2015/16,LocalAuthority,E06000053,906,Isles of Scilly,FAE_Primary_Obesity,Female,0
+2015/16,LocalAuthority,E06000054,817,Wiltshire,FAE_Primary_Obesity,Female,36
+2015/16,LocalAuthority,E06000055,625,Bedford,FAE_Primary_Obesity,Female,15
+2015/16,LocalAuthority,E06000056,626,Central Bedfordshire,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E06000057,104,Northumberland,FAE_Primary_Obesity,Female,87
+2015/16,LocalAuthority,E08000001,304,Bolton,FAE_Primary_Obesity,Female,33
+2015/16,LocalAuthority,E08000002,305,Bury,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E08000003,306,Manchester,FAE_Primary_Obesity,Female,56
+2015/16,LocalAuthority,E08000004,307,Oldham,FAE_Primary_Obesity,Female,17
+2015/16,LocalAuthority,E08000005,308,Rochdale,FAE_Primary_Obesity,Female,22
+2015/16,LocalAuthority,E08000006,309,Salford,FAE_Primary_Obesity,Female,17
+2015/16,LocalAuthority,E08000007,310,Stockport,FAE_Primary_Obesity,Female,19
+2015/16,LocalAuthority,E08000008,311,Tameside,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E08000009,312,Trafford,FAE_Primary_Obesity,Female,13
+2015/16,LocalAuthority,E08000010,313,Wigan,FAE_Primary_Obesity,Female,32
+2015/16,LocalAuthority,E08000011,315,Knowsley,FAE_Primary_Obesity,Female,25
+2015/16,LocalAuthority,E08000012,316,Liverpool,FAE_Primary_Obesity,Female,56
+2015/16,LocalAuthority,E08000013,318,St. Helens,FAE_Primary_Obesity,Female,8
+2015/16,LocalAuthority,E08000014,317,Sefton,FAE_Primary_Obesity,Female,27
+2015/16,LocalAuthority,E08000015,319,Wirral,FAE_Primary_Obesity,Female,43
+2015/16,LocalAuthority,E08000016,204,Barnsley,FAE_Primary_Obesity,Female,27
+2015/16,LocalAuthority,E08000017,205,Doncaster,FAE_Primary_Obesity,Female,34
+2015/16,LocalAuthority,E08000018,206,Rotherham,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E08000019,207,Sheffield,FAE_Primary_Obesity,Female,91
+2015/16,LocalAuthority,E08000021,107,Newcastle upon Tyne,FAE_Primary_Obesity,Female,50
+2015/16,LocalAuthority,E08000022,108,North Tyneside,FAE_Primary_Obesity,Female,52
+2015/16,LocalAuthority,E08000023,109,South Tyneside,FAE_Primary_Obesity,Female,107
+2015/16,LocalAuthority,E08000024,110,Sunderland,FAE_Primary_Obesity,Female,240
+2015/16,LocalAuthority,E08000025,406,Birmingham,FAE_Primary_Obesity,Female,219
+2015/16,LocalAuthority,E08000026,407,Coventry,FAE_Primary_Obesity,Female,55
+2015/16,LocalAuthority,E08000027,408,Dudley,FAE_Primary_Obesity,Female,23
+2015/16,LocalAuthority,E08000028,409,Sandwell,FAE_Primary_Obesity,Female,104
+2015/16,LocalAuthority,E08000029,410,Solihull,FAE_Primary_Obesity,Female,50
+2015/16,LocalAuthority,E08000030,411,Walsall,FAE_Primary_Obesity,Female,28
+2015/16,LocalAuthority,E08000031,412,Wolverhampton,FAE_Primary_Obesity,Female,35
+2015/16,LocalAuthority,E08000032,209,Bradford,FAE_Primary_Obesity,Female,60
+2015/16,LocalAuthority,E08000033,210,Calderdale,FAE_Primary_Obesity,Female,36
+2015/16,LocalAuthority,E08000034,211,Kirklees,FAE_Primary_Obesity,Female,27
+2015/16,LocalAuthority,E08000035,212,Leeds,FAE_Primary_Obesity,Female,37
+2015/16,LocalAuthority,E08000036,213,Wakefield,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E08000037,106,Gateshead,FAE_Primary_Obesity,Female,81
+2015/16,LocalAuthority,E09000001,714,City of London,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E09000002,716,Barking and Dagenham,FAE_Primary_Obesity,Female,25
+2015/16,LocalAuthority,E09000003,717,Barnet,FAE_Primary_Obesity,Female,71
+2015/16,LocalAuthority,E09000004,718,Bexley,FAE_Primary_Obesity,Female,66
+2015/16,LocalAuthority,E09000005,719,Brent,FAE_Primary_Obesity,Female,88
+2015/16,LocalAuthority,E09000006,720,Bromley,FAE_Primary_Obesity,Female,42
+2015/16,LocalAuthority,E09000007,702,Camden,FAE_Primary_Obesity,Female,49
+2015/16,LocalAuthority,E09000008,721,Croydon,FAE_Primary_Obesity,Female,55
+2015/16,LocalAuthority,E09000009,722,Ealing,FAE_Primary_Obesity,Female,101
+2015/16,LocalAuthority,E09000010,723,Enfield,FAE_Primary_Obesity,Female,50
+2015/16,LocalAuthority,E09000011,703,Greenwich,FAE_Primary_Obesity,Female,86
+2015/16,LocalAuthority,E09000012,704,Hackney,FAE_Primary_Obesity,Female,42
+2015/16,LocalAuthority,E09000013,705,Hammersmith and Fulham,FAE_Primary_Obesity,Female,45
+2015/16,LocalAuthority,E09000014,724,Haringey,FAE_Primary_Obesity,Female,51
+2015/16,LocalAuthority,E09000015,725,Harrow,FAE_Primary_Obesity,Female,35
+2015/16,LocalAuthority,E09000016,726,Havering,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E09000017,727,Hillingdon,FAE_Primary_Obesity,Female,65
+2015/16,LocalAuthority,E09000018,728,Hounslow,FAE_Primary_Obesity,Female,54
+2015/16,LocalAuthority,E09000019,706,Islington,FAE_Primary_Obesity,Female,52
+2015/16,LocalAuthority,E09000020,707,Kensington and Chelsea,FAE_Primary_Obesity,Female,19
+2015/16,LocalAuthority,E09000021,729,Kingston upon Thames,FAE_Primary_Obesity,Female,*
+2015/16,LocalAuthority,E09000022,708,Lambeth,FAE_Primary_Obesity,Female,76
+2015/16,LocalAuthority,E09000023,709,Lewisham,FAE_Primary_Obesity,Female,111
+2015/16,LocalAuthority,E09000024,730,Merton,FAE_Primary_Obesity,Female,29
+2015/16,LocalAuthority,E09000025,731,Newham,FAE_Primary_Obesity,Female,39
+2015/16,LocalAuthority,E09000026,732,Redbridge,FAE_Primary_Obesity,Female,27
+2015/16,LocalAuthority,E09000027,733,Richmond upon Thames,FAE_Primary_Obesity,Female,20
+2015/16,LocalAuthority,E09000028,710,Southwark,FAE_Primary_Obesity,Female,84
+2015/16,LocalAuthority,E09000029,734,Sutton,FAE_Primary_Obesity,Female,31
+2015/16,LocalAuthority,E09000030,711,Tower Hamlets,FAE_Primary_Obesity,Female,22
+2015/16,LocalAuthority,E09000031,735,Waltham Forest,FAE_Primary_Obesity,Female,49
+2015/16,LocalAuthority,E09000032,712,Wandsworth,FAE_Primary_Obesity,Female,36
+2015/16,LocalAuthority,E09000033,713,Westminster,FAE_Primary_Obesity,Female,48
+2015/16,LocalAuthority,E10000002,612,Buckinghamshire,FAE_Primary_Obesity,Female,36
+2015/16,LocalAuthority,E10000003,623,Cambridgeshire,FAE_Primary_Obesity,Female,30
+2015/16,LocalAuthority,E10000006,102,Cumbria,FAE_Primary_Obesity,Female,24
+2015/16,LocalAuthority,E10000007,506,Derbyshire,FAE_Primary_Obesity,Female,68
+2015/16,LocalAuthority,E10000008,912,Devon,FAE_Primary_Obesity,Female,96
+2015/16,LocalAuthority,E10000009,809,Dorset,FAE_Primary_Obesity,Female,25
+2015/16,LocalAuthority,E10000011,815,East Sussex,FAE_Primary_Obesity,Female,79
+2015/16,LocalAuthority,E10000012,620,Essex,FAE_Primary_Obesity,Female,94
+2015/16,LocalAuthority,E10000013,904,Gloucestershire,FAE_Primary_Obesity,Female,42
+2015/16,LocalAuthority,E10000014,812,Hampshire,FAE_Primary_Obesity,Female,146
+2015/16,LocalAuthority,E10000015,606,Hertfordshire,FAE_Primary_Obesity,Female,110
+2015/16,LocalAuthority,E10000016,820,Kent,FAE_Primary_Obesity,Female,182
+2015/16,LocalAuthority,E10000017,323,Lancashire,FAE_Primary_Obesity,Female,70
+2015/16,LocalAuthority,E10000018,508,Leicestershire,FAE_Primary_Obesity,Female,18
+2015/16,LocalAuthority,E10000019,503,Lincolnshire,FAE_Primary_Obesity,Female,24
+2015/16,LocalAuthority,E10000020,607,Norfolk,FAE_Primary_Obesity,Female,67
+2015/16,LocalAuthority,E10000021,504,Northamptonshire,FAE_Primary_Obesity,Female,76
+2015/16,LocalAuthority,E10000023,218,North Yorkshire,FAE_Primary_Obesity,Female,63
+2015/16,LocalAuthority,E10000024,511,Nottinghamshire,FAE_Primary_Obesity,Female,33
+2015/16,LocalAuthority,E10000025,608,Oxfordshire,FAE_Primary_Obesity,Female,59
+2015/16,LocalAuthority,E10000027,905,Somerset,FAE_Primary_Obesity,Female,45
+2015/16,LocalAuthority,E10000028,413,Staffordshire,FAE_Primary_Obesity,Female,141
+2015/16,LocalAuthority,E10000029,609,Suffolk,FAE_Primary_Obesity,Female,47
+2015/16,LocalAuthority,E10000030,805,Surrey,FAE_Primary_Obesity,Female,122
+2015/16,LocalAuthority,E10000031,404,Warwickshire,FAE_Primary_Obesity,Female,75
+2015/16,LocalAuthority,E10000032,807,West Sussex,FAE_Primary_Obesity,Female,93
+2015/16,LocalAuthority,E10000034,416,Worcestershire,FAE_Primary_Obesity,Female,81
+2015/16,National,E92000001,,England,FAE_Primary_Obesity,Male,"2,573"
+2015/16,Region,E12000001,A,North East,FAE_Primary_Obesity,Male,401
+2015/16,Region,E12000002,B,North West,FAE_Primary_Obesity,Male,288
+2015/16,Region,E12000003,D,Yorkshire and the Humber,FAE_Primary_Obesity,Male,168
+2015/16,Region,E12000004,E,East Midlands,FAE_Primary_Obesity,Male,94
+2015/16,Region,E12000005,F,West Midlands,FAE_Primary_Obesity,Male,384
+2015/16,Region,E12000006,G,East of England,FAE_Primary_Obesity,Male,197
+2015/16,Region,E12000007,H,London,FAE_Primary_Obesity,Male,511
+2015/16,Region,E12000008,J,South East,FAE_Primary_Obesity,Male,346
+2015/16,Region,E12000009,K,South West,FAE_Primary_Obesity,Male,184
+2015/16,LocalAuthority,E06000001,111,Hartlepool,FAE_Primary_Obesity,Male,8
+2015/16,LocalAuthority,E06000002,112,Middlesbrough,FAE_Primary_Obesity,Male,16
+2015/16,LocalAuthority,E06000003,113,Redcar and Cleveland,FAE_Primary_Obesity,Male,9
+2015/16,LocalAuthority,E06000004,114,Stockton-on-Tees,FAE_Primary_Obesity,Male,27
+2015/16,LocalAuthority,E06000005,117,Darlington,FAE_Primary_Obesity,Male,9
+2015/16,LocalAuthority,E06000006,321,Halton,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E06000007,322,Warrington,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E06000008,324,Blackburn with Darwen,FAE_Primary_Obesity,Male,6
+2015/16,LocalAuthority,E06000009,325,Blackpool,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E06000010,215,"Kingston upon Hull, City of",FAE_Primary_Obesity,Male,16
+2015/16,LocalAuthority,E06000011,214,East Riding of Yorkshire,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E06000012,216,North East Lincolnshire,FAE_Primary_Obesity,Male,6
+2015/16,LocalAuthority,E06000013,217,North Lincolnshire,FAE_Primary_Obesity,Male,11
+2015/16,LocalAuthority,E06000014,219,York,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E06000015,507,Derby,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E06000016,509,Leicester,FAE_Primary_Obesity,Male,10
+2015/16,LocalAuthority,E06000017,510,Rutland                                                                         ,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E06000018,512,Nottingham,FAE_Primary_Obesity,Male,6
+2015/16,LocalAuthority,E06000019,415,"Herefordshire, County of",FAE_Primary_Obesity,Male,11
+2015/16,LocalAuthority,E06000020,418,Telford and Wrekin,FAE_Primary_Obesity,Male,32
+2015/16,LocalAuthority,E06000021,414,Stoke-on-Trent,FAE_Primary_Obesity,Male,47
+2015/16,LocalAuthority,E06000022,908,Bath and North East Somerset,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E06000023,909,"Bristol, City of",FAE_Primary_Obesity,Male,19
+2015/16,LocalAuthority,E06000024,910,North Somerset,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E06000025,911,South Gloucestershire,FAE_Primary_Obesity,Male,8
+2015/16,LocalAuthority,E06000026,913,Plymouth,FAE_Primary_Obesity,Male,13
+2015/16,LocalAuthority,E06000027,914,Torbay,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E06000028,810,Bournemouth,FAE_Primary_Obesity,Male,10
+2015/16,LocalAuthority,E06000029,811,Poole,FAE_Primary_Obesity,Male,7
+2015/16,LocalAuthority,E06000030,819,Swindon,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E06000031,624,Peterborough,FAE_Primary_Obesity,Male,8
+2015/16,LocalAuthority,E06000032,611,Luton,FAE_Primary_Obesity,Male,23
+2015/16,LocalAuthority,E06000033,621,Southend-on-Sea,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E06000034,622,Thurrock,FAE_Primary_Obesity,Male,7
+2015/16,LocalAuthority,E06000035,821,Medway,FAE_Primary_Obesity,Male,28
+2015/16,LocalAuthority,E06000036,614,Bracknell Forest,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E06000037,615,West Berkshire,FAE_Primary_Obesity,Male,8
+2015/16,LocalAuthority,E06000038,616,Reading,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E06000039,617,Slough,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E06000040,618,Windsor and Maidenhead,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E06000041,619,Wokingham,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E06000042,613,Milton Keynes,FAE_Primary_Obesity,Male,7
+2015/16,LocalAuthority,E06000043,816,Brighton and Hove,FAE_Primary_Obesity,Male,13
+2015/16,LocalAuthority,E06000044,813,Portsmouth,FAE_Primary_Obesity,Male,17
+2015/16,LocalAuthority,E06000045,814,Southampton,FAE_Primary_Obesity,Male,12
+2015/16,LocalAuthority,E06000046,803,Isle of Wight,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E06000047,116,County Durham,FAE_Primary_Obesity,Male,118
+2015/16,LocalAuthority,E06000049,326,Cheshire East,FAE_Primary_Obesity,Male,10
+2015/16,LocalAuthority,E06000050,327,Cheshire West and Chester,FAE_Primary_Obesity,Male,13
+2015/16,LocalAuthority,E06000051,417,Shropshire,FAE_Primary_Obesity,Male,21
+2015/16,LocalAuthority,E06000052,902,Cornwall,FAE_Primary_Obesity,Male,32
+2015/16,LocalAuthority,E06000053,906,Isles of Scilly,FAE_Primary_Obesity,Male,0
+2015/16,LocalAuthority,E06000054,817,Wiltshire,FAE_Primary_Obesity,Male,16
+2015/16,LocalAuthority,E06000055,625,Bedford,FAE_Primary_Obesity,Male,7
+2015/16,LocalAuthority,E06000056,626,Central Bedfordshire,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E06000057,104,Northumberland,FAE_Primary_Obesity,Male,16
+2015/16,LocalAuthority,E08000001,304,Bolton,FAE_Primary_Obesity,Male,21
+2015/16,LocalAuthority,E08000002,305,Bury,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E08000003,306,Manchester,FAE_Primary_Obesity,Male,35
+2015/16,LocalAuthority,E08000004,307,Oldham,FAE_Primary_Obesity,Male,10
+2015/16,LocalAuthority,E08000005,308,Rochdale,FAE_Primary_Obesity,Male,10
+2015/16,LocalAuthority,E08000006,309,Salford,FAE_Primary_Obesity,Male,11
+2015/16,LocalAuthority,E08000007,310,Stockport,FAE_Primary_Obesity,Male,8
+2015/16,LocalAuthority,E08000008,311,Tameside,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E08000009,312,Trafford,FAE_Primary_Obesity,Male,8
+2015/16,LocalAuthority,E08000010,313,Wigan,FAE_Primary_Obesity,Male,8
+2015/16,LocalAuthority,E08000011,315,Knowsley,FAE_Primary_Obesity,Male,8
+2015/16,LocalAuthority,E08000012,316,Liverpool,FAE_Primary_Obesity,Male,19
+2015/16,LocalAuthority,E08000013,318,St. Helens,FAE_Primary_Obesity,Male,11
+2015/16,LocalAuthority,E08000014,317,Sefton,FAE_Primary_Obesity,Male,12
+2015/16,LocalAuthority,E08000015,319,Wirral,FAE_Primary_Obesity,Male,14
+2015/16,LocalAuthority,E08000016,204,Barnsley,FAE_Primary_Obesity,Male,6
+2015/16,LocalAuthority,E08000017,205,Doncaster,FAE_Primary_Obesity,Male,8
+2015/16,LocalAuthority,E08000018,206,Rotherham,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E08000019,207,Sheffield,FAE_Primary_Obesity,Male,22
+2015/16,LocalAuthority,E08000021,107,Newcastle upon Tyne,FAE_Primary_Obesity,Male,13
+2015/16,LocalAuthority,E08000022,108,North Tyneside,FAE_Primary_Obesity,Male,26
+2015/16,LocalAuthority,E08000023,109,South Tyneside,FAE_Primary_Obesity,Male,38
+2015/16,LocalAuthority,E08000024,110,Sunderland,FAE_Primary_Obesity,Male,80
+2015/16,LocalAuthority,E08000025,406,Birmingham,FAE_Primary_Obesity,Male,83
+2015/16,LocalAuthority,E08000026,407,Coventry,FAE_Primary_Obesity,Male,13
+2015/16,LocalAuthority,E08000027,408,Dudley,FAE_Primary_Obesity,Male,9
+2015/16,LocalAuthority,E08000028,409,Sandwell,FAE_Primary_Obesity,Male,32
+2015/16,LocalAuthority,E08000029,410,Solihull,FAE_Primary_Obesity,Male,10
+2015/16,LocalAuthority,E08000030,411,Walsall,FAE_Primary_Obesity,Male,14
+2015/16,LocalAuthority,E08000031,412,Wolverhampton,FAE_Primary_Obesity,Male,14
+2015/16,LocalAuthority,E08000032,209,Bradford,FAE_Primary_Obesity,Male,31
+2015/16,LocalAuthority,E08000033,210,Calderdale,FAE_Primary_Obesity,Male,16
+2015/16,LocalAuthority,E08000034,211,Kirklees,FAE_Primary_Obesity,Male,9
+2015/16,LocalAuthority,E08000035,212,Leeds,FAE_Primary_Obesity,Male,8
+2015/16,LocalAuthority,E08000036,213,Wakefield,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E08000037,106,Gateshead,FAE_Primary_Obesity,Male,41
+2015/16,LocalAuthority,E09000001,714,City of London,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E09000002,716,Barking and Dagenham,FAE_Primary_Obesity,Male,9
+2015/16,LocalAuthority,E09000003,717,Barnet,FAE_Primary_Obesity,Male,23
+2015/16,LocalAuthority,E09000004,718,Bexley,FAE_Primary_Obesity,Male,16
+2015/16,LocalAuthority,E09000005,719,Brent,FAE_Primary_Obesity,Male,17
+2015/16,LocalAuthority,E09000006,720,Bromley,FAE_Primary_Obesity,Male,18
+2015/16,LocalAuthority,E09000007,702,Camden,FAE_Primary_Obesity,Male,12
+2015/16,LocalAuthority,E09000008,721,Croydon,FAE_Primary_Obesity,Male,15
+2015/16,LocalAuthority,E09000009,722,Ealing,FAE_Primary_Obesity,Male,27
+2015/16,LocalAuthority,E09000010,723,Enfield,FAE_Primary_Obesity,Male,14
+2015/16,LocalAuthority,E09000011,703,Greenwich,FAE_Primary_Obesity,Male,25
+2015/16,LocalAuthority,E09000012,704,Hackney,FAE_Primary_Obesity,Male,10
+2015/16,LocalAuthority,E09000013,705,Hammersmith and Fulham,FAE_Primary_Obesity,Male,16
+2015/16,LocalAuthority,E09000014,724,Haringey,FAE_Primary_Obesity,Male,17
+2015/16,LocalAuthority,E09000015,725,Harrow,FAE_Primary_Obesity,Male,15
+2015/16,LocalAuthority,E09000016,726,Havering,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E09000017,727,Hillingdon,FAE_Primary_Obesity,Male,25
+2015/16,LocalAuthority,E09000018,728,Hounslow,FAE_Primary_Obesity,Male,14
+2015/16,LocalAuthority,E09000019,706,Islington,FAE_Primary_Obesity,Male,15
+2015/16,LocalAuthority,E09000020,707,Kensington and Chelsea,FAE_Primary_Obesity,Male,10
+2015/16,LocalAuthority,E09000021,729,Kingston upon Thames,FAE_Primary_Obesity,Male,*
+2015/16,LocalAuthority,E09000022,708,Lambeth,FAE_Primary_Obesity,Male,33
+2015/16,LocalAuthority,E09000023,709,Lewisham,FAE_Primary_Obesity,Male,16
+2015/16,LocalAuthority,E09000024,730,Merton,FAE_Primary_Obesity,Male,14
+2015/16,LocalAuthority,E09000025,731,Newham,FAE_Primary_Obesity,Male,13
+2015/16,LocalAuthority,E09000026,732,Redbridge,FAE_Primary_Obesity,Male,8
+2015/16,LocalAuthority,E09000027,733,Richmond upon Thames,FAE_Primary_Obesity,Male,6
+2015/16,LocalAuthority,E09000028,710,Southwark,FAE_Primary_Obesity,Male,32
+2015/16,LocalAuthority,E09000029,734,Sutton,FAE_Primary_Obesity,Male,11
+2015/16,LocalAuthority,E09000030,711,Tower Hamlets,FAE_Primary_Obesity,Male,13
+2015/16,LocalAuthority,E09000031,735,Waltham Forest,FAE_Primary_Obesity,Male,17
+2015/16,LocalAuthority,E09000032,712,Wandsworth,FAE_Primary_Obesity,Male,16
+2015/16,LocalAuthority,E09000033,713,Westminster,FAE_Primary_Obesity,Male,24
+2015/16,LocalAuthority,E10000002,612,Buckinghamshire,FAE_Primary_Obesity,Male,12
+2015/16,LocalAuthority,E10000003,623,Cambridgeshire,FAE_Primary_Obesity,Male,15
+2015/16,LocalAuthority,E10000006,102,Cumbria,FAE_Primary_Obesity,Male,25
+2015/16,LocalAuthority,E10000007,506,Derbyshire,FAE_Primary_Obesity,Male,18
+2015/16,LocalAuthority,E10000008,912,Devon,FAE_Primary_Obesity,Male,22
+2015/16,LocalAuthority,E10000009,809,Dorset,FAE_Primary_Obesity,Male,13
+2015/16,LocalAuthority,E10000011,815,East Sussex,FAE_Primary_Obesity,Male,22
+2015/16,LocalAuthority,E10000012,620,Essex,FAE_Primary_Obesity,Male,35
+2015/16,LocalAuthority,E10000013,904,Gloucestershire,FAE_Primary_Obesity,Male,6
+2015/16,LocalAuthority,E10000014,812,Hampshire,FAE_Primary_Obesity,Male,42
+2015/16,LocalAuthority,E10000015,606,Hertfordshire,FAE_Primary_Obesity,Male,42
+2015/16,LocalAuthority,E10000016,820,Kent,FAE_Primary_Obesity,Male,75
+2015/16,LocalAuthority,E10000017,323,Lancashire,FAE_Primary_Obesity,Male,37
+2015/16,LocalAuthority,E10000018,508,Leicestershire,FAE_Primary_Obesity,Male,14
+2015/16,LocalAuthority,E10000019,503,Lincolnshire,FAE_Primary_Obesity,Male,14
+2015/16,LocalAuthority,E10000020,607,Norfolk,FAE_Primary_Obesity,Male,28
+2015/16,LocalAuthority,E10000021,504,Northamptonshire,FAE_Primary_Obesity,Male,19
+2015/16,LocalAuthority,E10000023,218,North Yorkshire,FAE_Primary_Obesity,Male,23
+2015/16,LocalAuthority,E10000024,511,Nottinghamshire,FAE_Primary_Obesity,Male,10
+2015/16,LocalAuthority,E10000025,608,Oxfordshire,FAE_Primary_Obesity,Male,23
+2015/16,LocalAuthority,E10000027,905,Somerset,FAE_Primary_Obesity,Male,24
+2015/16,LocalAuthority,E10000028,413,Staffordshire,FAE_Primary_Obesity,Male,48
+2015/16,LocalAuthority,E10000029,609,Suffolk,FAE_Primary_Obesity,Male,22
+2015/16,LocalAuthority,E10000030,805,Surrey,FAE_Primary_Obesity,Male,47
+2015/16,LocalAuthority,E10000031,404,Warwickshire,FAE_Primary_Obesity,Male,24
+2015/16,LocalAuthority,E10000032,807,West Sussex,FAE_Primary_Obesity,Male,28
+2015/16,LocalAuthority,E10000034,416,Worcestershire,FAE_Primary_Obesity,Male,26
+2015/16,National,E92000001,,England,FAE_PrimarySecondary_Obesity,All persons,"524,725"
+2015/16,Region,E12000001,A,North East,FAE_PrimarySecondary_Obesity,All persons,"20,188"
+2015/16,Region,E12000002,B,North West,FAE_PrimarySecondary_Obesity,All persons,"78,248"
+2015/16,Region,E12000003,D,Yorkshire and the Humber,FAE_PrimarySecondary_Obesity,All persons,"58,312"
+2015/16,Region,E12000004,E,East Midlands,FAE_PrimarySecondary_Obesity,All persons,"49,582"
+2015/16,Region,E12000005,F,West Midlands,FAE_PrimarySecondary_Obesity,All persons,"76,743"
+2015/16,Region,E12000006,G,East of England,FAE_PrimarySecondary_Obesity,All persons,"49,786"
+2015/16,Region,E12000007,H,London,FAE_PrimarySecondary_Obesity,All persons,"53,267"
+2015/16,Region,E12000008,J,South East,FAE_PrimarySecondary_Obesity,All persons,"71,183"
+2015/16,Region,E12000009,K,South West,FAE_PrimarySecondary_Obesity,All persons,"67,289"
+2015/16,LocalAuthority,E06000001,111,Hartlepool,FAE_PrimarySecondary_Obesity,All persons,554
+2015/16,LocalAuthority,E06000002,112,Middlesbrough,FAE_PrimarySecondary_Obesity,All persons,829
+2015/16,LocalAuthority,E06000003,113,Redcar and Cleveland,FAE_PrimarySecondary_Obesity,All persons,740
+2015/16,LocalAuthority,E06000004,114,Stockton-on-Tees,FAE_PrimarySecondary_Obesity,All persons,"1,030"
+2015/16,LocalAuthority,E06000005,117,Darlington,FAE_PrimarySecondary_Obesity,All persons,649
+2015/16,LocalAuthority,E06000006,321,Halton,FAE_PrimarySecondary_Obesity,All persons,"1,465"
+2015/16,LocalAuthority,E06000007,322,Warrington,FAE_PrimarySecondary_Obesity,All persons,"1,400"
+2015/16,LocalAuthority,E06000008,324,Blackburn with Darwen,FAE_PrimarySecondary_Obesity,All persons,"2,287"
+2015/16,LocalAuthority,E06000009,325,Blackpool,FAE_PrimarySecondary_Obesity,All persons,"1,015"
+2015/16,LocalAuthority,E06000010,215,"Kingston upon Hull, City of",FAE_PrimarySecondary_Obesity,All persons,"1,390"
+2015/16,LocalAuthority,E06000011,214,East Riding of Yorkshire,FAE_PrimarySecondary_Obesity,All persons,"2,433"
+2015/16,LocalAuthority,E06000012,216,North East Lincolnshire,FAE_PrimarySecondary_Obesity,All persons,"2,215"
+2015/16,LocalAuthority,E06000013,217,North Lincolnshire,FAE_PrimarySecondary_Obesity,All persons,"1,047"
+2015/16,LocalAuthority,E06000014,219,York,FAE_PrimarySecondary_Obesity,All persons,"2,709"
+2015/16,LocalAuthority,E06000015,507,Derby,FAE_PrimarySecondary_Obesity,All persons,"3,341"
+2015/16,LocalAuthority,E06000016,509,Leicester,FAE_PrimarySecondary_Obesity,All persons,"2,031"
+2015/16,LocalAuthority,E06000017,510,Rutland                                                                         ,FAE_PrimarySecondary_Obesity,All persons,152
+2015/16,LocalAuthority,E06000018,512,Nottingham,FAE_PrimarySecondary_Obesity,All persons,"5,018"
+2015/16,LocalAuthority,E06000019,415,"Herefordshire, County of",FAE_PrimarySecondary_Obesity,All persons,"1,530"
+2015/16,LocalAuthority,E06000020,418,Telford and Wrekin,FAE_PrimarySecondary_Obesity,All persons,"1,873"
+2015/16,LocalAuthority,E06000021,414,Stoke-on-Trent,FAE_PrimarySecondary_Obesity,All persons,"3,120"
+2015/16,LocalAuthority,E06000022,908,Bath and North East Somerset,FAE_PrimarySecondary_Obesity,All persons,"1,777"
+2015/16,LocalAuthority,E06000023,909,"Bristol, City of",FAE_PrimarySecondary_Obesity,All persons,"7,614"
+2015/16,LocalAuthority,E06000024,910,North Somerset,FAE_PrimarySecondary_Obesity,All persons,"2,548"
+2015/16,LocalAuthority,E06000025,911,South Gloucestershire,FAE_PrimarySecondary_Obesity,All persons,"3,742"
+2015/16,LocalAuthority,E06000026,913,Plymouth,FAE_PrimarySecondary_Obesity,All persons,"2,419"
+2015/16,LocalAuthority,E06000027,914,Torbay,FAE_PrimarySecondary_Obesity,All persons,"2,920"
+2015/16,LocalAuthority,E06000028,810,Bournemouth,FAE_PrimarySecondary_Obesity,All persons,"3,450"
+2015/16,LocalAuthority,E06000029,811,Poole,FAE_PrimarySecondary_Obesity,All persons,"2,163"
+2015/16,LocalAuthority,E06000030,819,Swindon,FAE_PrimarySecondary_Obesity,All persons,"2,521"
+2015/16,LocalAuthority,E06000031,624,Peterborough,FAE_PrimarySecondary_Obesity,All persons,"1,178"
+2015/16,LocalAuthority,E06000032,611,Luton,FAE_PrimarySecondary_Obesity,All persons,"2,081"
+2015/16,LocalAuthority,E06000033,621,Southend-on-Sea,FAE_PrimarySecondary_Obesity,All persons,585
+2015/16,LocalAuthority,E06000034,622,Thurrock,FAE_PrimarySecondary_Obesity,All persons,"1,000"
+2015/16,LocalAuthority,E06000035,821,Medway,FAE_PrimarySecondary_Obesity,All persons,"3,641"
+2015/16,LocalAuthority,E06000036,614,Bracknell Forest,FAE_PrimarySecondary_Obesity,All persons,776
+2015/16,LocalAuthority,E06000037,615,West Berkshire,FAE_PrimarySecondary_Obesity,All persons,660
+2015/16,LocalAuthority,E06000038,616,Reading,FAE_PrimarySecondary_Obesity,All persons,712
+2015/16,LocalAuthority,E06000039,617,Slough,FAE_PrimarySecondary_Obesity,All persons,"2,945"
+2015/16,LocalAuthority,E06000040,618,Windsor and Maidenhead,FAE_PrimarySecondary_Obesity,All persons,"2,040"
+2015/16,LocalAuthority,E06000041,619,Wokingham,FAE_PrimarySecondary_Obesity,All persons,598
+2015/16,LocalAuthority,E06000042,613,Milton Keynes,FAE_PrimarySecondary_Obesity,All persons,"2,108"
+2015/16,LocalAuthority,E06000043,816,Brighton and Hove,FAE_PrimarySecondary_Obesity,All persons,"2,093"
+2015/16,LocalAuthority,E06000044,813,Portsmouth,FAE_PrimarySecondary_Obesity,All persons,"1,725"
+2015/16,LocalAuthority,E06000045,814,Southampton,FAE_PrimarySecondary_Obesity,All persons,"5,667"
+2015/16,LocalAuthority,E06000046,803,Isle of Wight,FAE_PrimarySecondary_Obesity,All persons,"1,941"
+2015/16,LocalAuthority,E06000047,116,County Durham,FAE_PrimarySecondary_Obesity,All persons,"3,373"
+2015/16,LocalAuthority,E06000049,326,Cheshire East,FAE_PrimarySecondary_Obesity,All persons,"2,827"
+2015/16,LocalAuthority,E06000050,327,Cheshire West and Chester,FAE_PrimarySecondary_Obesity,All persons,"4,627"
+2015/16,LocalAuthority,E06000051,417,Shropshire,FAE_PrimarySecondary_Obesity,All persons,"2,675"
+2015/16,LocalAuthority,E06000052,902,Cornwall,FAE_PrimarySecondary_Obesity,All persons,"12,291"
+2015/16,LocalAuthority,E06000053,906,Isles of Scilly,FAE_PrimarySecondary_Obesity,All persons,26
+2015/16,LocalAuthority,E06000054,817,Wiltshire,FAE_PrimarySecondary_Obesity,All persons,"4,982"
+2015/16,LocalAuthority,E06000055,625,Bedford,FAE_PrimarySecondary_Obesity,All persons,894
+2015/16,LocalAuthority,E06000056,626,Central Bedfordshire,FAE_PrimarySecondary_Obesity,All persons,"1,747"
+2015/16,LocalAuthority,E06000057,104,Northumberland,FAE_PrimarySecondary_Obesity,All persons,"4,179"
+2015/16,LocalAuthority,E08000001,304,Bolton,FAE_PrimarySecondary_Obesity,All persons,"2,174"
+2015/16,LocalAuthority,E08000002,305,Bury,FAE_PrimarySecondary_Obesity,All persons,"1,115"
+2015/16,LocalAuthority,E08000003,306,Manchester,FAE_PrimarySecondary_Obesity,All persons,"4,811"
+2015/16,LocalAuthority,E08000004,307,Oldham,FAE_PrimarySecondary_Obesity,All persons,"1,845"
+2015/16,LocalAuthority,E08000005,308,Rochdale,FAE_PrimarySecondary_Obesity,All persons,"1,640"
+2015/16,LocalAuthority,E08000006,309,Salford,FAE_PrimarySecondary_Obesity,All persons,"3,925"
+2015/16,LocalAuthority,E08000007,310,Stockport,FAE_PrimarySecondary_Obesity,All persons,"4,070"
+2015/16,LocalAuthority,E08000008,311,Tameside,FAE_PrimarySecondary_Obesity,All persons,"2,422"
+2015/16,LocalAuthority,E08000009,312,Trafford,FAE_PrimarySecondary_Obesity,All persons,"1,418"
+2015/16,LocalAuthority,E08000010,313,Wigan,FAE_PrimarySecondary_Obesity,All persons,"4,765"
+2015/16,LocalAuthority,E08000011,315,Knowsley,FAE_PrimarySecondary_Obesity,All persons,"1,892"
+2015/16,LocalAuthority,E08000012,316,Liverpool,FAE_PrimarySecondary_Obesity,All persons,"4,042"
+2015/16,LocalAuthority,E08000013,318,St. Helens,FAE_PrimarySecondary_Obesity,All persons,"2,148"
+2015/16,LocalAuthority,E08000014,317,Sefton,FAE_PrimarySecondary_Obesity,All persons,"2,966"
+2015/16,LocalAuthority,E08000015,319,Wirral,FAE_PrimarySecondary_Obesity,All persons,"9,276"
+2015/16,LocalAuthority,E08000016,204,Barnsley,FAE_PrimarySecondary_Obesity,All persons,"1,234"
+2015/16,LocalAuthority,E08000017,205,Doncaster,FAE_PrimarySecondary_Obesity,All persons,"3,052"
+2015/16,LocalAuthority,E08000018,206,Rotherham,FAE_PrimarySecondary_Obesity,All persons,"2,873"
+2015/16,LocalAuthority,E08000019,207,Sheffield,FAE_PrimarySecondary_Obesity,All persons,"4,196"
+2015/16,LocalAuthority,E08000021,107,Newcastle upon Tyne,FAE_PrimarySecondary_Obesity,All persons,"1,937"
+2015/16,LocalAuthority,E08000022,108,North Tyneside,FAE_PrimarySecondary_Obesity,All persons,"2,658"
+2015/16,LocalAuthority,E08000023,109,South Tyneside,FAE_PrimarySecondary_Obesity,All persons,712
+2015/16,LocalAuthority,E08000024,110,Sunderland,FAE_PrimarySecondary_Obesity,All persons,"2,099"
+2015/16,LocalAuthority,E08000025,406,Birmingham,FAE_PrimarySecondary_Obesity,All persons,"12,752"
+2015/16,LocalAuthority,E08000026,407,Coventry,FAE_PrimarySecondary_Obesity,All persons,"5,593"
+2015/16,LocalAuthority,E08000027,408,Dudley,FAE_PrimarySecondary_Obesity,All persons,"4,876"
+2015/16,LocalAuthority,E08000028,409,Sandwell,FAE_PrimarySecondary_Obesity,All persons,"3,132"
+2015/16,LocalAuthority,E08000029,410,Solihull,FAE_PrimarySecondary_Obesity,All persons,"1,939"
+2015/16,LocalAuthority,E08000030,411,Walsall,FAE_PrimarySecondary_Obesity,All persons,"4,763"
+2015/16,LocalAuthority,E08000031,412,Wolverhampton,FAE_PrimarySecondary_Obesity,All persons,"5,041"
+2015/16,LocalAuthority,E08000032,209,Bradford,FAE_PrimarySecondary_Obesity,All persons,"9,112"
+2015/16,LocalAuthority,E08000033,210,Calderdale,FAE_PrimarySecondary_Obesity,All persons,"1,605"
+2015/16,LocalAuthority,E08000034,211,Kirklees,FAE_PrimarySecondary_Obesity,All persons,"4,593"
+2015/16,LocalAuthority,E08000035,212,Leeds,FAE_PrimarySecondary_Obesity,All persons,"7,871"
+2015/16,LocalAuthority,E08000036,213,Wakefield,FAE_PrimarySecondary_Obesity,All persons,"6,816"
+2015/16,LocalAuthority,E08000037,106,Gateshead,FAE_PrimarySecondary_Obesity,All persons,"1,428"
+2015/16,LocalAuthority,E09000001,714,City of London,FAE_PrimarySecondary_Obesity,All persons,26
+2015/16,LocalAuthority,E09000002,716,Barking and Dagenham,FAE_PrimarySecondary_Obesity,All persons,"1,365"
+2015/16,LocalAuthority,E09000003,717,Barnet,FAE_PrimarySecondary_Obesity,All persons,"1,639"
+2015/16,LocalAuthority,E09000004,718,Bexley,FAE_PrimarySecondary_Obesity,All persons,"1,805"
+2015/16,LocalAuthority,E09000005,719,Brent,FAE_PrimarySecondary_Obesity,All persons,"3,299"
+2015/16,LocalAuthority,E09000006,720,Bromley,FAE_PrimarySecondary_Obesity,All persons,"1,517"
+2015/16,LocalAuthority,E09000007,702,Camden,FAE_PrimarySecondary_Obesity,All persons,804
+2015/16,LocalAuthority,E09000008,721,Croydon,FAE_PrimarySecondary_Obesity,All persons,"2,525"
+2015/16,LocalAuthority,E09000009,722,Ealing,FAE_PrimarySecondary_Obesity,All persons,"2,929"
+2015/16,LocalAuthority,E09000010,723,Enfield,FAE_PrimarySecondary_Obesity,All persons,"2,455"
+2015/16,LocalAuthority,E09000011,703,Greenwich,FAE_PrimarySecondary_Obesity,All persons,"1,627"
+2015/16,LocalAuthority,E09000012,704,Hackney,FAE_PrimarySecondary_Obesity,All persons,"2,957"
+2015/16,LocalAuthority,E09000013,705,Hammersmith and Fulham,FAE_PrimarySecondary_Obesity,All persons,959
+2015/16,LocalAuthority,E09000014,724,Haringey,FAE_PrimarySecondary_Obesity,All persons,"2,034"
+2015/16,LocalAuthority,E09000015,725,Harrow,FAE_PrimarySecondary_Obesity,All persons,"2,306"
+2015/16,LocalAuthority,E09000016,726,Havering,FAE_PrimarySecondary_Obesity,All persons,"1,475"
+2015/16,LocalAuthority,E09000017,727,Hillingdon,FAE_PrimarySecondary_Obesity,All persons,"2,697"
+2015/16,LocalAuthority,E09000018,728,Hounslow,FAE_PrimarySecondary_Obesity,All persons,"1,289"
+2015/16,LocalAuthority,E09000019,706,Islington,FAE_PrimarySecondary_Obesity,All persons,"1,590"
+2015/16,LocalAuthority,E09000020,707,Kensington and Chelsea,FAE_PrimarySecondary_Obesity,All persons,504
+2015/16,LocalAuthority,E09000021,729,Kingston upon Thames,FAE_PrimarySecondary_Obesity,All persons,663
+2015/16,LocalAuthority,E09000022,708,Lambeth,FAE_PrimarySecondary_Obesity,All persons,"1,911"
+2015/16,LocalAuthority,E09000023,709,Lewisham,FAE_PrimarySecondary_Obesity,All persons,"1,353"
+2015/16,LocalAuthority,E09000024,730,Merton,FAE_PrimarySecondary_Obesity,All persons,988
+2015/16,LocalAuthority,E09000025,731,Newham,FAE_PrimarySecondary_Obesity,All persons,"2,017"
+2015/16,LocalAuthority,E09000026,732,Redbridge,FAE_PrimarySecondary_Obesity,All persons,"1,472"
+2015/16,LocalAuthority,E09000027,733,Richmond upon Thames,FAE_PrimarySecondary_Obesity,All persons,594
+2015/16,LocalAuthority,E09000028,710,Southwark,FAE_PrimarySecondary_Obesity,All persons,"2,102"
+2015/16,LocalAuthority,E09000029,734,Sutton,FAE_PrimarySecondary_Obesity,All persons,"1,093"
+2015/16,LocalAuthority,E09000030,711,Tower Hamlets,FAE_PrimarySecondary_Obesity,All persons,"1,347"
+2015/16,LocalAuthority,E09000031,735,Waltham Forest,FAE_PrimarySecondary_Obesity,All persons,"1,725"
+2015/16,LocalAuthority,E09000032,712,Wandsworth,FAE_PrimarySecondary_Obesity,All persons,"1,151"
+2015/16,LocalAuthority,E09000033,713,Westminster,FAE_PrimarySecondary_Obesity,All persons,"1,049"
+2015/16,LocalAuthority,E10000002,612,Buckinghamshire,FAE_PrimarySecondary_Obesity,All persons,"4,549"
+2015/16,LocalAuthority,E10000003,623,Cambridgeshire,FAE_PrimarySecondary_Obesity,All persons,"5,486"
+2015/16,LocalAuthority,E10000006,102,Cumbria,FAE_PrimarySecondary_Obesity,All persons,"3,374"
+2015/16,LocalAuthority,E10000007,506,Derbyshire,FAE_PrimarySecondary_Obesity,All persons,"9,576"
+2015/16,LocalAuthority,E10000008,912,Devon,FAE_PrimarySecondary_Obesity,All persons,"7,218"
+2015/16,LocalAuthority,E10000009,809,Dorset,FAE_PrimarySecondary_Obesity,All persons,"4,779"
+2015/16,LocalAuthority,E10000011,815,East Sussex,FAE_PrimarySecondary_Obesity,All persons,"3,223"
+2015/16,LocalAuthority,E10000012,620,Essex,FAE_PrimarySecondary_Obesity,All persons,"8,159"
+2015/16,LocalAuthority,E10000013,904,Gloucestershire,FAE_PrimarySecondary_Obesity,All persons,"3,610"
+2015/16,LocalAuthority,E10000014,812,Hampshire,FAE_PrimarySecondary_Obesity,All persons,"10,251"
+2015/16,LocalAuthority,E10000015,606,Hertfordshire,FAE_PrimarySecondary_Obesity,All persons,"11,866"
+2015/16,LocalAuthority,E10000016,820,Kent,FAE_PrimarySecondary_Obesity,All persons,"10,471"
+2015/16,LocalAuthority,E10000017,323,Lancashire,FAE_PrimarySecondary_Obesity,All persons,"12,744"
+2015/16,LocalAuthority,E10000018,508,Leicestershire,FAE_PrimarySecondary_Obesity,All persons,"4,464"
+2015/16,LocalAuthority,E10000019,503,Lincolnshire,FAE_PrimarySecondary_Obesity,All persons,"7,621"
+2015/16,LocalAuthority,E10000020,607,Norfolk,FAE_PrimarySecondary_Obesity,All persons,"7,349"
+2015/16,LocalAuthority,E10000021,504,Northamptonshire,FAE_PrimarySecondary_Obesity,All persons,"6,501"
+2015/16,LocalAuthority,E10000023,218,North Yorkshire,FAE_PrimarySecondary_Obesity,All persons,"7,166"
+2015/16,LocalAuthority,E10000024,511,Nottinghamshire,FAE_PrimarySecondary_Obesity,All persons,"10,878"
+2015/16,LocalAuthority,E10000025,608,Oxfordshire,FAE_PrimarySecondary_Obesity,All persons,"3,700"
+2015/16,LocalAuthority,E10000027,905,Somerset,FAE_PrimarySecondary_Obesity,All persons,"5,229"
+2015/16,LocalAuthority,E10000028,413,Staffordshire,FAE_PrimarySecondary_Obesity,All persons,"8,816"
+2015/16,LocalAuthority,E10000029,609,Suffolk,FAE_PrimarySecondary_Obesity,All persons,"9,441"
+2015/16,LocalAuthority,E10000030,805,Surrey,FAE_PrimarySecondary_Obesity,All persons,"4,925"
+2015/16,LocalAuthority,E10000031,404,Warwickshire,FAE_PrimarySecondary_Obesity,All persons,"7,646"
+2015/16,LocalAuthority,E10000032,807,West Sussex,FAE_PrimarySecondary_Obesity,All persons,"9,158"
+2015/16,LocalAuthority,E10000034,416,Worcestershire,FAE_PrimarySecondary_Obesity,All persons,"12,987"
+2015/16,National,E92000001,,England,FAE_PrimarySecondary_Obesity,Female,"349,279"
+2015/16,Region,E12000001,A,North East,FAE_PrimarySecondary_Obesity,Female,"13,148"
+2015/16,Region,E12000002,B,North West,FAE_PrimarySecondary_Obesity,Female,"51,435"
+2015/16,Region,E12000003,D,Yorkshire and the Humber,FAE_PrimarySecondary_Obesity,Female,"41,302"
+2015/16,Region,E12000004,E,East Midlands,FAE_PrimarySecondary_Obesity,Female,"34,022"
+2015/16,Region,E12000005,F,West Midlands,FAE_PrimarySecondary_Obesity,Female,"53,784"
+2015/16,Region,E12000006,G,East of England,FAE_PrimarySecondary_Obesity,Female,"31,339"
+2015/16,Region,E12000007,H,London,FAE_PrimarySecondary_Obesity,Female,"35,533"
+2015/16,Region,E12000008,J,South East,FAE_PrimarySecondary_Obesity,Female,"45,161"
+2015/16,Region,E12000009,K,South West,FAE_PrimarySecondary_Obesity,Female,"43,500"
+2015/16,LocalAuthority,E06000001,111,Hartlepool,FAE_PrimarySecondary_Obesity,Female,346
+2015/16,LocalAuthority,E06000002,112,Middlesbrough,FAE_PrimarySecondary_Obesity,Female,531
+2015/16,LocalAuthority,E06000003,113,Redcar and Cleveland,FAE_PrimarySecondary_Obesity,Female,451
+2015/16,LocalAuthority,E06000004,114,Stockton-on-Tees,FAE_PrimarySecondary_Obesity,Female,665
+2015/16,LocalAuthority,E06000005,117,Darlington,FAE_PrimarySecondary_Obesity,Female,375
+2015/16,LocalAuthority,E06000006,321,Halton,FAE_PrimarySecondary_Obesity,Female,932
+2015/16,LocalAuthority,E06000007,322,Warrington,FAE_PrimarySecondary_Obesity,Female,751
+2015/16,LocalAuthority,E06000008,324,Blackburn with Darwen,FAE_PrimarySecondary_Obesity,Female,"1,586"
+2015/16,LocalAuthority,E06000009,325,Blackpool,FAE_PrimarySecondary_Obesity,Female,643
+2015/16,LocalAuthority,E06000010,215,"Kingston upon Hull, City of",FAE_PrimarySecondary_Obesity,Female,"1,034"
+2015/16,LocalAuthority,E06000011,214,East Riding of Yorkshire,FAE_PrimarySecondary_Obesity,Female,"1,611"
+2015/16,LocalAuthority,E06000012,216,North East Lincolnshire,FAE_PrimarySecondary_Obesity,Female,"1,650"
+2015/16,LocalAuthority,E06000013,217,North Lincolnshire,FAE_PrimarySecondary_Obesity,Female,768
+2015/16,LocalAuthority,E06000014,219,York,FAE_PrimarySecondary_Obesity,Female,"1,808"
+2015/16,LocalAuthority,E06000015,507,Derby,FAE_PrimarySecondary_Obesity,Female,"2,889"
+2015/16,LocalAuthority,E06000016,509,Leicester,FAE_PrimarySecondary_Obesity,Female,"1,392"
+2015/16,LocalAuthority,E06000017,510,Rutland                                                                         ,FAE_PrimarySecondary_Obesity,Female,101
+2015/16,LocalAuthority,E06000018,512,Nottingham,FAE_PrimarySecondary_Obesity,Female,"3,535"
+2015/16,LocalAuthority,E06000019,415,"Herefordshire, County of",FAE_PrimarySecondary_Obesity,Female,852
+2015/16,LocalAuthority,E06000020,418,Telford and Wrekin,FAE_PrimarySecondary_Obesity,Female,"1,414"
+2015/16,LocalAuthority,E06000021,414,Stoke-on-Trent,FAE_PrimarySecondary_Obesity,Female,"2,240"
+2015/16,LocalAuthority,E06000022,908,Bath and North East Somerset,FAE_PrimarySecondary_Obesity,Female,"1,131"
+2015/16,LocalAuthority,E06000023,909,"Bristol, City of",FAE_PrimarySecondary_Obesity,Female,"5,242"
+2015/16,LocalAuthority,E06000024,910,North Somerset,FAE_PrimarySecondary_Obesity,Female,"1,701"
+2015/16,LocalAuthority,E06000025,911,South Gloucestershire,FAE_PrimarySecondary_Obesity,Female,"2,538"
+2015/16,LocalAuthority,E06000026,913,Plymouth,FAE_PrimarySecondary_Obesity,Female,"1,471"
+2015/16,LocalAuthority,E06000027,914,Torbay,FAE_PrimarySecondary_Obesity,Female,"1,897"
+2015/16,LocalAuthority,E06000028,810,Bournemouth,FAE_PrimarySecondary_Obesity,Female,"1,976"
+2015/16,LocalAuthority,E06000029,811,Poole,FAE_PrimarySecondary_Obesity,Female,"1,329"
+2015/16,LocalAuthority,E06000030,819,Swindon,FAE_PrimarySecondary_Obesity,Female,"1,616"
+2015/16,LocalAuthority,E06000031,624,Peterborough,FAE_PrimarySecondary_Obesity,Female,797
+2015/16,LocalAuthority,E06000032,611,Luton,FAE_PrimarySecondary_Obesity,Female,"1,502"
+2015/16,LocalAuthority,E06000033,621,Southend-on-Sea,FAE_PrimarySecondary_Obesity,Female,326
+2015/16,LocalAuthority,E06000034,622,Thurrock,FAE_PrimarySecondary_Obesity,Female,572
+2015/16,LocalAuthority,E06000035,821,Medway,FAE_PrimarySecondary_Obesity,Female,"2,474"
+2015/16,LocalAuthority,E06000036,614,Bracknell Forest,FAE_PrimarySecondary_Obesity,Female,456
+2015/16,LocalAuthority,E06000037,615,West Berkshire,FAE_PrimarySecondary_Obesity,Female,403
+2015/16,LocalAuthority,E06000038,616,Reading,FAE_PrimarySecondary_Obesity,Female,482
+2015/16,LocalAuthority,E06000039,617,Slough,FAE_PrimarySecondary_Obesity,Female,"1,895"
+2015/16,LocalAuthority,E06000040,618,Windsor and Maidenhead,FAE_PrimarySecondary_Obesity,Female,"1,200"
+2015/16,LocalAuthority,E06000041,619,Wokingham,FAE_PrimarySecondary_Obesity,Female,354
+2015/16,LocalAuthority,E06000042,613,Milton Keynes,FAE_PrimarySecondary_Obesity,Female,"1,436"
+2015/16,LocalAuthority,E06000043,816,Brighton and Hove,FAE_PrimarySecondary_Obesity,Female,"1,300"
+2015/16,LocalAuthority,E06000044,813,Portsmouth,FAE_PrimarySecondary_Obesity,Female,"1,127"
+2015/16,LocalAuthority,E06000045,814,Southampton,FAE_PrimarySecondary_Obesity,Female,"3,639"
+2015/16,LocalAuthority,E06000046,803,Isle of Wight,FAE_PrimarySecondary_Obesity,Female,"1,162"
+2015/16,LocalAuthority,E06000047,116,County Durham,FAE_PrimarySecondary_Obesity,Female,"2,089"
+2015/16,LocalAuthority,E06000049,326,Cheshire East,FAE_PrimarySecondary_Obesity,Female,"2,077"
+2015/16,LocalAuthority,E06000050,327,Cheshire West and Chester,FAE_PrimarySecondary_Obesity,Female,"3,524"
+2015/16,LocalAuthority,E06000051,417,Shropshire,FAE_PrimarySecondary_Obesity,Female,"1,850"
+2015/16,LocalAuthority,E06000052,902,Cornwall,FAE_PrimarySecondary_Obesity,Female,"8,283"
+2015/16,LocalAuthority,E06000053,906,Isles of Scilly,FAE_PrimarySecondary_Obesity,Female,13
+2015/16,LocalAuthority,E06000054,817,Wiltshire,FAE_PrimarySecondary_Obesity,Female,"3,203"
+2015/16,LocalAuthority,E06000055,625,Bedford,FAE_PrimarySecondary_Obesity,Female,489
+2015/16,LocalAuthority,E06000056,626,Central Bedfordshire,FAE_PrimarySecondary_Obesity,Female,"1,083"
+2015/16,LocalAuthority,E06000057,104,Northumberland,FAE_PrimarySecondary_Obesity,Female,"2,593"
+2015/16,LocalAuthority,E08000001,304,Bolton,FAE_PrimarySecondary_Obesity,Female,"1,268"
+2015/16,LocalAuthority,E08000002,305,Bury,FAE_PrimarySecondary_Obesity,Female,596
+2015/16,LocalAuthority,E08000003,306,Manchester,FAE_PrimarySecondary_Obesity,Female,"3,723"
+2015/16,LocalAuthority,E08000004,307,Oldham,FAE_PrimarySecondary_Obesity,Female,"1,032"
+2015/16,LocalAuthority,E08000005,308,Rochdale,FAE_PrimarySecondary_Obesity,Female,948
+2015/16,LocalAuthority,E08000006,309,Salford,FAE_PrimarySecondary_Obesity,Female,"2,670"
+2015/16,LocalAuthority,E08000007,310,Stockport,FAE_PrimarySecondary_Obesity,Female,"2,634"
+2015/16,LocalAuthority,E08000008,311,Tameside,FAE_PrimarySecondary_Obesity,Female,"1,633"
+2015/16,LocalAuthority,E08000009,312,Trafford,FAE_PrimarySecondary_Obesity,Female,"1,006"
+2015/16,LocalAuthority,E08000010,313,Wigan,FAE_PrimarySecondary_Obesity,Female,"2,969"
+2015/16,LocalAuthority,E08000011,315,Knowsley,FAE_PrimarySecondary_Obesity,Female,"1,228"
+2015/16,LocalAuthority,E08000012,316,Liverpool,FAE_PrimarySecondary_Obesity,Female,"2,617"
+2015/16,LocalAuthority,E08000013,318,St. Helens,FAE_PrimarySecondary_Obesity,Female,"1,315"
+2015/16,LocalAuthority,E08000014,317,Sefton,FAE_PrimarySecondary_Obesity,Female,"1,821"
+2015/16,LocalAuthority,E08000015,319,Wirral,FAE_PrimarySecondary_Obesity,Female,"5,967"
+2015/16,LocalAuthority,E08000016,204,Barnsley,FAE_PrimarySecondary_Obesity,Female,752
+2015/16,LocalAuthority,E08000017,205,Doncaster,FAE_PrimarySecondary_Obesity,Female,"2,501"
+2015/16,LocalAuthority,E08000018,206,Rotherham,FAE_PrimarySecondary_Obesity,Female,"2,070"
+2015/16,LocalAuthority,E08000019,207,Sheffield,FAE_PrimarySecondary_Obesity,Female,"3,178"
+2015/16,LocalAuthority,E08000021,107,Newcastle upon Tyne,FAE_PrimarySecondary_Obesity,Female,"1,418"
+2015/16,LocalAuthority,E08000022,108,North Tyneside,FAE_PrimarySecondary_Obesity,Female,"1,705"
+2015/16,LocalAuthority,E08000023,109,South Tyneside,FAE_PrimarySecondary_Obesity,Female,450
+2015/16,LocalAuthority,E08000024,110,Sunderland,FAE_PrimarySecondary_Obesity,Female,"1,502"
+2015/16,LocalAuthority,E08000025,406,Birmingham,FAE_PrimarySecondary_Obesity,Female,"10,478"
+2015/16,LocalAuthority,E08000026,407,Coventry,FAE_PrimarySecondary_Obesity,Female,"3,882"
+2015/16,LocalAuthority,E08000027,408,Dudley,FAE_PrimarySecondary_Obesity,Female,"3,767"
+2015/16,LocalAuthority,E08000028,409,Sandwell,FAE_PrimarySecondary_Obesity,Female,"2,339"
+2015/16,LocalAuthority,E08000029,410,Solihull,FAE_PrimarySecondary_Obesity,Female,"1,666"
+2015/16,LocalAuthority,E08000030,411,Walsall,FAE_PrimarySecondary_Obesity,Female,"3,194"
+2015/16,LocalAuthority,E08000031,412,Wolverhampton,FAE_PrimarySecondary_Obesity,Female,"3,324"
+2015/16,LocalAuthority,E08000032,209,Bradford,FAE_PrimarySecondary_Obesity,Female,"6,573"
+2015/16,LocalAuthority,E08000033,210,Calderdale,FAE_PrimarySecondary_Obesity,Female,"1,091"
+2015/16,LocalAuthority,E08000034,211,Kirklees,FAE_PrimarySecondary_Obesity,Female,"3,432"
+2015/16,LocalAuthority,E08000035,212,Leeds,FAE_PrimarySecondary_Obesity,Female,"5,492"
+2015/16,LocalAuthority,E08000036,213,Wakefield,FAE_PrimarySecondary_Obesity,Female,"4,871"
+2015/16,LocalAuthority,E08000037,106,Gateshead,FAE_PrimarySecondary_Obesity,Female,"1,023"
+2015/16,LocalAuthority,E09000001,714,City of London,FAE_PrimarySecondary_Obesity,Female,12
+2015/16,LocalAuthority,E09000002,716,Barking and Dagenham,FAE_PrimarySecondary_Obesity,Female,853
+2015/16,LocalAuthority,E09000003,717,Barnet,FAE_PrimarySecondary_Obesity,Female,"1,057"
+2015/16,LocalAuthority,E09000004,718,Bexley,FAE_PrimarySecondary_Obesity,Female,"1,105"
+2015/16,LocalAuthority,E09000005,719,Brent,FAE_PrimarySecondary_Obesity,Female,"2,156"
+2015/16,LocalAuthority,E09000006,720,Bromley,FAE_PrimarySecondary_Obesity,Female,951
+2015/16,LocalAuthority,E09000007,702,Camden,FAE_PrimarySecondary_Obesity,Female,513
+2015/16,LocalAuthority,E09000008,721,Croydon,FAE_PrimarySecondary_Obesity,Female,"1,682"
+2015/16,LocalAuthority,E09000009,722,Ealing,FAE_PrimarySecondary_Obesity,Female,"1,905"
+2015/16,LocalAuthority,E09000010,723,Enfield,FAE_PrimarySecondary_Obesity,Female,"1,564"
+2015/16,LocalAuthority,E09000011,703,Greenwich,FAE_PrimarySecondary_Obesity,Female,"1,098"
+2015/16,LocalAuthority,E09000012,704,Hackney,FAE_PrimarySecondary_Obesity,Female,"2,399"
+2015/16,LocalAuthority,E09000013,705,Hammersmith and Fulham,FAE_PrimarySecondary_Obesity,Female,569
+2015/16,LocalAuthority,E09000014,724,Haringey,FAE_PrimarySecondary_Obesity,Female,"1,430"
+2015/16,LocalAuthority,E09000015,725,Harrow,FAE_PrimarySecondary_Obesity,Female,"1,427"
+2015/16,LocalAuthority,E09000016,726,Havering,FAE_PrimarySecondary_Obesity,Female,824
+2015/16,LocalAuthority,E09000017,727,Hillingdon,FAE_PrimarySecondary_Obesity,Female,"1,969"
+2015/16,LocalAuthority,E09000018,728,Hounslow,FAE_PrimarySecondary_Obesity,Female,846
+2015/16,LocalAuthority,E09000019,706,Islington,FAE_PrimarySecondary_Obesity,Female,"1,101"
+2015/16,LocalAuthority,E09000020,707,Kensington and Chelsea,FAE_PrimarySecondary_Obesity,Female,303
+2015/16,LocalAuthority,E09000021,729,Kingston upon Thames,FAE_PrimarySecondary_Obesity,Female,471
+2015/16,LocalAuthority,E09000022,708,Lambeth,FAE_PrimarySecondary_Obesity,Female,"1,283"
+2015/16,LocalAuthority,E09000023,709,Lewisham,FAE_PrimarySecondary_Obesity,Female,974
+2015/16,LocalAuthority,E09000024,730,Merton,FAE_PrimarySecondary_Obesity,Female,618
+2015/16,LocalAuthority,E09000025,731,Newham,FAE_PrimarySecondary_Obesity,Female,"1,394"
+2015/16,LocalAuthority,E09000026,732,Redbridge,FAE_PrimarySecondary_Obesity,Female,915
+2015/16,LocalAuthority,E09000027,733,Richmond upon Thames,FAE_PrimarySecondary_Obesity,Female,381
+2015/16,LocalAuthority,E09000028,710,Southwark,FAE_PrimarySecondary_Obesity,Female,"1,445"
+2015/16,LocalAuthority,E09000029,734,Sutton,FAE_PrimarySecondary_Obesity,Female,754
+2015/16,LocalAuthority,E09000030,711,Tower Hamlets,FAE_PrimarySecondary_Obesity,Female,915
+2015/16,LocalAuthority,E09000031,735,Waltham Forest,FAE_PrimarySecondary_Obesity,Female,"1,209"
+2015/16,LocalAuthority,E09000032,712,Wandsworth,FAE_PrimarySecondary_Obesity,Female,689
+2015/16,LocalAuthority,E09000033,713,Westminster,FAE_PrimarySecondary_Obesity,Female,721
+2015/16,LocalAuthority,E10000002,612,Buckinghamshire,FAE_PrimarySecondary_Obesity,Female,"2,675"
+2015/16,LocalAuthority,E10000003,623,Cambridgeshire,FAE_PrimarySecondary_Obesity,Female,"3,221"
+2015/16,LocalAuthority,E10000006,102,Cumbria,FAE_PrimarySecondary_Obesity,Female,"2,206"
+2015/16,LocalAuthority,E10000007,506,Derbyshire,FAE_PrimarySecondary_Obesity,Female,"7,014"
+2015/16,LocalAuthority,E10000008,912,Devon,FAE_PrimarySecondary_Obesity,Female,"4,697"
+2015/16,LocalAuthority,E10000009,809,Dorset,FAE_PrimarySecondary_Obesity,Female,"2,796"
+2015/16,LocalAuthority,E10000011,815,East Sussex,FAE_PrimarySecondary_Obesity,Female,"1,991"
+2015/16,LocalAuthority,E10000012,620,Essex,FAE_PrimarySecondary_Obesity,Female,"4,938"
+2015/16,LocalAuthority,E10000013,904,Gloucestershire,FAE_PrimarySecondary_Obesity,Female,"2,121"
+2015/16,LocalAuthority,E10000014,812,Hampshire,FAE_PrimarySecondary_Obesity,Female,"6,432"
+2015/16,LocalAuthority,E10000015,606,Hertfordshire,FAE_PrimarySecondary_Obesity,Female,"7,503"
+2015/16,LocalAuthority,E10000016,820,Kent,FAE_PrimarySecondary_Obesity,Female,"6,337"
+2015/16,LocalAuthority,E10000017,323,Lancashire,FAE_PrimarySecondary_Obesity,Female,"8,289"
+2015/16,LocalAuthority,E10000018,508,Leicestershire,FAE_PrimarySecondary_Obesity,Female,"2,827"
+2015/16,LocalAuthority,E10000019,503,Lincolnshire,FAE_PrimarySecondary_Obesity,Female,"4,962"
+2015/16,LocalAuthority,E10000020,607,Norfolk,FAE_PrimarySecondary_Obesity,Female,"4,796"
+2015/16,LocalAuthority,E10000021,504,Northamptonshire,FAE_PrimarySecondary_Obesity,Female,"4,189"
+2015/16,LocalAuthority,E10000023,218,North Yorkshire,FAE_PrimarySecondary_Obesity,Female,"4,471"
+2015/16,LocalAuthority,E10000024,511,Nottinghamshire,FAE_PrimarySecondary_Obesity,Female,"7,113"
+2015/16,LocalAuthority,E10000025,608,Oxfordshire,FAE_PrimarySecondary_Obesity,Female,"2,542"
+2015/16,LocalAuthority,E10000027,905,Somerset,FAE_PrimarySecondary_Obesity,Female,"3,486"
+2015/16,LocalAuthority,E10000028,413,Staffordshire,FAE_PrimarySecondary_Obesity,Female,"5,752"
+2015/16,LocalAuthority,E10000029,609,Suffolk,FAE_PrimarySecondary_Obesity,Female,"6,112"
+2015/16,LocalAuthority,E10000030,805,Surrey,FAE_PrimarySecondary_Obesity,Female,"3,411"
+2015/16,LocalAuthority,E10000031,404,Warwickshire,FAE_PrimarySecondary_Obesity,Female,"5,110"
+2015/16,LocalAuthority,E10000032,807,West Sussex,FAE_PrimarySecondary_Obesity,Female,"5,845"
+2015/16,LocalAuthority,E10000034,416,Worcestershire,FAE_PrimarySecondary_Obesity,Female,"7,916"
+2015/16,National,E92000001,,England,FAE_PrimarySecondary_Obesity,Male,"175,401"
+2015/16,Region,E12000001,A,North East,FAE_PrimarySecondary_Obesity,Male,"7,039"
+2015/16,Region,E12000002,B,North West,FAE_PrimarySecondary_Obesity,Male,"26,808"
+2015/16,Region,E12000003,D,Yorkshire and the Humber,FAE_PrimarySecondary_Obesity,Male,"17,007"
+2015/16,Region,E12000004,E,East Midlands,FAE_PrimarySecondary_Obesity,Male,"15,557"
+2015/16,Region,E12000005,F,West Midlands,FAE_PrimarySecondary_Obesity,Male,"22,952"
+2015/16,Region,E12000006,G,East of England,FAE_PrimarySecondary_Obesity,Male,"18,441"
+2015/16,Region,E12000007,H,London,FAE_PrimarySecondary_Obesity,Male,"17,720"
+2015/16,Region,E12000008,J,South East,FAE_PrimarySecondary_Obesity,Male,"26,019"
+2015/16,Region,E12000009,K,South West,FAE_PrimarySecondary_Obesity,Male,"23,786"
+2015/16,LocalAuthority,E06000001,111,Hartlepool,FAE_PrimarySecondary_Obesity,Male,208
+2015/16,LocalAuthority,E06000002,112,Middlesbrough,FAE_PrimarySecondary_Obesity,Male,298
+2015/16,LocalAuthority,E06000003,113,Redcar and Cleveland,FAE_PrimarySecondary_Obesity,Male,289
+2015/16,LocalAuthority,E06000004,114,Stockton-on-Tees,FAE_PrimarySecondary_Obesity,Male,365
+2015/16,LocalAuthority,E06000005,117,Darlington,FAE_PrimarySecondary_Obesity,Male,274
+2015/16,LocalAuthority,E06000006,321,Halton,FAE_PrimarySecondary_Obesity,Male,533
+2015/16,LocalAuthority,E06000007,322,Warrington,FAE_PrimarySecondary_Obesity,Male,649
+2015/16,LocalAuthority,E06000008,324,Blackburn with Darwen,FAE_PrimarySecondary_Obesity,Male,701
+2015/16,LocalAuthority,E06000009,325,Blackpool,FAE_PrimarySecondary_Obesity,Male,372
+2015/16,LocalAuthority,E06000010,215,"Kingston upon Hull, City of",FAE_PrimarySecondary_Obesity,Male,356
+2015/16,LocalAuthority,E06000011,214,East Riding of Yorkshire,FAE_PrimarySecondary_Obesity,Male,822
+2015/16,LocalAuthority,E06000012,216,North East Lincolnshire,FAE_PrimarySecondary_Obesity,Male,564
+2015/16,LocalAuthority,E06000013,217,North Lincolnshire,FAE_PrimarySecondary_Obesity,Male,279
+2015/16,LocalAuthority,E06000014,219,York,FAE_PrimarySecondary_Obesity,Male,901
+2015/16,LocalAuthority,E06000015,507,Derby,FAE_PrimarySecondary_Obesity,Male,452
+2015/16,LocalAuthority,E06000016,509,Leicester,FAE_PrimarySecondary_Obesity,Male,639
+2015/16,LocalAuthority,E06000017,510,Rutland                                                                         ,FAE_PrimarySecondary_Obesity,Male,51
+2015/16,LocalAuthority,E06000018,512,Nottingham,FAE_PrimarySecondary_Obesity,Male,"1,483"
+2015/16,LocalAuthority,E06000019,415,"Herefordshire, County of",FAE_PrimarySecondary_Obesity,Male,678
+2015/16,LocalAuthority,E06000020,418,Telford and Wrekin,FAE_PrimarySecondary_Obesity,Male,458
+2015/16,LocalAuthority,E06000021,414,Stoke-on-Trent,FAE_PrimarySecondary_Obesity,Male,880
+2015/16,LocalAuthority,E06000022,908,Bath and North East Somerset,FAE_PrimarySecondary_Obesity,Male,646
+2015/16,LocalAuthority,E06000023,909,"Bristol, City of",FAE_PrimarySecondary_Obesity,Male,"2,372"
+2015/16,LocalAuthority,E06000024,910,North Somerset,FAE_PrimarySecondary_Obesity,Male,847
+2015/16,LocalAuthority,E06000025,911,South Gloucestershire,FAE_PrimarySecondary_Obesity,Male,"1,204"
+2015/16,LocalAuthority,E06000026,913,Plymouth,FAE_PrimarySecondary_Obesity,Male,948
+2015/16,LocalAuthority,E06000027,914,Torbay,FAE_PrimarySecondary_Obesity,Male,"1,021"
+2015/16,LocalAuthority,E06000028,810,Bournemouth,FAE_PrimarySecondary_Obesity,Male,"1,474"
+2015/16,LocalAuthority,E06000029,811,Poole,FAE_PrimarySecondary_Obesity,Male,834
+2015/16,LocalAuthority,E06000030,819,Swindon,FAE_PrimarySecondary_Obesity,Male,905
+2015/16,LocalAuthority,E06000031,624,Peterborough,FAE_PrimarySecondary_Obesity,Male,381
+2015/16,LocalAuthority,E06000032,611,Luton,FAE_PrimarySecondary_Obesity,Male,578
+2015/16,LocalAuthority,E06000033,621,Southend-on-Sea,FAE_PrimarySecondary_Obesity,Male,259
+2015/16,LocalAuthority,E06000034,622,Thurrock,FAE_PrimarySecondary_Obesity,Male,428
+2015/16,LocalAuthority,E06000035,821,Medway,FAE_PrimarySecondary_Obesity,Male,"1,167"
+2015/16,LocalAuthority,E06000036,614,Bracknell Forest,FAE_PrimarySecondary_Obesity,Male,320
+2015/16,LocalAuthority,E06000037,615,West Berkshire,FAE_PrimarySecondary_Obesity,Male,257
+2015/16,LocalAuthority,E06000038,616,Reading,FAE_PrimarySecondary_Obesity,Male,230
+2015/16,LocalAuthority,E06000039,617,Slough,FAE_PrimarySecondary_Obesity,Male,"1,050"
+2015/16,LocalAuthority,E06000040,618,Windsor and Maidenhead,FAE_PrimarySecondary_Obesity,Male,840
+2015/16,LocalAuthority,E06000041,619,Wokingham,FAE_PrimarySecondary_Obesity,Male,244
+2015/16,LocalAuthority,E06000042,613,Milton Keynes,FAE_PrimarySecondary_Obesity,Male,672
+2015/16,LocalAuthority,E06000043,816,Brighton and Hove,FAE_PrimarySecondary_Obesity,Male,793
+2015/16,LocalAuthority,E06000044,813,Portsmouth,FAE_PrimarySecondary_Obesity,Male,598
+2015/16,LocalAuthority,E06000045,814,Southampton,FAE_PrimarySecondary_Obesity,Male,"2,028"
+2015/16,LocalAuthority,E06000046,803,Isle of Wight,FAE_PrimarySecondary_Obesity,Male,779
+2015/16,LocalAuthority,E06000047,116,County Durham,FAE_PrimarySecondary_Obesity,Male,"1,283"
+2015/16,LocalAuthority,E06000049,326,Cheshire East,FAE_PrimarySecondary_Obesity,Male,750
+2015/16,LocalAuthority,E06000050,327,Cheshire West and Chester,FAE_PrimarySecondary_Obesity,Male,"1,103"
+2015/16,LocalAuthority,E06000051,417,Shropshire,FAE_PrimarySecondary_Obesity,Male,824
+2015/16,LocalAuthority,E06000052,902,Cornwall,FAE_PrimarySecondary_Obesity,Male,"4,008"
+2015/16,LocalAuthority,E06000053,906,Isles of Scilly,FAE_PrimarySecondary_Obesity,Male,13
+2015/16,LocalAuthority,E06000054,817,Wiltshire,FAE_PrimarySecondary_Obesity,Male,"1,779"
+2015/16,LocalAuthority,E06000055,625,Bedford,FAE_PrimarySecondary_Obesity,Male,405
+2015/16,LocalAuthority,E06000056,626,Central Bedfordshire,FAE_PrimarySecondary_Obesity,Male,664
+2015/16,LocalAuthority,E06000057,104,Northumberland,FAE_PrimarySecondary_Obesity,Male,"1,586"
+2015/16,LocalAuthority,E08000001,304,Bolton,FAE_PrimarySecondary_Obesity,Male,906
+2015/16,LocalAuthority,E08000002,305,Bury,FAE_PrimarySecondary_Obesity,Male,519
+2015/16,LocalAuthority,E08000003,306,Manchester,FAE_PrimarySecondary_Obesity,Male,"1,088"
+2015/16,LocalAuthority,E08000004,307,Oldham,FAE_PrimarySecondary_Obesity,Male,813
+2015/16,LocalAuthority,E08000005,308,Rochdale,FAE_PrimarySecondary_Obesity,Male,690
+2015/16,LocalAuthority,E08000006,309,Salford,FAE_PrimarySecondary_Obesity,Male,"1,255"
+2015/16,LocalAuthority,E08000007,310,Stockport,FAE_PrimarySecondary_Obesity,Male,"1,436"
+2015/16,LocalAuthority,E08000008,311,Tameside,FAE_PrimarySecondary_Obesity,Male,789
+2015/16,LocalAuthority,E08000009,312,Trafford,FAE_PrimarySecondary_Obesity,Male,412
+2015/16,LocalAuthority,E08000010,313,Wigan,FAE_PrimarySecondary_Obesity,Male,"1,796"
+2015/16,LocalAuthority,E08000011,315,Knowsley,FAE_PrimarySecondary_Obesity,Male,664
+2015/16,LocalAuthority,E08000012,316,Liverpool,FAE_PrimarySecondary_Obesity,Male,"1,425"
+2015/16,LocalAuthority,E08000013,318,St. Helens,FAE_PrimarySecondary_Obesity,Male,833
+2015/16,LocalAuthority,E08000014,317,Sefton,FAE_PrimarySecondary_Obesity,Male,"1,145"
+2015/16,LocalAuthority,E08000015,319,Wirral,FAE_PrimarySecondary_Obesity,Male,"3,309"
+2015/16,LocalAuthority,E08000016,204,Barnsley,FAE_PrimarySecondary_Obesity,Male,482
+2015/16,LocalAuthority,E08000017,205,Doncaster,FAE_PrimarySecondary_Obesity,Male,550
+2015/16,LocalAuthority,E08000018,206,Rotherham,FAE_PrimarySecondary_Obesity,Male,803
+2015/16,LocalAuthority,E08000019,207,Sheffield,FAE_PrimarySecondary_Obesity,Male,"1,018"
+2015/16,LocalAuthority,E08000021,107,Newcastle upon Tyne,FAE_PrimarySecondary_Obesity,Male,519
+2015/16,LocalAuthority,E08000022,108,North Tyneside,FAE_PrimarySecondary_Obesity,Male,953
+2015/16,LocalAuthority,E08000023,109,South Tyneside,FAE_PrimarySecondary_Obesity,Male,262
+2015/16,LocalAuthority,E08000024,110,Sunderland,FAE_PrimarySecondary_Obesity,Male,597
+2015/16,LocalAuthority,E08000025,406,Birmingham,FAE_PrimarySecondary_Obesity,Male,"2,271"
+2015/16,LocalAuthority,E08000026,407,Coventry,FAE_PrimarySecondary_Obesity,Male,"1,711"
+2015/16,LocalAuthority,E08000027,408,Dudley,FAE_PrimarySecondary_Obesity,Male,"1,109"
+2015/16,LocalAuthority,E08000028,409,Sandwell,FAE_PrimarySecondary_Obesity,Male,793
+2015/16,LocalAuthority,E08000029,410,Solihull,FAE_PrimarySecondary_Obesity,Male,273
+2015/16,LocalAuthority,E08000030,411,Walsall,FAE_PrimarySecondary_Obesity,Male,"1,569"
+2015/16,LocalAuthority,E08000031,412,Wolverhampton,FAE_PrimarySecondary_Obesity,Male,"1,716"
+2015/16,LocalAuthority,E08000032,209,Bradford,FAE_PrimarySecondary_Obesity,Male,"2,539"
+2015/16,LocalAuthority,E08000033,210,Calderdale,FAE_PrimarySecondary_Obesity,Male,514
+2015/16,LocalAuthority,E08000034,211,Kirklees,FAE_PrimarySecondary_Obesity,Male,"1,161"
+2015/16,LocalAuthority,E08000035,212,Leeds,FAE_PrimarySecondary_Obesity,Male,"2,379"
+2015/16,LocalAuthority,E08000036,213,Wakefield,FAE_PrimarySecondary_Obesity,Male,"1,945"
+2015/16,LocalAuthority,E08000037,106,Gateshead,FAE_PrimarySecondary_Obesity,Male,405
+2015/16,LocalAuthority,E09000001,714,City of London,FAE_PrimarySecondary_Obesity,Male,14
+2015/16,LocalAuthority,E09000002,716,Barking and Dagenham,FAE_PrimarySecondary_Obesity,Male,512
+2015/16,LocalAuthority,E09000003,717,Barnet,FAE_PrimarySecondary_Obesity,Male,581
+2015/16,LocalAuthority,E09000004,718,Bexley,FAE_PrimarySecondary_Obesity,Male,698
+2015/16,LocalAuthority,E09000005,719,Brent,FAE_PrimarySecondary_Obesity,Male,"1,142"
+2015/16,LocalAuthority,E09000006,720,Bromley,FAE_PrimarySecondary_Obesity,Male,566
+2015/16,LocalAuthority,E09000007,702,Camden,FAE_PrimarySecondary_Obesity,Male,291
+2015/16,LocalAuthority,E09000008,721,Croydon,FAE_PrimarySecondary_Obesity,Male,843
+2015/16,LocalAuthority,E09000009,722,Ealing,FAE_PrimarySecondary_Obesity,Male,"1,024"
+2015/16,LocalAuthority,E09000010,723,Enfield,FAE_PrimarySecondary_Obesity,Male,885
+2015/16,LocalAuthority,E09000011,703,Greenwich,FAE_PrimarySecondary_Obesity,Male,529
+2015/16,LocalAuthority,E09000012,704,Hackney,FAE_PrimarySecondary_Obesity,Male,558
+2015/16,LocalAuthority,E09000013,705,Hammersmith and Fulham,FAE_PrimarySecondary_Obesity,Male,390
+2015/16,LocalAuthority,E09000014,724,Haringey,FAE_PrimarySecondary_Obesity,Male,604
+2015/16,LocalAuthority,E09000015,725,Harrow,FAE_PrimarySecondary_Obesity,Male,879
+2015/16,LocalAuthority,E09000016,726,Havering,FAE_PrimarySecondary_Obesity,Male,651
+2015/16,LocalAuthority,E09000017,727,Hillingdon,FAE_PrimarySecondary_Obesity,Male,727
+2015/16,LocalAuthority,E09000018,728,Hounslow,FAE_PrimarySecondary_Obesity,Male,443
+2015/16,LocalAuthority,E09000019,706,Islington,FAE_PrimarySecondary_Obesity,Male,489
+2015/16,LocalAuthority,E09000020,707,Kensington and Chelsea,FAE_PrimarySecondary_Obesity,Male,201
+2015/16,LocalAuthority,E09000021,729,Kingston upon Thames,FAE_PrimarySecondary_Obesity,Male,192
+2015/16,LocalAuthority,E09000022,708,Lambeth,FAE_PrimarySecondary_Obesity,Male,628
+2015/16,LocalAuthority,E09000023,709,Lewisham,FAE_PrimarySecondary_Obesity,Male,379
+2015/16,LocalAuthority,E09000024,730,Merton,FAE_PrimarySecondary_Obesity,Male,370
+2015/16,LocalAuthority,E09000025,731,Newham,FAE_PrimarySecondary_Obesity,Male,623
+2015/16,LocalAuthority,E09000026,732,Redbridge,FAE_PrimarySecondary_Obesity,Male,556
+2015/16,LocalAuthority,E09000027,733,Richmond upon Thames,FAE_PrimarySecondary_Obesity,Male,213
+2015/16,LocalAuthority,E09000028,710,Southwark,FAE_PrimarySecondary_Obesity,Male,657
+2015/16,LocalAuthority,E09000029,734,Sutton,FAE_PrimarySecondary_Obesity,Male,339
+2015/16,LocalAuthority,E09000030,711,Tower Hamlets,FAE_PrimarySecondary_Obesity,Male,430
+2015/16,LocalAuthority,E09000031,735,Waltham Forest,FAE_PrimarySecondary_Obesity,Male,516
+2015/16,LocalAuthority,E09000032,712,Wandsworth,FAE_PrimarySecondary_Obesity,Male,462
+2015/16,LocalAuthority,E09000033,713,Westminster,FAE_PrimarySecondary_Obesity,Male,328
+2015/16,LocalAuthority,E10000002,612,Buckinghamshire,FAE_PrimarySecondary_Obesity,Male,"1,873"
+2015/16,LocalAuthority,E10000003,623,Cambridgeshire,FAE_PrimarySecondary_Obesity,Male,"2,265"
+2015/16,LocalAuthority,E10000006,102,Cumbria,FAE_PrimarySecondary_Obesity,Male,"1,168"
+2015/16,LocalAuthority,E10000007,506,Derbyshire,FAE_PrimarySecondary_Obesity,Male,"2,562"
+2015/16,LocalAuthority,E10000008,912,Devon,FAE_PrimarySecondary_Obesity,Male,"2,521"
+2015/16,LocalAuthority,E10000009,809,Dorset,FAE_PrimarySecondary_Obesity,Male,"1,983"
+2015/16,LocalAuthority,E10000011,815,East Sussex,FAE_PrimarySecondary_Obesity,Male,"1,232"
+2015/16,LocalAuthority,E10000012,620,Essex,FAE_PrimarySecondary_Obesity,Male,"3,221"
+2015/16,LocalAuthority,E10000013,904,Gloucestershire,FAE_PrimarySecondary_Obesity,Male,"1,489"
+2015/16,LocalAuthority,E10000014,812,Hampshire,FAE_PrimarySecondary_Obesity,Male,"3,819"
+2015/16,LocalAuthority,E10000015,606,Hertfordshire,FAE_PrimarySecondary_Obesity,Male,"4,359"
+2015/16,LocalAuthority,E10000016,820,Kent,FAE_PrimarySecondary_Obesity,Male,"4,134"
+2015/16,LocalAuthority,E10000017,323,Lancashire,FAE_PrimarySecondary_Obesity,Male,"4,452"
+2015/16,LocalAuthority,E10000018,508,Leicestershire,FAE_PrimarySecondary_Obesity,Male,"1,637"
+2015/16,LocalAuthority,E10000019,503,Lincolnshire,FAE_PrimarySecondary_Obesity,Male,"2,659"
+2015/16,LocalAuthority,E10000020,607,Norfolk,FAE_PrimarySecondary_Obesity,Male,"2,552"
+2015/16,LocalAuthority,E10000021,504,Northamptonshire,FAE_PrimarySecondary_Obesity,Male,"2,312"
+2015/16,LocalAuthority,E10000023,218,North Yorkshire,FAE_PrimarySecondary_Obesity,Male,"2,694"
+2015/16,LocalAuthority,E10000024,511,Nottinghamshire,FAE_PrimarySecondary_Obesity,Male,"3,762"
+2015/16,LocalAuthority,E10000025,608,Oxfordshire,FAE_PrimarySecondary_Obesity,Male,"1,158"
+2015/16,LocalAuthority,E10000027,905,Somerset,FAE_PrimarySecondary_Obesity,Male,"1,742"
+2015/16,LocalAuthority,E10000028,413,Staffordshire,FAE_PrimarySecondary_Obesity,Male,"3,063"
+2015/16,LocalAuthority,E10000029,609,Suffolk,FAE_PrimarySecondary_Obesity,Male,"3,329"
+2015/16,LocalAuthority,E10000030,805,Surrey,FAE_PrimarySecondary_Obesity,Male,"1,512"
+2015/16,LocalAuthority,E10000031,404,Warwickshire,FAE_PrimarySecondary_Obesity,Male,"2,536"
+2015/16,LocalAuthority,E10000032,807,West Sussex,FAE_PrimarySecondary_Obesity,Male,"3,313"
+2015/16,LocalAuthority,E10000034,416,Worcestershire,FAE_PrimarySecondary_Obesity,Male,"5,071"
+2015/16,National,E92000001,,England,FCE_PrimarySecondary_Obesity_Bariatric,All persons,"6,438"
+2015/16,Region,E12000001,A,North East,FCE_PrimarySecondary_Obesity_Bariatric,All persons,791
+2015/16,Region,E12000002,B,North West,FCE_PrimarySecondary_Obesity_Bariatric,All persons,461
+2015/16,Region,E12000003,D,Yorkshire and the Humber,FCE_PrimarySecondary_Obesity_Bariatric,All persons,419
+2015/16,Region,E12000004,E,East Midlands,FCE_PrimarySecondary_Obesity_Bariatric,All persons,245
+2015/16,Region,E12000005,F,West Midlands,FCE_PrimarySecondary_Obesity_Bariatric,All persons,"1,145"
+2015/16,Region,E12000006,G,East of England,FCE_PrimarySecondary_Obesity_Bariatric,All persons,393
+2015/16,Region,E12000007,H,London,FCE_PrimarySecondary_Obesity_Bariatric,All persons,"1,400"
+2015/16,Region,E12000008,J,South East,FCE_PrimarySecondary_Obesity_Bariatric,All persons,"1,083"
+2015/16,Region,E12000009,K,South West,FCE_PrimarySecondary_Obesity_Bariatric,All persons,501
+2015/16,LocalAuthority,E06000001,111,Hartlepool,FCE_PrimarySecondary_Obesity_Bariatric,All persons,28
+2015/16,LocalAuthority,E06000002,112,Middlesbrough,FCE_PrimarySecondary_Obesity_Bariatric,All persons,54
+2015/16,LocalAuthority,E06000003,113,Redcar and Cleveland,FCE_PrimarySecondary_Obesity_Bariatric,All persons,46
+2015/16,LocalAuthority,E06000004,114,Stockton-on-Tees,FCE_PrimarySecondary_Obesity_Bariatric,All persons,78
+2015/16,LocalAuthority,E06000005,117,Darlington,FCE_PrimarySecondary_Obesity_Bariatric,All persons,26
+2015/16,LocalAuthority,E06000006,321,Halton,FCE_PrimarySecondary_Obesity_Bariatric,All persons,9
+2015/16,LocalAuthority,E06000007,322,Warrington,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2015/16,LocalAuthority,E06000008,324,Blackburn with Darwen,FCE_PrimarySecondary_Obesity_Bariatric,All persons,9
+2015/16,LocalAuthority,E06000009,325,Blackpool,FCE_PrimarySecondary_Obesity_Bariatric,All persons,9
+2015/16,LocalAuthority,E06000010,215,"Kingston upon Hull, City of",FCE_PrimarySecondary_Obesity_Bariatric,All persons,26
+2015/16,LocalAuthority,E06000011,214,East Riding of Yorkshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,20
+2015/16,LocalAuthority,E06000012,216,North East Lincolnshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,16
+2015/16,LocalAuthority,E06000013,217,North Lincolnshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,22
+2015/16,LocalAuthority,E06000014,219,York,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2015/16,LocalAuthority,E06000015,507,Derby,FCE_PrimarySecondary_Obesity_Bariatric,All persons,14
+2015/16,LocalAuthority,E06000016,509,Leicester,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2015/16,LocalAuthority,E06000017,510,Rutland                                                                         ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2015/16,LocalAuthority,E06000018,512,Nottingham,FCE_PrimarySecondary_Obesity_Bariatric,All persons,12
+2015/16,LocalAuthority,E06000019,415,"Herefordshire, County of",FCE_PrimarySecondary_Obesity_Bariatric,All persons,23
+2015/16,LocalAuthority,E06000020,418,Telford and Wrekin,FCE_PrimarySecondary_Obesity_Bariatric,All persons,103
+2015/16,LocalAuthority,E06000021,414,Stoke-on-Trent,FCE_PrimarySecondary_Obesity_Bariatric,All persons,122
+2015/16,LocalAuthority,E06000022,908,Bath and North East Somerset,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2015/16,LocalAuthority,E06000023,909,"Bristol, City of",FCE_PrimarySecondary_Obesity_Bariatric,All persons,33
+2015/16,LocalAuthority,E06000024,910,North Somerset,FCE_PrimarySecondary_Obesity_Bariatric,All persons,14
+2015/16,LocalAuthority,E06000025,911,South Gloucestershire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,27
+2015/16,LocalAuthority,E06000026,913,Plymouth,FCE_PrimarySecondary_Obesity_Bariatric,All persons,39
+2015/16,LocalAuthority,E06000027,914,Torbay,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2015/16,LocalAuthority,E06000028,810,Bournemouth,FCE_PrimarySecondary_Obesity_Bariatric,All persons,14
+2015/16,LocalAuthority,E06000029,811,Poole,FCE_PrimarySecondary_Obesity_Bariatric,All persons,14
+2015/16,LocalAuthority,E06000030,819,Swindon,FCE_PrimarySecondary_Obesity_Bariatric,All persons,20
+2015/16,LocalAuthority,E06000031,624,Peterborough,FCE_PrimarySecondary_Obesity_Bariatric,All persons,10
+2015/16,LocalAuthority,E06000032,611,Luton,FCE_PrimarySecondary_Obesity_Bariatric,All persons,28
+2015/16,LocalAuthority,E06000033,621,Southend-on-Sea,FCE_PrimarySecondary_Obesity_Bariatric,All persons,18
+2015/16,LocalAuthority,E06000034,622,Thurrock,FCE_PrimarySecondary_Obesity_Bariatric,All persons,19
+2015/16,LocalAuthority,E06000035,821,Medway,FCE_PrimarySecondary_Obesity_Bariatric,All persons,70
+2015/16,LocalAuthority,E06000036,614,Bracknell Forest,FCE_PrimarySecondary_Obesity_Bariatric,All persons,18
+2015/16,LocalAuthority,E06000037,615,West Berkshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,22
+2015/16,LocalAuthority,E06000038,616,Reading,FCE_PrimarySecondary_Obesity_Bariatric,All persons,19
+2015/16,LocalAuthority,E06000039,617,Slough,FCE_PrimarySecondary_Obesity_Bariatric,All persons,13
+2015/16,LocalAuthority,E06000040,618,Windsor and Maidenhead,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2015/16,LocalAuthority,E06000041,619,Wokingham,FCE_PrimarySecondary_Obesity_Bariatric,All persons,14
+2015/16,LocalAuthority,E06000042,613,Milton Keynes,FCE_PrimarySecondary_Obesity_Bariatric,All persons,25
+2015/16,LocalAuthority,E06000043,816,Brighton and Hove,FCE_PrimarySecondary_Obesity_Bariatric,All persons,42
+2015/16,LocalAuthority,E06000044,813,Portsmouth,FCE_PrimarySecondary_Obesity_Bariatric,All persons,79
+2015/16,LocalAuthority,E06000045,814,Southampton,FCE_PrimarySecondary_Obesity_Bariatric,All persons,36
+2015/16,LocalAuthority,E06000046,803,Isle of Wight,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2015/16,LocalAuthority,E06000047,116,County Durham,FCE_PrimarySecondary_Obesity_Bariatric,All persons,219
+2015/16,LocalAuthority,E06000049,326,Cheshire East,FCE_PrimarySecondary_Obesity_Bariatric,All persons,28
+2015/16,LocalAuthority,E06000050,327,Cheshire West and Chester,FCE_PrimarySecondary_Obesity_Bariatric,All persons,31
+2015/16,LocalAuthority,E06000051,417,Shropshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,59
+2015/16,LocalAuthority,E06000052,902,Cornwall,FCE_PrimarySecondary_Obesity_Bariatric,All persons,82
+2015/16,LocalAuthority,E06000053,906,Isles of Scilly,FCE_PrimarySecondary_Obesity_Bariatric,All persons,0
+2015/16,LocalAuthority,E06000054,817,Wiltshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,35
+2015/16,LocalAuthority,E06000055,625,Bedford,FCE_PrimarySecondary_Obesity_Bariatric,All persons,18
+2015/16,LocalAuthority,E06000056,626,Central Bedfordshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,24
+2015/16,LocalAuthority,E06000057,104,Northumberland,FCE_PrimarySecondary_Obesity_Bariatric,All persons,49
+2015/16,LocalAuthority,E08000001,304,Bolton,FCE_PrimarySecondary_Obesity_Bariatric,All persons,26
+2015/16,LocalAuthority,E08000002,305,Bury,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2015/16,LocalAuthority,E08000003,306,Manchester,FCE_PrimarySecondary_Obesity_Bariatric,All persons,19
+2015/16,LocalAuthority,E08000004,307,Oldham,FCE_PrimarySecondary_Obesity_Bariatric,All persons,9
+2015/16,LocalAuthority,E08000005,308,Rochdale,FCE_PrimarySecondary_Obesity_Bariatric,All persons,22
+2015/16,LocalAuthority,E08000006,309,Salford,FCE_PrimarySecondary_Obesity_Bariatric,All persons,9
+2015/16,LocalAuthority,E08000007,310,Stockport,FCE_PrimarySecondary_Obesity_Bariatric,All persons,12
+2015/16,LocalAuthority,E08000008,311,Tameside,FCE_PrimarySecondary_Obesity_Bariatric,All persons,6
+2015/16,LocalAuthority,E08000009,312,Trafford,FCE_PrimarySecondary_Obesity_Bariatric,All persons,6
+2015/16,LocalAuthority,E08000010,313,Wigan,FCE_PrimarySecondary_Obesity_Bariatric,All persons,30
+2015/16,LocalAuthority,E08000011,315,Knowsley,FCE_PrimarySecondary_Obesity_Bariatric,All persons,27
+2015/16,LocalAuthority,E08000012,316,Liverpool,FCE_PrimarySecondary_Obesity_Bariatric,All persons,58
+2015/16,LocalAuthority,E08000013,318,St. Helens,FCE_PrimarySecondary_Obesity_Bariatric,All persons,9
+2015/16,LocalAuthority,E08000014,317,Sefton,FCE_PrimarySecondary_Obesity_Bariatric,All persons,28
+2015/16,LocalAuthority,E08000015,319,Wirral,FCE_PrimarySecondary_Obesity_Bariatric,All persons,40
+2015/16,LocalAuthority,E08000016,204,Barnsley,FCE_PrimarySecondary_Obesity_Bariatric,All persons,26
+2015/16,LocalAuthority,E08000017,205,Doncaster,FCE_PrimarySecondary_Obesity_Bariatric,All persons,32
+2015/16,LocalAuthority,E08000018,206,Rotherham,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2015/16,LocalAuthority,E08000019,207,Sheffield,FCE_PrimarySecondary_Obesity_Bariatric,All persons,74
+2015/16,LocalAuthority,E08000021,107,Newcastle upon Tyne,FCE_PrimarySecondary_Obesity_Bariatric,All persons,28
+2015/16,LocalAuthority,E08000022,108,North Tyneside,FCE_PrimarySecondary_Obesity_Bariatric,All persons,32
+2015/16,LocalAuthority,E08000023,109,South Tyneside,FCE_PrimarySecondary_Obesity_Bariatric,All persons,59
+2015/16,LocalAuthority,E08000024,110,Sunderland,FCE_PrimarySecondary_Obesity_Bariatric,All persons,117
+2015/16,LocalAuthority,E08000025,406,Birmingham,FCE_PrimarySecondary_Obesity_Bariatric,All persons,222
+2015/16,LocalAuthority,E08000026,407,Coventry,FCE_PrimarySecondary_Obesity_Bariatric,All persons,49
+2015/16,LocalAuthority,E08000027,408,Dudley,FCE_PrimarySecondary_Obesity_Bariatric,All persons,28
+2015/16,LocalAuthority,E08000028,409,Sandwell,FCE_PrimarySecondary_Obesity_Bariatric,All persons,86
+2015/16,LocalAuthority,E08000029,410,Solihull,FCE_PrimarySecondary_Obesity_Bariatric,All persons,53
+2015/16,LocalAuthority,E08000030,411,Walsall,FCE_PrimarySecondary_Obesity_Bariatric,All persons,33
+2015/16,LocalAuthority,E08000031,412,Wolverhampton,FCE_PrimarySecondary_Obesity_Bariatric,All persons,31
+2015/16,LocalAuthority,E08000032,209,Bradford,FCE_PrimarySecondary_Obesity_Bariatric,All persons,53
+2015/16,LocalAuthority,E08000033,210,Calderdale,FCE_PrimarySecondary_Obesity_Bariatric,All persons,23
+2015/16,LocalAuthority,E08000034,211,Kirklees,FCE_PrimarySecondary_Obesity_Bariatric,All persons,20
+2015/16,LocalAuthority,E08000035,212,Leeds,FCE_PrimarySecondary_Obesity_Bariatric,All persons,20
+2015/16,LocalAuthority,E08000036,213,Wakefield,FCE_PrimarySecondary_Obesity_Bariatric,All persons,25
+2015/16,LocalAuthority,E08000037,106,Gateshead,FCE_PrimarySecondary_Obesity_Bariatric,All persons,55
+2015/16,LocalAuthority,E09000001,714,City of London,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2015/16,LocalAuthority,E09000002,716,Barking and Dagenham,FCE_PrimarySecondary_Obesity_Bariatric,All persons,25
+2015/16,LocalAuthority,E09000003,717,Barnet,FCE_PrimarySecondary_Obesity_Bariatric,All persons,61
+2015/16,LocalAuthority,E09000004,718,Bexley,FCE_PrimarySecondary_Obesity_Bariatric,All persons,51
+2015/16,LocalAuthority,E09000005,719,Brent,FCE_PrimarySecondary_Obesity_Bariatric,All persons,70
+2015/16,LocalAuthority,E09000006,720,Bromley,FCE_PrimarySecondary_Obesity_Bariatric,All persons,39
+2015/16,LocalAuthority,E09000007,702,Camden,FCE_PrimarySecondary_Obesity_Bariatric,All persons,41
+2015/16,LocalAuthority,E09000008,721,Croydon,FCE_PrimarySecondary_Obesity_Bariatric,All persons,52
+2015/16,LocalAuthority,E09000009,722,Ealing,FCE_PrimarySecondary_Obesity_Bariatric,All persons,77
+2015/16,LocalAuthority,E09000010,723,Enfield,FCE_PrimarySecondary_Obesity_Bariatric,All persons,46
+2015/16,LocalAuthority,E09000011,703,Greenwich,FCE_PrimarySecondary_Obesity_Bariatric,All persons,66
+2015/16,LocalAuthority,E09000012,704,Hackney,FCE_PrimarySecondary_Obesity_Bariatric,All persons,35
+2015/16,LocalAuthority,E09000013,705,Hammersmith and Fulham,FCE_PrimarySecondary_Obesity_Bariatric,All persons,42
+2015/16,LocalAuthority,E09000014,724,Haringey,FCE_PrimarySecondary_Obesity_Bariatric,All persons,36
+2015/16,LocalAuthority,E09000015,725,Harrow,FCE_PrimarySecondary_Obesity_Bariatric,All persons,33
+2015/16,LocalAuthority,E09000016,726,Havering,FCE_PrimarySecondary_Obesity_Bariatric,All persons,28
+2015/16,LocalAuthority,E09000017,727,Hillingdon,FCE_PrimarySecondary_Obesity_Bariatric,All persons,62
+2015/16,LocalAuthority,E09000018,728,Hounslow,FCE_PrimarySecondary_Obesity_Bariatric,All persons,43
+2015/16,LocalAuthority,E09000019,706,Islington,FCE_PrimarySecondary_Obesity_Bariatric,All persons,36
+2015/16,LocalAuthority,E09000020,707,Kensington and Chelsea,FCE_PrimarySecondary_Obesity_Bariatric,All persons,22
+2015/16,LocalAuthority,E09000021,729,Kingston upon Thames,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2015/16,LocalAuthority,E09000022,708,Lambeth,FCE_PrimarySecondary_Obesity_Bariatric,All persons,59
+2015/16,LocalAuthority,E09000023,709,Lewisham,FCE_PrimarySecondary_Obesity_Bariatric,All persons,75
+2015/16,LocalAuthority,E09000024,730,Merton,FCE_PrimarySecondary_Obesity_Bariatric,All persons,28
+2015/16,LocalAuthority,E09000025,731,Newham,FCE_PrimarySecondary_Obesity_Bariatric,All persons,38
+2015/16,LocalAuthority,E09000026,732,Redbridge,FCE_PrimarySecondary_Obesity_Bariatric,All persons,25
+2015/16,LocalAuthority,E09000027,733,Richmond upon Thames,FCE_PrimarySecondary_Obesity_Bariatric,All persons,20
+2015/16,LocalAuthority,E09000028,710,Southwark,FCE_PrimarySecondary_Obesity_Bariatric,All persons,75
+2015/16,LocalAuthority,E09000029,734,Sutton,FCE_PrimarySecondary_Obesity_Bariatric,All persons,33
+2015/16,LocalAuthority,E09000030,711,Tower Hamlets,FCE_PrimarySecondary_Obesity_Bariatric,All persons,23
+2015/16,LocalAuthority,E09000031,735,Waltham Forest,FCE_PrimarySecondary_Obesity_Bariatric,All persons,51
+2015/16,LocalAuthority,E09000032,712,Wandsworth,FCE_PrimarySecondary_Obesity_Bariatric,All persons,37
+2015/16,LocalAuthority,E09000033,713,Westminster,FCE_PrimarySecondary_Obesity_Bariatric,All persons,54
+2015/16,LocalAuthority,E10000002,612,Buckinghamshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,31
+2015/16,LocalAuthority,E10000003,623,Cambridgeshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,27
+2015/16,LocalAuthority,E10000006,102,Cumbria,FCE_PrimarySecondary_Obesity_Bariatric,All persons,21
+2015/16,LocalAuthority,E10000007,506,Derbyshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,65
+2015/16,LocalAuthority,E10000008,912,Devon,FCE_PrimarySecondary_Obesity_Bariatric,All persons,105
+2015/16,LocalAuthority,E10000009,809,Dorset,FCE_PrimarySecondary_Obesity_Bariatric,All persons,23
+2015/16,LocalAuthority,E10000011,815,East Sussex,FCE_PrimarySecondary_Obesity_Bariatric,All persons,82
+2015/16,LocalAuthority,E10000012,620,Essex,FCE_PrimarySecondary_Obesity_Bariatric,All persons,81
+2015/16,LocalAuthority,E10000013,904,Gloucestershire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,37
+2015/16,LocalAuthority,E10000014,812,Hampshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,144
+2015/16,LocalAuthority,E10000015,606,Hertfordshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,98
+2015/16,LocalAuthority,E10000016,820,Kent,FCE_PrimarySecondary_Obesity_Bariatric,All persons,188
+2015/16,LocalAuthority,E10000017,323,Lancashire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,46
+2015/16,LocalAuthority,E10000018,508,Leicestershire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,19
+2015/16,LocalAuthority,E10000019,503,Lincolnshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,26
+2015/16,LocalAuthority,E10000020,607,Norfolk,FCE_PrimarySecondary_Obesity_Bariatric,All persons,42
+2015/16,LocalAuthority,E10000021,504,Northamptonshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,68
+2015/16,LocalAuthority,E10000023,218,North Yorkshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,48
+2015/16,LocalAuthority,E10000024,511,Nottinghamshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,29
+2015/16,LocalAuthority,E10000025,608,Oxfordshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,54
+2015/16,LocalAuthority,E10000027,905,Somerset,FCE_PrimarySecondary_Obesity_Bariatric,All persons,45
+2015/16,LocalAuthority,E10000028,413,Staffordshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,164
+2015/16,LocalAuthority,E10000029,609,Suffolk,FCE_PrimarySecondary_Obesity_Bariatric,All persons,28
+2015/16,LocalAuthority,E10000030,805,Surrey,FCE_PrimarySecondary_Obesity_Bariatric,All persons,126
+2015/16,LocalAuthority,E10000031,404,Warwickshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,82
+2015/16,LocalAuthority,E10000032,807,West Sussex,FCE_PrimarySecondary_Obesity_Bariatric,All persons,104
+2015/16,LocalAuthority,E10000034,416,Worcestershire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,90
+2015/16,National,E92000001,,England,FCE_PrimarySecondary_Obesity_Bariatric,Female,"5,020"
+2015/16,Region,E12000001,A,North East,FCE_PrimarySecondary_Obesity_Bariatric,Female,594
+2015/16,Region,E12000002,B,North West,FCE_PrimarySecondary_Obesity_Bariatric,Female,347
+2015/16,Region,E12000003,D,Yorkshire and the Humber,FCE_PrimarySecondary_Obesity_Bariatric,Female,324
+2015/16,Region,E12000004,E,East Midlands,FCE_PrimarySecondary_Obesity_Bariatric,Female,192
+2015/16,Region,E12000005,F,West Midlands,FCE_PrimarySecondary_Obesity_Bariatric,Female,885
+2015/16,Region,E12000006,G,East of England,FCE_PrimarySecondary_Obesity_Bariatric,Female,309
+2015/16,Region,E12000007,H,London,FCE_PrimarySecondary_Obesity_Bariatric,Female,"1,116"
+2015/16,Region,E12000008,J,South East,FCE_PrimarySecondary_Obesity_Bariatric,Female,848
+2015/16,Region,E12000009,K,South West,FCE_PrimarySecondary_Obesity_Bariatric,Female,405
+2015/16,LocalAuthority,E06000001,111,Hartlepool,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000002,112,Middlesbrough,FCE_PrimarySecondary_Obesity_Bariatric,Female,44
+2015/16,LocalAuthority,E06000003,113,Redcar and Cleveland,FCE_PrimarySecondary_Obesity_Bariatric,Female,37
+2015/16,LocalAuthority,E06000004,114,Stockton-on-Tees,FCE_PrimarySecondary_Obesity_Bariatric,Female,61
+2015/16,LocalAuthority,E06000005,117,Darlington,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000006,321,Halton,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000007,322,Warrington,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000008,324,Blackburn with Darwen,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000009,325,Blackpool,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000010,215,"Kingston upon Hull, City of",FCE_PrimarySecondary_Obesity_Bariatric,Female,15
+2015/16,LocalAuthority,E06000011,214,East Riding of Yorkshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000012,216,North East Lincolnshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000013,217,North Lincolnshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,13
+2015/16,LocalAuthority,E06000014,219,York,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000015,507,Derby,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000016,509,Leicester,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000017,510,Rutland                                                                         ,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000018,512,Nottingham,FCE_PrimarySecondary_Obesity_Bariatric,Female,6
+2015/16,LocalAuthority,E06000019,415,"Herefordshire, County of",FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000020,418,Telford and Wrekin,FCE_PrimarySecondary_Obesity_Bariatric,Female,79
+2015/16,LocalAuthority,E06000021,414,Stoke-on-Trent,FCE_PrimarySecondary_Obesity_Bariatric,Female,82
+2015/16,LocalAuthority,E06000022,908,Bath and North East Somerset,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000023,909,"Bristol, City of",FCE_PrimarySecondary_Obesity_Bariatric,Female,23
+2015/16,LocalAuthority,E06000024,910,North Somerset,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000025,911,South Gloucestershire,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000026,913,Plymouth,FCE_PrimarySecondary_Obesity_Bariatric,Female,31
+2015/16,LocalAuthority,E06000027,914,Torbay,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000028,810,Bournemouth,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000029,811,Poole,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000030,819,Swindon,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000031,624,Peterborough,FCE_PrimarySecondary_Obesity_Bariatric,Female,10
+2015/16,LocalAuthority,E06000032,611,Luton,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000033,621,Southend-on-Sea,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000034,622,Thurrock,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000035,821,Medway,FCE_PrimarySecondary_Obesity_Bariatric,Female,51
+2015/16,LocalAuthority,E06000036,614,Bracknell Forest,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000037,615,West Berkshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,15
+2015/16,LocalAuthority,E06000038,616,Reading,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000039,617,Slough,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000040,618,Windsor and Maidenhead,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000041,619,Wokingham,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000042,613,Milton Keynes,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000043,816,Brighton and Hove,FCE_PrimarySecondary_Obesity_Bariatric,Female,32
+2015/16,LocalAuthority,E06000044,813,Portsmouth,FCE_PrimarySecondary_Obesity_Bariatric,Female,67
+2015/16,LocalAuthority,E06000045,814,Southampton,FCE_PrimarySecondary_Obesity_Bariatric,Female,27
+2015/16,LocalAuthority,E06000046,803,Isle of Wight,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000047,116,County Durham,FCE_PrimarySecondary_Obesity_Bariatric,Female,154
+2015/16,LocalAuthority,E06000049,326,Cheshire East,FCE_PrimarySecondary_Obesity_Bariatric,Female,22
+2015/16,LocalAuthority,E06000050,327,Cheshire West and Chester,FCE_PrimarySecondary_Obesity_Bariatric,Female,24
+2015/16,LocalAuthority,E06000051,417,Shropshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,48
+2015/16,LocalAuthority,E06000052,902,Cornwall,FCE_PrimarySecondary_Obesity_Bariatric,Female,68
+2015/16,LocalAuthority,E06000053,906,Isles of Scilly,FCE_PrimarySecondary_Obesity_Bariatric,Female,0
+2015/16,LocalAuthority,E06000054,817,Wiltshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,27
+2015/16,LocalAuthority,E06000055,625,Bedford,FCE_PrimarySecondary_Obesity_Bariatric,Female,12
+2015/16,LocalAuthority,E06000056,626,Central Bedfordshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E06000057,104,Northumberland,FCE_PrimarySecondary_Obesity_Bariatric,Female,41
+2015/16,LocalAuthority,E08000001,304,Bolton,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E08000002,305,Bury,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E08000003,306,Manchester,FCE_PrimarySecondary_Obesity_Bariatric,Female,13
+2015/16,LocalAuthority,E08000004,307,Oldham,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E08000005,308,Rochdale,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E08000006,309,Salford,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E08000007,310,Stockport,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E08000008,311,Tameside,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E08000009,312,Trafford,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E08000010,313,Wigan,FCE_PrimarySecondary_Obesity_Bariatric,Female,24
+2015/16,LocalAuthority,E08000011,315,Knowsley,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E08000012,316,Liverpool,FCE_PrimarySecondary_Obesity_Bariatric,Female,45
+2015/16,LocalAuthority,E08000013,318,St. Helens,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E08000014,317,Sefton,FCE_PrimarySecondary_Obesity_Bariatric,Female,20
+2015/16,LocalAuthority,E08000015,319,Wirral,FCE_PrimarySecondary_Obesity_Bariatric,Female,31
+2015/16,LocalAuthority,E08000016,204,Barnsley,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E08000017,205,Doncaster,FCE_PrimarySecondary_Obesity_Bariatric,Female,25
+2015/16,LocalAuthority,E08000018,206,Rotherham,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E08000019,207,Sheffield,FCE_PrimarySecondary_Obesity_Bariatric,Female,66
+2015/16,LocalAuthority,E08000021,107,Newcastle upon Tyne,FCE_PrimarySecondary_Obesity_Bariatric,Female,21
+2015/16,LocalAuthority,E08000022,108,North Tyneside,FCE_PrimarySecondary_Obesity_Bariatric,Female,24
+2015/16,LocalAuthority,E08000023,109,South Tyneside,FCE_PrimarySecondary_Obesity_Bariatric,Female,44
+2015/16,LocalAuthority,E08000024,110,Sunderland,FCE_PrimarySecondary_Obesity_Bariatric,Female,90
+2015/16,LocalAuthority,E08000025,406,Birmingham,FCE_PrimarySecondary_Obesity_Bariatric,Female,174
+2015/16,LocalAuthority,E08000026,407,Coventry,FCE_PrimarySecondary_Obesity_Bariatric,Female,41
+2015/16,LocalAuthority,E08000027,408,Dudley,FCE_PrimarySecondary_Obesity_Bariatric,Female,20
+2015/16,LocalAuthority,E08000028,409,Sandwell,FCE_PrimarySecondary_Obesity_Bariatric,Female,68
+2015/16,LocalAuthority,E08000029,410,Solihull,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E08000030,411,Walsall,FCE_PrimarySecondary_Obesity_Bariatric,Female,24
+2015/16,LocalAuthority,E08000031,412,Wolverhampton,FCE_PrimarySecondary_Obesity_Bariatric,Female,21
+2015/16,LocalAuthority,E08000032,209,Bradford,FCE_PrimarySecondary_Obesity_Bariatric,Female,37
+2015/16,LocalAuthority,E08000033,210,Calderdale,FCE_PrimarySecondary_Obesity_Bariatric,Female,17
+2015/16,LocalAuthority,E08000034,211,Kirklees,FCE_PrimarySecondary_Obesity_Bariatric,Female,13
+2015/16,LocalAuthority,E08000035,212,Leeds,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E08000036,213,Wakefield,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E08000037,106,Gateshead,FCE_PrimarySecondary_Obesity_Bariatric,Female,34
+2015/16,LocalAuthority,E09000001,714,City of London,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E09000002,716,Barking and Dagenham,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E09000003,717,Barnet,FCE_PrimarySecondary_Obesity_Bariatric,Female,50
+2015/16,LocalAuthority,E09000004,718,Bexley,FCE_PrimarySecondary_Obesity_Bariatric,Female,41
+2015/16,LocalAuthority,E09000005,719,Brent,FCE_PrimarySecondary_Obesity_Bariatric,Female,62
+2015/16,LocalAuthority,E09000006,720,Bromley,FCE_PrimarySecondary_Obesity_Bariatric,Female,30
+2015/16,LocalAuthority,E09000007,702,Camden,FCE_PrimarySecondary_Obesity_Bariatric,Female,35
+2015/16,LocalAuthority,E09000008,721,Croydon,FCE_PrimarySecondary_Obesity_Bariatric,Female,45
+2015/16,LocalAuthority,E09000009,722,Ealing,FCE_PrimarySecondary_Obesity_Bariatric,Female,63
+2015/16,LocalAuthority,E09000010,723,Enfield,FCE_PrimarySecondary_Obesity_Bariatric,Female,33
+2015/16,LocalAuthority,E09000011,703,Greenwich,FCE_PrimarySecondary_Obesity_Bariatric,Female,54
+2015/16,LocalAuthority,E09000012,704,Hackney,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E09000013,705,Hammersmith and Fulham,FCE_PrimarySecondary_Obesity_Bariatric,Female,31
+2015/16,LocalAuthority,E09000014,724,Haringey,FCE_PrimarySecondary_Obesity_Bariatric,Female,28
+2015/16,LocalAuthority,E09000015,725,Harrow,FCE_PrimarySecondary_Obesity_Bariatric,Female,23
+2015/16,LocalAuthority,E09000016,726,Havering,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E09000017,727,Hillingdon,FCE_PrimarySecondary_Obesity_Bariatric,Female,46
+2015/16,LocalAuthority,E09000018,728,Hounslow,FCE_PrimarySecondary_Obesity_Bariatric,Female,35
+2015/16,LocalAuthority,E09000019,706,Islington,FCE_PrimarySecondary_Obesity_Bariatric,Female,30
+2015/16,LocalAuthority,E09000020,707,Kensington and Chelsea,FCE_PrimarySecondary_Obesity_Bariatric,Female,14
+2015/16,LocalAuthority,E09000021,729,Kingston upon Thames,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E09000022,708,Lambeth,FCE_PrimarySecondary_Obesity_Bariatric,Female,47
+2015/16,LocalAuthority,E09000023,709,Lewisham,FCE_PrimarySecondary_Obesity_Bariatric,Female,69
+2015/16,LocalAuthority,E09000024,730,Merton,FCE_PrimarySecondary_Obesity_Bariatric,Female,21
+2015/16,LocalAuthority,E09000025,731,Newham,FCE_PrimarySecondary_Obesity_Bariatric,Female,28
+2015/16,LocalAuthority,E09000026,732,Redbridge,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E09000027,733,Richmond upon Thames,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E09000028,710,Southwark,FCE_PrimarySecondary_Obesity_Bariatric,Female,62
+2015/16,LocalAuthority,E09000029,734,Sutton,FCE_PrimarySecondary_Obesity_Bariatric,Female,25
+2015/16,LocalAuthority,E09000030,711,Tower Hamlets,FCE_PrimarySecondary_Obesity_Bariatric,Female,16
+2015/16,LocalAuthority,E09000031,735,Waltham Forest,FCE_PrimarySecondary_Obesity_Bariatric,Female,37
+2015/16,LocalAuthority,E09000032,712,Wandsworth,FCE_PrimarySecondary_Obesity_Bariatric,Female,25
+2015/16,LocalAuthority,E09000033,713,Westminster,FCE_PrimarySecondary_Obesity_Bariatric,Female,38
+2015/16,LocalAuthority,E10000002,612,Buckinghamshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E10000003,623,Cambridgeshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,21
+2015/16,LocalAuthority,E10000006,102,Cumbria,FCE_PrimarySecondary_Obesity_Bariatric,Female,13
+2015/16,LocalAuthority,E10000007,506,Derbyshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,54
+2015/16,LocalAuthority,E10000008,912,Devon,FCE_PrimarySecondary_Obesity_Bariatric,Female,87
+2015/16,LocalAuthority,E10000009,809,Dorset,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E10000011,815,East Sussex,FCE_PrimarySecondary_Obesity_Bariatric,Female,69
+2015/16,LocalAuthority,E10000012,620,Essex,FCE_PrimarySecondary_Obesity_Bariatric,Female,57
+2015/16,LocalAuthority,E10000013,904,Gloucestershire,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E10000014,812,Hampshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,116
+2015/16,LocalAuthority,E10000015,606,Hertfordshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,82
+2015/16,LocalAuthority,E10000016,820,Kent,FCE_PrimarySecondary_Obesity_Bariatric,Female,139
+2015/16,LocalAuthority,E10000017,323,Lancashire,FCE_PrimarySecondary_Obesity_Bariatric,Female,35
+2015/16,LocalAuthority,E10000018,508,Leicestershire,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2015/16,LocalAuthority,E10000019,503,Lincolnshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,15
+2015/16,LocalAuthority,E10000020,607,Norfolk,FCE_PrimarySecondary_Obesity_Bariatric,Female,34
+2015/16,LocalAuthority,E10000021,504,Northamptonshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,61
+2015/16,LocalAuthority,E10000023,218,North Yorkshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,39
+2015/16,LocalAuthority,E10000024,511,Nottinghamshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,23
+2015/16,LocalAuthority,E10000025,608,Oxfordshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,38
+2015/16,LocalAuthority,E10000027,905,Somerset,FCE_PrimarySecondary_Obesity_Bariatric,Female,36
+2015/16,LocalAuthority,E10000028,413,Staffordshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,124
+2015/16,LocalAuthority,E10000029,609,Suffolk,FCE_PrimarySecondary_Obesity_Bariatric,Female,21
+2015/16,LocalAuthority,E10000030,805,Surrey,FCE_PrimarySecondary_Obesity_Bariatric,Female,96
+2015/16,LocalAuthority,E10000031,404,Warwickshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,64
+2015/16,LocalAuthority,E10000032,807,West Sussex,FCE_PrimarySecondary_Obesity_Bariatric,Female,81
+2015/16,LocalAuthority,E10000034,416,Worcestershire,FCE_PrimarySecondary_Obesity_Bariatric,Female,74
+2015/16,National,E92000001,,England,FCE_PrimarySecondary_Obesity_Bariatric,Male,"1,418"
+2015/16,Region,E12000001,A,North East,FCE_PrimarySecondary_Obesity_Bariatric,Male,197
+2015/16,Region,E12000002,B,North West,FCE_PrimarySecondary_Obesity_Bariatric,Male,114
+2015/16,Region,E12000003,D,Yorkshire and the Humber,FCE_PrimarySecondary_Obesity_Bariatric,Male,95
+2015/16,Region,E12000004,E,East Midlands,FCE_PrimarySecondary_Obesity_Bariatric,Male,53
+2015/16,Region,E12000005,F,West Midlands,FCE_PrimarySecondary_Obesity_Bariatric,Male,260
+2015/16,Region,E12000006,G,East of England,FCE_PrimarySecondary_Obesity_Bariatric,Male,84
+2015/16,Region,E12000007,H,London,FCE_PrimarySecondary_Obesity_Bariatric,Male,284
+2015/16,Region,E12000008,J,South East,FCE_PrimarySecondary_Obesity_Bariatric,Male,235
+2015/16,Region,E12000009,K,South West,FCE_PrimarySecondary_Obesity_Bariatric,Male,96
+2015/16,LocalAuthority,E06000001,111,Hartlepool,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000002,112,Middlesbrough,FCE_PrimarySecondary_Obesity_Bariatric,Male,10
+2015/16,LocalAuthority,E06000003,113,Redcar and Cleveland,FCE_PrimarySecondary_Obesity_Bariatric,Male,9
+2015/16,LocalAuthority,E06000004,114,Stockton-on-Tees,FCE_PrimarySecondary_Obesity_Bariatric,Male,17
+2015/16,LocalAuthority,E06000005,117,Darlington,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000006,321,Halton,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000007,322,Warrington,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000008,324,Blackburn with Darwen,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000009,325,Blackpool,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000010,215,"Kingston upon Hull, City of",FCE_PrimarySecondary_Obesity_Bariatric,Male,11
+2015/16,LocalAuthority,E06000011,214,East Riding of Yorkshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000012,216,North East Lincolnshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000013,217,North Lincolnshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,9
+2015/16,LocalAuthority,E06000014,219,York,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000015,507,Derby,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000016,509,Leicester,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000017,510,Rutland                                                                         ,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000018,512,Nottingham,FCE_PrimarySecondary_Obesity_Bariatric,Male,6
+2015/16,LocalAuthority,E06000019,415,"Herefordshire, County of",FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000020,418,Telford and Wrekin,FCE_PrimarySecondary_Obesity_Bariatric,Male,24
+2015/16,LocalAuthority,E06000021,414,Stoke-on-Trent,FCE_PrimarySecondary_Obesity_Bariatric,Male,40
+2015/16,LocalAuthority,E06000022,908,Bath and North East Somerset,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000023,909,"Bristol, City of",FCE_PrimarySecondary_Obesity_Bariatric,Male,10
+2015/16,LocalAuthority,E06000024,910,North Somerset,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000025,911,South Gloucestershire,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000026,913,Plymouth,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2015/16,LocalAuthority,E06000027,914,Torbay,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000028,810,Bournemouth,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000029,811,Poole,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000030,819,Swindon,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000031,624,Peterborough,FCE_PrimarySecondary_Obesity_Bariatric,Male,0
+2015/16,LocalAuthority,E06000032,611,Luton,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000033,621,Southend-on-Sea,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000034,622,Thurrock,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000035,821,Medway,FCE_PrimarySecondary_Obesity_Bariatric,Male,19
+2015/16,LocalAuthority,E06000036,614,Bracknell Forest,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000037,615,West Berkshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,7
+2015/16,LocalAuthority,E06000038,616,Reading,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000039,617,Slough,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000040,618,Windsor and Maidenhead,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000041,619,Wokingham,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000042,613,Milton Keynes,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000043,816,Brighton and Hove,FCE_PrimarySecondary_Obesity_Bariatric,Male,10
+2015/16,LocalAuthority,E06000044,813,Portsmouth,FCE_PrimarySecondary_Obesity_Bariatric,Male,12
+2015/16,LocalAuthority,E06000045,814,Southampton,FCE_PrimarySecondary_Obesity_Bariatric,Male,9
+2015/16,LocalAuthority,E06000046,803,Isle of Wight,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000047,116,County Durham,FCE_PrimarySecondary_Obesity_Bariatric,Male,65
+2015/16,LocalAuthority,E06000049,326,Cheshire East,FCE_PrimarySecondary_Obesity_Bariatric,Male,6
+2015/16,LocalAuthority,E06000050,327,Cheshire West and Chester,FCE_PrimarySecondary_Obesity_Bariatric,Male,7
+2015/16,LocalAuthority,E06000051,417,Shropshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,11
+2015/16,LocalAuthority,E06000052,902,Cornwall,FCE_PrimarySecondary_Obesity_Bariatric,Male,14
+2015/16,LocalAuthority,E06000053,906,Isles of Scilly,FCE_PrimarySecondary_Obesity_Bariatric,Male,0
+2015/16,LocalAuthority,E06000054,817,Wiltshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2015/16,LocalAuthority,E06000055,625,Bedford,FCE_PrimarySecondary_Obesity_Bariatric,Male,6
+2015/16,LocalAuthority,E06000056,626,Central Bedfordshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E06000057,104,Northumberland,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2015/16,LocalAuthority,E08000001,304,Bolton,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E08000002,305,Bury,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E08000003,306,Manchester,FCE_PrimarySecondary_Obesity_Bariatric,Male,6
+2015/16,LocalAuthority,E08000004,307,Oldham,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E08000005,308,Rochdale,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E08000006,309,Salford,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E08000007,310,Stockport,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E08000008,311,Tameside,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E08000009,312,Trafford,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E08000010,313,Wigan,FCE_PrimarySecondary_Obesity_Bariatric,Male,6
+2015/16,LocalAuthority,E08000011,315,Knowsley,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E08000012,316,Liverpool,FCE_PrimarySecondary_Obesity_Bariatric,Male,13
+2015/16,LocalAuthority,E08000013,318,St. Helens,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E08000014,317,Sefton,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2015/16,LocalAuthority,E08000015,319,Wirral,FCE_PrimarySecondary_Obesity_Bariatric,Male,9
+2015/16,LocalAuthority,E08000016,204,Barnsley,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E08000017,205,Doncaster,FCE_PrimarySecondary_Obesity_Bariatric,Male,7
+2015/16,LocalAuthority,E08000018,206,Rotherham,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E08000019,207,Sheffield,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2015/16,LocalAuthority,E08000021,107,Newcastle upon Tyne,FCE_PrimarySecondary_Obesity_Bariatric,Male,7
+2015/16,LocalAuthority,E08000022,108,North Tyneside,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2015/16,LocalAuthority,E08000023,109,South Tyneside,FCE_PrimarySecondary_Obesity_Bariatric,Male,15
+2015/16,LocalAuthority,E08000024,110,Sunderland,FCE_PrimarySecondary_Obesity_Bariatric,Male,27
+2015/16,LocalAuthority,E08000025,406,Birmingham,FCE_PrimarySecondary_Obesity_Bariatric,Male,48
+2015/16,LocalAuthority,E08000026,407,Coventry,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2015/16,LocalAuthority,E08000027,408,Dudley,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2015/16,LocalAuthority,E08000028,409,Sandwell,FCE_PrimarySecondary_Obesity_Bariatric,Male,18
+2015/16,LocalAuthority,E08000029,410,Solihull,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E08000030,411,Walsall,FCE_PrimarySecondary_Obesity_Bariatric,Male,9
+2015/16,LocalAuthority,E08000031,412,Wolverhampton,FCE_PrimarySecondary_Obesity_Bariatric,Male,10
+2015/16,LocalAuthority,E08000032,209,Bradford,FCE_PrimarySecondary_Obesity_Bariatric,Male,16
+2015/16,LocalAuthority,E08000033,210,Calderdale,FCE_PrimarySecondary_Obesity_Bariatric,Male,6
+2015/16,LocalAuthority,E08000034,211,Kirklees,FCE_PrimarySecondary_Obesity_Bariatric,Male,7
+2015/16,LocalAuthority,E08000035,212,Leeds,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E08000036,213,Wakefield,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E08000037,106,Gateshead,FCE_PrimarySecondary_Obesity_Bariatric,Male,21
+2015/16,LocalAuthority,E09000001,714,City of London,FCE_PrimarySecondary_Obesity_Bariatric,Male,0
+2015/16,LocalAuthority,E09000002,716,Barking and Dagenham,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E09000003,717,Barnet,FCE_PrimarySecondary_Obesity_Bariatric,Male,11
+2015/16,LocalAuthority,E09000004,718,Bexley,FCE_PrimarySecondary_Obesity_Bariatric,Male,10
+2015/16,LocalAuthority,E09000005,719,Brent,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2015/16,LocalAuthority,E09000006,720,Bromley,FCE_PrimarySecondary_Obesity_Bariatric,Male,9
+2015/16,LocalAuthority,E09000007,702,Camden,FCE_PrimarySecondary_Obesity_Bariatric,Male,6
+2015/16,LocalAuthority,E09000008,721,Croydon,FCE_PrimarySecondary_Obesity_Bariatric,Male,7
+2015/16,LocalAuthority,E09000009,722,Ealing,FCE_PrimarySecondary_Obesity_Bariatric,Male,14
+2015/16,LocalAuthority,E09000010,723,Enfield,FCE_PrimarySecondary_Obesity_Bariatric,Male,13
+2015/16,LocalAuthority,E09000011,703,Greenwich,FCE_PrimarySecondary_Obesity_Bariatric,Male,12
+2015/16,LocalAuthority,E09000012,704,Hackney,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E09000013,705,Hammersmith and Fulham,FCE_PrimarySecondary_Obesity_Bariatric,Male,11
+2015/16,LocalAuthority,E09000014,724,Haringey,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2015/16,LocalAuthority,E09000015,725,Harrow,FCE_PrimarySecondary_Obesity_Bariatric,Male,10
+2015/16,LocalAuthority,E09000016,726,Havering,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E09000017,727,Hillingdon,FCE_PrimarySecondary_Obesity_Bariatric,Male,16
+2015/16,LocalAuthority,E09000018,728,Hounslow,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2015/16,LocalAuthority,E09000019,706,Islington,FCE_PrimarySecondary_Obesity_Bariatric,Male,6
+2015/16,LocalAuthority,E09000020,707,Kensington and Chelsea,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2015/16,LocalAuthority,E09000021,729,Kingston upon Thames,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E09000022,708,Lambeth,FCE_PrimarySecondary_Obesity_Bariatric,Male,12
+2015/16,LocalAuthority,E09000023,709,Lewisham,FCE_PrimarySecondary_Obesity_Bariatric,Male,6
+2015/16,LocalAuthority,E09000024,730,Merton,FCE_PrimarySecondary_Obesity_Bariatric,Male,7
+2015/16,LocalAuthority,E09000025,731,Newham,FCE_PrimarySecondary_Obesity_Bariatric,Male,10
+2015/16,LocalAuthority,E09000026,732,Redbridge,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E09000027,733,Richmond upon Thames,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E09000028,710,Southwark,FCE_PrimarySecondary_Obesity_Bariatric,Male,13
+2015/16,LocalAuthority,E09000029,734,Sutton,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2015/16,LocalAuthority,E09000030,711,Tower Hamlets,FCE_PrimarySecondary_Obesity_Bariatric,Male,7
+2015/16,LocalAuthority,E09000031,735,Waltham Forest,FCE_PrimarySecondary_Obesity_Bariatric,Male,14
+2015/16,LocalAuthority,E09000032,712,Wandsworth,FCE_PrimarySecondary_Obesity_Bariatric,Male,12
+2015/16,LocalAuthority,E09000033,713,Westminster,FCE_PrimarySecondary_Obesity_Bariatric,Male,16
+2015/16,LocalAuthority,E10000002,612,Buckinghamshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E10000003,623,Cambridgeshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,6
+2015/16,LocalAuthority,E10000006,102,Cumbria,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2015/16,LocalAuthority,E10000007,506,Derbyshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,11
+2015/16,LocalAuthority,E10000008,912,Devon,FCE_PrimarySecondary_Obesity_Bariatric,Male,18
+2015/16,LocalAuthority,E10000009,809,Dorset,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E10000011,815,East Sussex,FCE_PrimarySecondary_Obesity_Bariatric,Male,13
+2015/16,LocalAuthority,E10000012,620,Essex,FCE_PrimarySecondary_Obesity_Bariatric,Male,24
+2015/16,LocalAuthority,E10000013,904,Gloucestershire,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E10000014,812,Hampshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,28
+2015/16,LocalAuthority,E10000015,606,Hertfordshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,16
+2015/16,LocalAuthority,E10000016,820,Kent,FCE_PrimarySecondary_Obesity_Bariatric,Male,49
+2015/16,LocalAuthority,E10000017,323,Lancashire,FCE_PrimarySecondary_Obesity_Bariatric,Male,11
+2015/16,LocalAuthority,E10000018,508,Leicestershire,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2015/16,LocalAuthority,E10000019,503,Lincolnshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,11
+2015/16,LocalAuthority,E10000020,607,Norfolk,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2015/16,LocalAuthority,E10000021,504,Northamptonshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,7
+2015/16,LocalAuthority,E10000023,218,North Yorkshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,9
+2015/16,LocalAuthority,E10000024,511,Nottinghamshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,6
+2015/16,LocalAuthority,E10000025,608,Oxfordshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,16
+2015/16,LocalAuthority,E10000027,905,Somerset,FCE_PrimarySecondary_Obesity_Bariatric,Male,9
+2015/16,LocalAuthority,E10000028,413,Staffordshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,40
+2015/16,LocalAuthority,E10000029,609,Suffolk,FCE_PrimarySecondary_Obesity_Bariatric,Male,7
+2015/16,LocalAuthority,E10000030,805,Surrey,FCE_PrimarySecondary_Obesity_Bariatric,Male,30
+2015/16,LocalAuthority,E10000031,404,Warwickshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,18
+2015/16,LocalAuthority,E10000032,807,West Sussex,FCE_PrimarySecondary_Obesity_Bariatric,Male,23
+2015/16,LocalAuthority,E10000034,416,Worcestershire,FCE_PrimarySecondary_Obesity_Bariatric,Male,16

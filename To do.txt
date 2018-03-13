@@ -1,20 +1,20 @@
 Fix
 
 1. Fix the bokehn graph index issue
-5. Fix the 401 error on the twitter streaming bot
-6. Update the box and whiskers graph to no longer require the large maplotlib download
+2. Fix the 401 error on the twitter streaming bot (not on github)
+3. Update the box and whiskers graph to no longer require the large maplotlib download
+4. On the SQL alchemy tables, rename variables and the dataset to reflect the new NHS 2017 data 
 
 
 Build
 
-1. Retrieve a publically available dataset, store the data using SQLalchemy and display the data using geoplotlib
+1. Retrieve publically available geographical dataset, store the data using SQLalchemy and display the data using geoplotlib
 2. show use of inner joins, left joins, filter, order, having and with statements
 3. Add a script generating data for a sqllite database
 4. Show use of working with big data
 5. Creates some process maps that show the flow of logic with some of the python scripts, SQL and github
 6. Build a basic neural network
-7. Learn about extract financial data from a website API, putting to a csv file and then reading the csv file 
-7.5. Build some financial reports based on the datacamp course
+7. Build some financial reports based on the datacamp course
 8. Look at the old scripts on your machine and extract the datascraping sections
 9. Build a basic django website to just display html and css understanding
 10. Build an interface for the games so the user can select 
@@ -22,7 +22,7 @@ Build
 
 Misc
 
-1. Add further certifications from Datacamp (particularly the python finance section)
+1. Add further certifications from Datacamp (particularly the machine learning certifications)
 2. Start learning R to a better degree
 3. Finish the codeacademy course
 4. Finish the free code camp course
