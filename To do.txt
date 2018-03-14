@@ -1,11 +1,3 @@
-Fix
-
-1. Fix the bokehn graph index issue
-2. Fix the 401 error on the twitter streaming bot (not on github)
-3. Update the box and whiskers graph to no longer require the large maplotlib download
-4. On the SQL alchemy tables, rename variables and the dataset to reflect the new NHS 2017 data 
-
-
 Build
 
 1. Retrieve publically available geographical dataset, store the data using SQLalchemy and display the data using geoplotlib
@@ -19,6 +11,7 @@ Build
 9. Build a basic django website to just display html and css understanding
 10. Build an interface for the games so the user can select 
 11. Start looking into python to .exe so the user no longer has to install python to run the scripts
+12. On the SQL alchemy tables, rename variables and the dataset to reflect the new NHS 2017 data 
 
 Misc
 
