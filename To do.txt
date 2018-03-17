@@ -12,6 +12,7 @@ Build
 10. Build an interface for the games so the user can select 
 11. Start looking into python to .exe so the user no longer has to install python to run the scripts
 12. On the SQL alchemy tables, rename variables and the dataset to reflect the new NHS 2017 data 
+13. Look into shiny and dash to create some pythonic dashboards - https://moderndata.plot.ly/create-a-plotly-dashboards-in-under-10-minutes/
 
 Misc
 
@@ -21,3 +22,5 @@ Misc
 4. Finish the free code camp course
 5. Start and complete a udemy course
 6. Look into further methods of using python for business intelligence purposes
+7. Does stacking a dataframe only merge indexes? (when the index values are the same)
+8. Have a play around with dataframes and see what swaplevel does, melting dataframes, aggfunc, difference between pivot and pivot_table

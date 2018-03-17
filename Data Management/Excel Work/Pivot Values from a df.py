@@ -16,3 +16,11 @@ pivot = df.pivot(index='', columns='', values='')
 
 # Print the pivoted DataFrame
 print(pivot)
+
+# Functions can also be applied to objects in a dataframe
+calculated = df.pivot(index='', columns='', values='', aggfunc= sum)
+print(calculated)
+
+# We can aggregate and summerize data as well
+Total = df.pivot_table(index='', aggfunc= sum, margins=True)
+print(Total)
