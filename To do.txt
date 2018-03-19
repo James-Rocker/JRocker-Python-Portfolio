@@ -13,6 +13,7 @@ Build
 11. Start looking into python to .exe so the user no longer has to install python to run the scripts
 12. On the SQL alchemy tables, rename variables and the dataset to reflect the new NHS 2017 data 
 13. Look into shiny and dash to create some pythonic dashboards - https://moderndata.plot.ly/create-a-plotly-dashboards-in-under-10-minutes/
+14. Add some examples of nosql database usage
 
 Misc
 
