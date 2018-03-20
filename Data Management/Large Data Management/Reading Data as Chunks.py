@@ -4,6 +4,26 @@ Created on Thu Mar 15 08:01:48 2018
 
 @author: James
 """
+import imp, pip 
+from time import sleep
+
+def install_func(package):
+    try:
+        imp.find_module(package)
+    except ImportError:
+        print ('Error ' + package + ' library is missing ')
+        var = input("Do you want to download and install the " + package + " library? (Note, this download and install might take a while) ")
+        if var in ['no','n','No','N','NO']:
+            print ('Error, '+ package + ' not installed, please install the library before attempting to run this program.')
+            sleep(5)
+            quit()
+        else:
+            pip.main(['install', package])
+
+packagelist = ['pandas']
+for x in packagelist:
+    install_func(x)
+
 import pandas as pd
 
 """ When working with large datasets, instead of processing everything all at once,

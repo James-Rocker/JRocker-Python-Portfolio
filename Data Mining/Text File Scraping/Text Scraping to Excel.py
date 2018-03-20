@@ -5,18 +5,17 @@ Created on Wed Mar 14 11:24:03 2018
 @author: james
 """
 
-import datetime, 
+import xlsxwriter 
 
-yesterday = date.today() - timedelta(number)
+filename = 'Dracula'
 
 """Search Text Logs""" 
-workbook = xlsxwriter.Workbook(yesterday.strftime('%d-%b-%Y') + " Analysis.xlsx")
+workbook = xlsxwriter.Workbook(filename.strftime('%d-%b-%Y') + " Analysis.xlsx")
 worksheet = workbook.add_worksheet()
 
 """Analyse of text file here"""
 try:
-    os.chdir("C:\Users\\" + user + "\Documents\Log Files\\"+yesterday.strftime ('%d-%b-%Y'))
-    filename="VTSDataImport"+ yesterday.strftime ('%d-%b-%Y')+".txt"
+    filename= filename+ ".txt"
     raised = len(re.findall('Filter test is true so creating incident with available details', file(filename).read()))
     filtered = len(re.findall('Filter test is fail so considering event as false', file(filename).read()))
     inactive = len(re.findall(' is inactive. So discarding all the events with this device id', file(filename).read()))
@@ -48,7 +47,7 @@ try:
     
     worksheet2 = workbook.add_worksheet()
     erroroutput = (
-        ["Intelligent Telematics Errors",''],
+        [filename + " Statistics",''],
         ["Road Speed Limit Errors", ITerror1],
         ["Verlocity Change Errors",ITerror2],
         ["Date Time Formating Errors",ITerror3],
