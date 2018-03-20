@@ -39,9 +39,7 @@ def main():
     
     # Parses xkcd page
     page = html.fromstring(page.content)
-    print(page)
     image_src = "https:" + str(page.xpath(".//*[@id='comic']/img/@src")[0])
-    print(image_src)
     
     # Scrape the comic name from the image url
     comic_name = image_src.split('/')[-1]
