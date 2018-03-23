@@ -8,7 +8,8 @@ Created on Wed Mar 21 13:18:37 2018
 import matplotlib.pyplot as plt
 import pandas as pd
 
-df = pd.read_csv('')
+filename = ''
+df = pd.read_csv(filename)
 
 # Slice the df from two dates
 view = df['':'']
