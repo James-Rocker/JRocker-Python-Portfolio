@@ -14,6 +14,8 @@ Build
 12. On the SQL alchemy tables, rename variables and the dataset to reflect the new NHS 2017 data 
 13. Look into shiny and dash to create some pythonic dashboards - https://moderndata.plot.ly/create-a-plotly-dashboards-in-under-10-minutes/
 14. Add some examples of nosql database usage
+15. Add examples of Binomial Distribution (Success or failure probability)
+16. Add examples of Poisson Distribution (Probability of the events occuring in a time period)
 
 Misc
 
