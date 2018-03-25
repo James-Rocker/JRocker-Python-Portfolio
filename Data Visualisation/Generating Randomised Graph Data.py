@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 np.random.seed(42)
 random_numbers = np.empty(100000)
 
-# Generate 100000 random numbers
+# Generate random numbers
 for i in range(100000):
     random_numbers[i] = np.random.random()
 
