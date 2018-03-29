@@ -63,9 +63,8 @@ def game(wins, loses):
 
 def score(wins, loses):
     print("Wins: " + str(wins) + " Loses: " + str(loses))
-    print("Do you want to play again?")
-    user_input = input()
-    if user_input.capitalize() in confirm:
+    play_again = input("Do you want to play again? ")
+    if play_again.capitalize() in confirm:
         game(wins, loses)
     else:
         print("Final score is - " + "Wins: " + str(wins) + " Loses: " + str(loses))

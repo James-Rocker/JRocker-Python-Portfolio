@@ -5,27 +5,30 @@ Created on Wed Mar  7 17:53:10 2018
 @author: James
 """
 
-import random, time
+import random
+import time
 
 reroll = True
 valid_dice = [2, 3, 4, 5, 6, 7, 8, 10, 12, 14, 16, 18, 20, 24, 30, 34, 48, 50, 60, 100, 120]
-run_true = ['yes', 'y', 'yeah']
-run_false = ['no', 'n', 'nope']
+run_true = ['yes', 'y']
+run_false = ['no', 'n']
 print("Welcome to the dice roll application")
 time.sleep(1)
 roll_confirm = input("Would you like to roll a dice? ")
 
-if roll_confirm in run_true:
+while roll_confirm in run_true:
     time.sleep(1)
-    while reroll == True:
+    if reroll is True:
         dice_roll = input("How many times do you want to roll a dice? ")
 
         def dice_validation():
             try:
                 int(dice_roll)
                 return True
-            except:
+            except ValueError:
                 print("Please enter a number for the number of rolls")
+                return False
+
         die_type = input("What kind of die do you want to roll? D")
 
         def dice_type():
@@ -33,15 +36,17 @@ if roll_confirm in run_true:
                 int(die_type)
                 if int(die_type) in valid_dice:
                     return True
-                elif int(die_type) not in valid_dice: 
+                elif die_type not in valid_dice:
                     print("This is not a valid dice")
+                    return False
             except ValueError:
-                print("Please enter a number for the dice type input")
+                print("That's not a dice number!")
 
         def die():
-            die = list(range(1, int(die_type) + 1))
-            return die
-        if dice_validation() == True and dice_type() == True:
+            die_list = list(range(1, int(die_type) + 1))
+            return die_list
+
+        if dice_validation() is True and dice_type() is True:
             for i in range(int(dice_roll)):
                 print(random.choice(die()))
         time.sleep(3)

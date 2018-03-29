@@ -1,0 +1,10 @@
+pandas,
+sqlalchemy,
+matplotlib,
+urllib3,
+Tweepy,
+xlsxwriter,
+requests,
+pip,
+seaborn,
+SQLAlchemy
