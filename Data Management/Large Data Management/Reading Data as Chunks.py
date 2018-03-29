@@ -7,18 +7,20 @@ Created on Thu Mar 15 08:01:48 2018
 import imp, pip 
 from time import sleep
 
+
 def install_func(package):
     try:
         imp.find_module(package)
     except ImportError:
         print ('Error ' + package + ' library is missing ')
-        var = input("Do you want to download and install the " + package + " library? (Note, this download and install might take a while) ")
-        if var in ['no','n','No','N','NO']:
-            print ('Error, '+ package + ' not installed, please install the library before attempting to run this program.')
+        var = input("Do you want to download and install the " + package + " library? ")
+        if var in ['no', 'n', 'No', 'N', 'NO']:
+            print ('Error, ' + package + ' not installed.')
             sleep(5)
             quit()
         else:
             pip.main(['install', package])
+
 
 packagelist = ['pandas']
 for x in packagelist:
@@ -29,6 +31,7 @@ import pandas as pd
 """ When working with large datasets, instead of processing everything all at once,
 we work with a couple of items at a time using for loops
 """
+
 
 # Define count_entries()
 def count_entries(csv_file, c_size, colname):
@@ -50,6 +53,7 @@ def count_entries(csv_file, c_size, colname):
 
     # Return counts_dict
     return counts_dict
+
 
 # Call count_entries(): result_counts
 result_counts = count_entries('', 10, '')

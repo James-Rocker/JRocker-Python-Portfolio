@@ -8,18 +8,20 @@ Created on Tue Mar 13 08:20:22 2018
 import imp, pip 
 from time import sleep
 
+
 def install_func(package):
     try:
         imp.find_module(package)
     except ImportError:
-        print ('Error ' + package + ' library is missing ')
-        var = input("Do you want to download and install the " + package + " library? (Note, this download and install might take a while) ")
-        if var in ['no','n','No','N','NO']:
-            print ('Error, '+ package + ' not installed, please install the library before attempting to run this program.')
+        print('Error ' + package + ' library is missing ')
+        var = input("Do you want to download and install the " + package + " library?")
+        if var in ['no', 'n', 'No', 'N', 'NO']:
+            print('Error, ' + package + ' not installed.')
             sleep(5)
             quit()
         else:
             pip.main(['install', package])
+
 
 packagelist = ['sqlalchemy']
 for x in packagelist:
@@ -34,4 +36,4 @@ engine = create_engine('sqlite:///census.sqlite')
 # Print table names
 print(engine.table_names())
 
-#next we need to try and load the data using reflection
+# Next we need to try and load the data using reflection
