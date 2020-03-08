@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Created on Thu Mar 22 07:00:20 2018
 
@@ -7,17 +6,18 @@ Created on Thu Mar 22 07:00:20 2018
 
 import pandas as pd
 
-filename = ''
-gdp = pd.read_csv(filename, parse_dates=True, index_col='')
 
-# Slice all the data from x onward to create a new df
-sliced_df = gdp['':]
-print(sliced_df.tail(8))
+def csv_time_percent_change(filename: str):
+    gdp = pd.read_csv(filename, parse_dates=True, index_col='')
 
-# Resample by timeframe ('A' being annual yearly), keeping last()
-resampled_df = sliced_df.resample('A').last()
-print(resampled_df)
+    # Slice all the data from x onward to create a new df
+    sliced_df = gdp['':]
+    print(sliced_df.tail(8))
 
-# Compute percentage growth of yearly to a new column
-resampled_df['growth'] = resampled_df.pct_change() * 100
-print(resampled_df)
+    # Re_sample by time frame ('A' being annual yearly), keeping last()
+    re_sampled_df = sliced_df.resample('A').last()
+    print(re_sampled_df)
+
+    # Compute percentage growth of yearly to a new column
+    re_sampled_df['growth'] = re_sampled_df.pct_change() * 100
+    return re_sampled_df
