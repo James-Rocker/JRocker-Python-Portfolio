@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Created on Fri Mar 16 16:47:09 2018
 
@@ -18,7 +17,7 @@ df.index = months
 # Print the modified sales DataFrame
 print(df)
 
-#Add an index name to a dataframe
+# Add an index name to a data frame
 # Assign the string 'MONTHS' to sales.index.name
 df.index.name = 'MONTHS'
 
