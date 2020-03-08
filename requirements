@@ -6,4 +6,4 @@ xlsxwriter,
 requests,
 pip,
 seaborn,
-SQLAlchemy
+sqlalchemy
