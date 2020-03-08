@@ -6,4 +6,5 @@ xlsxwriter,
 requests,
 pip,
 seaborn,
-sqlalchemy
+sqlalchemy,
+numpy
