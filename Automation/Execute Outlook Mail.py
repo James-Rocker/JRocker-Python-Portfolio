@@ -5,24 +5,7 @@ Created on Wed Mar 14 11:26:46 2018
 @author: james
 """
 
-import os, sys, time, imp, pip
-
-
-package = 'pypiwin32'
-def install_func(package):
-    try:
-        imp.find_module(package)
-    except ImportError:
-        print ('Error ' + package + ' library is missing ')
-        var = input("Do you want to download and install the " + package + " library? (Note, this download and install might take a while) ")
-        if var in ['no','n','No','N','NO']:
-            print ('Error, '+ package + ' not installed, please install the library before attempting to run this program.')
-            time.sleep(5)
-            quit()
-        else:
-            pip.main(['install', package])
-install_func(package)
-
+import os, sys, time, pip
 import win32com.client
 
 To = input("Who do you want to send the automated email to? \n")
