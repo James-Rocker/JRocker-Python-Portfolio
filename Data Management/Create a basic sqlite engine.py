@@ -9,8 +9,7 @@ from sqlalchemy import create_engine
 
 def get_tables_in_db():
     # Create an engine that connects to the census.sqlite file: engine
-    engine = create_engine('sqlite:///census.sqlite')
+    engine = create_engine("sqlite:///census.sqlite")
 
     # Print table names
     print(engine.table_names())
-

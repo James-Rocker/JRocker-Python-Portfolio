@@ -5,21 +5,21 @@ Created on Sat Mar 17 06:07:26 2018
 @author: James
 """
 
-import pandas as pd 
+import pandas as pd
 
-filename = ''
+filename = ""
 df = pd.read_csv(filename)
 
-filename1 = ''
+filename1 = ""
 df1 = pd.read_csv(filename1)
 
 # Stack the data (grouping the data)
 # By stacking the data, we use less columns but more rows
-df = df.stack(level='county')
+df = df.stack(level="county")
 print(df)
 
-# Unstack 
-df = df.unstack(level='county')
+# Unstack
+df = df.unstack(level="county")
 print(df)
 
 # By stacking and unstacking the data is stacked by different levels
@@ -37,5 +37,5 @@ df1 = df1.sort_index()
 # Print newusers and verify that the index is now sorted
 print(df1)
 
-# Test that the dataframe is equal to another 
+# Test that the dataframe is equal to another
 print(df.equals(df1))

@@ -15,7 +15,7 @@ try:
 except:
     print("error")
     sys.exit()
-        
+
     olMailItem = 0x0
     obj = win32com.client.Dispatch("Outlook.Application")
     newMail = obj.CreateItem(olMailItem)
@@ -27,11 +27,11 @@ except:
                     Kind regards, 
                     Autobot"""
     newMail.To = To
-    attachment1 = 'Send Outlook File'
-    
-    #newMail.Attachments.Add(Source=attachment1)
+    attachment1 = "Send Outlook File"
+
+    # newMail.Attachments.Add(Source=attachment1)
     newMail.display()
     newMail.Send()
-    
+
     time.sleep(5)
     os.system("taskkill /im outlook.exe")

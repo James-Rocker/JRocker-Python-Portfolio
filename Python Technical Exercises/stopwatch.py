@@ -7,15 +7,15 @@ Created on Tue Mar 20 07:42:17 2018
 
 from time import time, sleep
 
-print('Press ENTER to begin, press Ctrl + C to stop')
+print("Press ENTER to begin, press Ctrl + C to stop")
 while True:
     try:
         input()
         starttime = time()
-        print('Started')
+        print("Started")
     except KeyboardInterrupt:
-        print('Stopped')
+        print("Stopped")
         endtime = time()
-        print('Total Time:', round(endtime - starttime, 2),'secs')
+        print("Total Time:", round(endtime - starttime, 2), "secs")
         sleep(2)
         break

@@ -9,13 +9,13 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-filename = ''
-df=pd.read_csv(filename)
+filename = ""
+df = pd.read_csv(filename)
 
 # Generate a joint plot
-sns.jointplot(x='', y='', data=df)
+sns.jointplot(x="", y="", data=df)
 plt.show()
 
 # Generate a joint plot using a hexbin plot
-sns.jointplot(data=df, x='', y='', kind='hex')
+sns.jointplot(data=df, x="", y="", kind="hex")
 plt.show()
