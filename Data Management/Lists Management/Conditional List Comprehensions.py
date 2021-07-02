@@ -6,7 +6,7 @@ Created on Thu Mar 15 11:53:59 2018
 """
 
 # Create a list of strings: fellowship
-fellowship = ['frodo', 'samwise', 'merry', 'aragorn', 'legolas', 'boromir', 'gimli']
+fellowship = ["frodo", "samwise", "merry", "aragorn", "legolas", "boromir", "gimli"]
 
 # Create list comprehension: new_fellowship
 new_fellowship = [member for member in fellowship if len(member) >= 7]
@@ -14,11 +14,9 @@ new_fellowship = [member for member in fellowship if len(member) >= 7]
 # Print the new list
 print(new_fellowship)
 
-new_fellowship = [member if len(member) >= 7 else '' for member in fellowship]
+new_fellowship = [member if len(member) >= 7 else "" for member in fellowship]
 print(new_fellowship)
 
 new_fellowship = {member: len(member) for member in fellowship}
 
 print(new_fellowship)
-
-

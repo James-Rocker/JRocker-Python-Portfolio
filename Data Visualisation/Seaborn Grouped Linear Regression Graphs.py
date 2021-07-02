@@ -9,20 +9,20 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 
-df = pd.read_csv('')
+df = pd.read_csv("")
 
 # Plot linear regressions grouped row-wise
-sns.lmplot(x='', y='', data=df, row='')
+sns.lmplot(x="", y="", data=df, row="")
 plt.show()
 
-sns.lmplot(data=df, x='', y= '', hue='', palette='Set1')
+sns.lmplot(data=df, x="", y="", hue="", palette="Set1")
 plt.show()
 
 # Strip plot
-plt.subplot(2,1,1)
-sns.stripplot(x='', y='', data=df)
+plt.subplot(2, 1, 1)
+sns.stripplot(x="", y="", data=df)
 
 # Strip plot using jitter and a smaller point size
-plt.subplot(2,1,2)
-sns.stripplot(x='', y='', jitter=True, data=df, size=3)
+plt.subplot(2, 1, 2)
+sns.stripplot(x="", y="", jitter=True, data=df, size=3)
 plt.show()

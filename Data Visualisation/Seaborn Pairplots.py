@@ -9,11 +9,11 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-filename = ''
-df=pd.read_csv(filename)
+filename = ""
+df = pd.read_csv(filename)
 
 sns.pairplot(df)
 plt.show()
 
-sns.pairplot(df, kind='reg', hue='origin')
+sns.pairplot(df, kind="reg", hue="origin")
 plt.show()

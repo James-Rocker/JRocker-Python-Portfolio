@@ -9,15 +9,15 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
 
-filename = ''
+filename = ""
 df = pd.read_csv(filename)
 
 # Create box plot with Seaborn's default settings
-sns.boxplot(x='', y='', data=df)
+sns.boxplot(x="", y="", data=df)
 
 # Label the axes
-plt.xlabel('')
-plt.ylabel('')
+plt.xlabel("")
+plt.ylabel("")
 
 # Show the plot
 plt.show()

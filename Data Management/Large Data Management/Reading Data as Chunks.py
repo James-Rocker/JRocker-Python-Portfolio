@@ -4,7 +4,7 @@ Created on Thu Mar 15 08:01:48 2018
 
 @author: James
 """
-import imp, pip 
+import imp, pip
 from time import sleep
 
 
@@ -12,17 +12,17 @@ def install_func(package):
     try:
         imp.find_module(package)
     except ImportError:
-        print ('Error ' + package + ' library is missing ')
+        print("Error " + package + " library is missing ")
         var = input("Do you want to download and install the " + package + " library? ")
-        if var in ['no', 'n', 'No', 'N', 'NO']:
-            print ('Error, ' + package + ' not installed.')
+        if var in ["no", "n", "No", "N", "NO"]:
+            print("Error, " + package + " not installed.")
             sleep(5)
             quit()
         else:
-            pip.main(['install', package])
+            pip.main(["install", package])
 
 
-packagelist = ['pandas']
+packagelist = ["pandas"]
 for x in packagelist:
     install_func(x)
 
@@ -37,7 +37,7 @@ we work with a couple of items at a time using for loops
 def count_entries(csv_file, c_size, colname):
     """Return a dictionary with counts of
     occurrences as value for each key."""
-    
+
     # Initialize an empty dictionary: counts_dict
     counts_dict = {}
 
@@ -56,7 +56,7 @@ def count_entries(csv_file, c_size, colname):
 
 
 # Call count_entries(): result_counts
-result_counts = count_entries('', 10, '')
+result_counts = count_entries("", 10, "")
 
 # Print result_counts
 print(result_counts)

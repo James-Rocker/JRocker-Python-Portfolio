@@ -9,17 +9,18 @@ import datetime
 import os
 from getpass import getuser
 import shutil
+
 user_name = getuser()
 
 
 # Create folder, move files
-yesterday = datetime.date.fromordinal(datetime.date.today().toordinal()-1)
+yesterday = datetime.date.fromordinal(datetime.date.today().toordinal() - 1)
 Today = datetime.date.fromordinal(datetime.date.today().toordinal())
 
-TextDoc = ("Text Document" + yesterday.strftime('%d-%b-%Y') + ".txt")
-CSVDoc = ("CSV Document" + Today.strftime('%d-%m-%Y') + ".csv")
+TextDoc = "Text Document" + yesterday.strftime("%d-%b-%Y") + ".txt"
+CSVDoc = "CSV Document" + Today.strftime("%d-%m-%Y") + ".csv"
 
-f = (r"C:\Users\\" + user_name + r"\Documents\Log Files\\" + Today.strftime('%d-%b-%Y'))
+f = r"C:\Users\\" + user_name + r"\Documents\Log Files\\" + Today.strftime("%d-%b-%Y")
 if not os.path.exists(f):
     os.makedirs(f)
 try:

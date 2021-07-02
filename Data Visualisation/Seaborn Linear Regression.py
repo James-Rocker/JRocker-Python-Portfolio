@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 
-df = pd.read_csv('')
+df = pd.read_csv("")
 
 # Plot a linear regression plot
 sns.lmplot(x=df[0], y=df[1], data=df)

@@ -7,16 +7,16 @@ import xlsxwriter
 
 
 def build_workbook(workbook_name: str):
-    workbook = xlsxwriter.Workbook(workbook_name + '.xlsx')
+    workbook = xlsxwriter.Workbook(workbook_name + ".xlsx")
     worksheet = workbook.add_worksheet()
 
     sample = (
-        ['Text Log -', 12220],
-        ['Total Errors in Text -', 561651],
-        ['Format Errors -', 656],
-        ['Limit Errors -', 51651],
-        ['Change Errors -', 5484],
-        ['Address Error -', 5651561],
+        ["Text Log -", 12220],
+        ["Total Errors in Text -", 561651],
+        ["Format Errors -", 656],
+        ["Limit Errors -", 51651],
+        ["Change Errors -", 5484],
+        ["Address Error -", 5651561],
     )
     row = 0
     col = 0

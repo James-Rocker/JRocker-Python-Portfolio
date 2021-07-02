@@ -7,16 +7,16 @@ Created on Mon Mar 19 05:38:43 2018
 
 # Grouping data, get unique vales and sort them
 
-import pandas as pd 
+import pandas as pd
 
-filename = ''
+filename = ""
 df = pd.read_csv(filename)
 
 # Group the data
-df_grouped = df.groupby([''])
+df_grouped = df.groupby([""])
 
 # Compute the number of distinct values
-df_sorted = df_grouped[''].nunique()
+df_sorted = df_grouped[""].nunique()
 
 # Sort the values in descending order
 df_sorted = df_sorted.sort_values(ascending=False)

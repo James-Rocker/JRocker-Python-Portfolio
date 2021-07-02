@@ -8,10 +8,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-filename = ''
-df=pd.read_csv(filename)
+filename = ""
+df = pd.read_csv(filename)
 
 # Creates a heatmap plotting the relationship between multiple variables
 sns.heatmap(df)
 plt.show()
-
