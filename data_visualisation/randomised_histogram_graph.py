@@ -8,7 +8,7 @@ Created on Sat Mar 24 06:42:35 2018
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Seed the random number generator and initalize
+# Seed the random number generator and initialize
 np.random.seed(42)
 random_numbers = np.empty(100000)
 

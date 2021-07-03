@@ -9,6 +9,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
 
+# TODO: fix the file import
 filename = ""
 df = pd.read_csv(filename)
 

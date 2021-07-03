@@ -19,3 +19,6 @@ def create_micro_db(table_name: str):
     # Reflect the selected table from the engine: micro_db
     census = Table(table_name, metadata, Column("id", Integer, primary_key=True))
     metadata.create_all(engine)
+
+
+# TODO: Fix whatever this is supposed to show

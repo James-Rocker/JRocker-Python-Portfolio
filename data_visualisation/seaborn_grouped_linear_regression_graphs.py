@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 
+# TODO: fix the file import
 df = pd.read_csv("")
 
 # Plot linear regressions grouped row-wise

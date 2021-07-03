@@ -8,6 +8,7 @@ Created on Wed Mar 21 13:18:37 2018
 import matplotlib.pyplot as plt
 import pandas as pd
 
+# TODO: fix the file import
 filename = ""
 df = pd.read_csv(filename)
 

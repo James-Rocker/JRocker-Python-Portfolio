@@ -1,5 +1,5 @@
 /venv/
-/Data Management/census.sqlite
+/data_management/census.sqlite
 .idea
 .mypy_cache
 

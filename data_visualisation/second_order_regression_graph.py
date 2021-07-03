@@ -19,6 +19,6 @@ sns.regplot(x="", y="", data=df, scatter=None, color="blue", label="order 1")
 # Plot in green a linear regression
 sns.regplot(x="", y="", data=df, scatter=None, order=2, color="green", label="order 2")
 
-# Add lengend and display
+# Add legend and display
 plt.legend(loc="upper left")
 plt.show()

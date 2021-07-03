@@ -10,9 +10,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 
-df = pd.read_csv("")
+df = pd.read_csv("")  # TODO: just specify a file
 
-# Generate a red residual plot for visualizing how far datapoints diverge from the regression line
+# Generate a red residual plot for visualizing how far data points diverge from the regression line
 sns.residplot(x=df[0], y=df[1], data=df, color="red")
 
 # Display the plot
