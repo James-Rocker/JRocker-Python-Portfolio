@@ -3,9 +3,11 @@ import re
 
 def order(sentence):
     if len(sentence) > 0:
-        number_list = re.findall(r'\d+', sentence)
+        number_list = re.findall(r"\d+", sentence)
         word_list = sentence.split()
-        ordered_string = ' '.join([number_list for _, number_list in sorted(zip(number_list, word_list))])
+        ordered_string = " ".join(
+            [number_list for _, number_list in sorted(zip(number_list, word_list))]
+        )
         return ordered_string
     else:
         return sentence

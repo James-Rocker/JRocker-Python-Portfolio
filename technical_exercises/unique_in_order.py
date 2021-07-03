@@ -1,4 +1,3 @@
-
 def unique_in_order(iterable):
     unique_list = []
     previous = 0
@@ -11,4 +10,4 @@ def unique_in_order(iterable):
     return unique_list
 
 
-print(unique_in_order('AAAABBBCCDAABBB'))
+print(unique_in_order("AAAABBBCCDAABBB"))

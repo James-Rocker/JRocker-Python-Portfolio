@@ -1,7 +1,6 @@
-
 def accumulate(s):
     list_of_letters = list(s.replace(" ", ""))
-    output_string = ''
+    output_string = ""
     for count, letter in enumerate(list_of_letters):
         output_string += letter.upper()
         if count > 0:

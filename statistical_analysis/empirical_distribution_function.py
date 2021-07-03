@@ -9,7 +9,7 @@ from typing import Any, Tuple
 import numpy as np
 
 
-def empirical_dist(data: np.ndarray[Any, Any]) -> Tuple: # pylint: disable=E1136
+def empirical_dist(data: np.ndarray[Any, Any]) -> Tuple:  # pylint: disable=E1136
     """
     Takes a numpy array arg, creates a sorted array as the x_axis and y_axis for a numpy array
     Then return the two numpy arrays as a tuple
