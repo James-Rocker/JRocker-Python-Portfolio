@@ -8,3 +8,6 @@ def accumulate(s):
             output_string += count * letter.lower()
         output_string += "-"
     return output_string[:-1]
+
+
+print(accumulate("abcd"))
