@@ -31,4 +31,4 @@ result1, result2 = zip(*z1)
 
 # Check if unpacked tuples are equivalent to original tuples
 if result1 == data1 and result2 == data2:
-    print(f'Uncoupled objects {result1, result2}')
+    print(f"Uncoupled objects {result1, result2}")

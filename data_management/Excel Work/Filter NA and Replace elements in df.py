@@ -26,6 +26,8 @@ print(df.dropna(how="all").shape)
 print(df.dropna(thresh=1000, axis="columns").info())
 
 # Applying a function to every element in a column
+
+
 def to_celsius(F):
     return 5 / 9 * (F - 32)
 

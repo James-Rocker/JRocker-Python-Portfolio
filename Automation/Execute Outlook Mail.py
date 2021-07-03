@@ -5,7 +5,10 @@ Created on Wed Mar 14 11:26:46 2018
 @author: james
 """
 
-import os, sys, time, pip
+import os
+import sys
+import time
+import pip
 import win32com.client
 
 To = input("Who do you want to send the automated email to? \n")
