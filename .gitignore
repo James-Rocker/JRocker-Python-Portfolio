@@ -1,5 +1,6 @@
 /venv/
 /Data Management/census.sqlite
+.idea
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/jetbrains
