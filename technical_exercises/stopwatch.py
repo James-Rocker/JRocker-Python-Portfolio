@@ -11,11 +11,11 @@ print("Press ENTER to begin, press Ctrl + C to stop")
 while True:
     try:
         input()
-        starttime = time()
+        start_time = time()
         print("Started")
     except KeyboardInterrupt:
         print("Stopped")
-        endtime = time()
-        print("Total Time:", round(endtime - starttime, 2), "secs")
+        end_time = time()
+        print("Total Time:", round(end_time - start_time, 2), "secs")
         sleep(2)
         break
