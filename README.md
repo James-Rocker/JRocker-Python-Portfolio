@@ -1,4 +1,4 @@
-[![Upload Python Package](https://github.com/TheRockerfly/JRocker-Python-Portfolio/actions/workflows/python-publish.yml/badge.svg)](https://github.com/TheRockerfly/JRocker-Python-Portfolio/actions/workflows/python-publish.yml)
+[![Merge into master](https://github.com/TheRockerfly/JRocker-Python-Portfolio/actions/workflows/python-publish.yml/badge.svg)](https://github.com/TheRockerfly/JRocker-Python-Portfolio/actions/workflows/python-publish.yml)
 # JRocker-Python-Portfolio
 Just a place to host my code examples
 
