@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 filename = ""
 df = pd.read_csv(filename)
 
-# Redefine a column with a new order catergory
+# Redefine a column with a new order category
 df.Medal = pd.Categorical(values=df.Medal, categories=["", "", ""], ordered=True)
 
 # Create the DataFrame

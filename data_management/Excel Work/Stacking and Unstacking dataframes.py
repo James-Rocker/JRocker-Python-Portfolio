@@ -14,7 +14,7 @@ filename1 = ""
 df1 = pd.read_csv(filename1)
 
 # Stack the data (grouping the data)
-# By stacking the data, we use less columns but more rows
+# By stacking the data, we use fewer columns but more rows
 df = df.stack(level="county")
 print(df)
 
