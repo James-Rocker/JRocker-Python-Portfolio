@@ -32,7 +32,7 @@ def async_timer_decorator(func):
         "function collected:",
         wrapper.__name__,
         "see here, the wrapper function isn't aware of the args or kwargs values:",
-        wrapper.__code__.co_argcount
+        wrapper.__code__.co_argcount,
     )
     return wrapper
 
