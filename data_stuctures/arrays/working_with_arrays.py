@@ -1,4 +1,5 @@
 import array as arr
+import numpy as np
 
 """
 an array is a collection of items
@@ -18,8 +19,6 @@ arrays can store large amounts of data and work well for mathematical operations
 arrays act as a wrapper for the C level of arrays. However, most of the time when working with arrays,
 it will be through the numpy library
 """
-
-import numpy as np
 
 new_array = np.array([1, 2, 3])
 print(

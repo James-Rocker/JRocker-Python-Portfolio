@@ -1,7 +1,7 @@
 import string
 
 """
-Python is able to handle large strings and work with them quickly. This is the same for all sequence objects 
+Python is able to handle large strings and work with them quickly. This is the same for all sequence objects
 including strings, list, and tuples.
 This can be great for objects that will get really large
 """
@@ -23,7 +23,7 @@ print(len(upper_string))
 
 """
 this is because python uses a random-access structure. The way I like to think of it is, like a book where you can
-open to any page. While say a scroll is sequential which is done through sequential access. 
+open to any page. While say a scroll is sequential which is done through sequential access.
 
 to quote the real-python hash-tables article
 The array occupies a contiguous block of memory.
@@ -62,6 +62,6 @@ print(dict_a)
 print(dict_c)
 
 """
-Python dicts uses open addressing. Each key, value is stored into a list (or bucket) of elements at the hash 
+Python dicts uses open addressing. Each key, value is stored into a list (or bucket) of elements at the hash
 then iterates through that list until it finds the actual key in that list
 """

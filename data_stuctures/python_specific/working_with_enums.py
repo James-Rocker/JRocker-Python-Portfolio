@@ -3,7 +3,7 @@ from enum import Enum
 """
 an enumerate is a set of symbolic names bound to unique values.
 
-these are immutable data types. They can be useful for creating constants in a class format e.g. days of the week or 
+these are immutable data types. They can be useful for creating constants in a class format e.g. days of the week or
 colours
 """
 

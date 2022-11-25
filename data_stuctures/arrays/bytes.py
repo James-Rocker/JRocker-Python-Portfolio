@@ -1,3 +1,5 @@
+import sys
+
 # bytes are immutable byte objects
 message = "Python is fun"
 
@@ -17,7 +19,6 @@ arr = bytes(size)
 print(arr, "then to lists again", list(arr))
 
 # so why do we use bytes? They seem very similar but inconvenient to work with
-import sys
 
 a_string = "hello world, I am a thing!"
 a_byte_string = bytes(a_string, "utf-8")

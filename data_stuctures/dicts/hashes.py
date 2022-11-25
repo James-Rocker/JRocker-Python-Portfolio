@@ -6,7 +6,7 @@ print(hash(1.01), hash(1.01).bit_count())
 you might notice the huge difference. That's because the hash function returns the hash value of an object which
 is an int and the standard 64 bit Python 3 interpreter represents it with 24 bytes
 
-The cool thing about hashing decimal values is that 
+The cool thing about hashing decimal values is that
 """
 
 print(hash(1.01) == hash(23058430092136961))
@@ -20,7 +20,7 @@ print("tree hash this time is", hash("tree"))
 print("Running a second time it's the same hash", hash("tree"))
 
 """
-That's because since 3.3, string and byte objects are salted with a random object before the hashing process. 
+That's because since 3.3, string and byte objects are salted with a random object before the hashing process.
 This is a security process so the salting and hashing is not easy to reverse engineer. A hacker could steal the salted
 passwords but that's not helpful if they can't reverse engineer the hash values
 
