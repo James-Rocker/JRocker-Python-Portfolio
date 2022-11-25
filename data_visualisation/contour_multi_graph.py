@@ -17,7 +17,7 @@ v = np.linspace(-1, 1, 20)
 X, Y = np.meshgrid(u, v)
 
 # Compute Z based on X and Y
-Z = np.sin(3 * np.sqrt(X ** 2 + Y ** 2))
+Z = np.sin(3 * np.sqrt(X**2 + Y**2))
 
 # Generate a default contour map of the array Z
 plt.subplot(2, 2, 1)

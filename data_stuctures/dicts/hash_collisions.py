@@ -6,12 +6,19 @@ including strings, list, and tuples.
 This can be great for objects that will get really large
 """
 
-upper_string = string.ascii_uppercase * 100_000_000  # built a 2.6 billion list of upper_case strings
+upper_string = (
+    string.ascii_uppercase * 100_000_000
+)  # built a 2.6 billion list of upper_case strings
 
 # just printing upper_string takes a long time, however, getting the object locations is still quick
-print("first 26:", upper_string[:26],
-      "last 26:", upper_string[-26:],
-      "middle value:", upper_string[len(upper_string) // 2])
+print(
+    "first 26:",
+    upper_string[:26],
+    "last 26:",
+    upper_string[-26:],
+    "middle value:",
+    upper_string[len(upper_string) // 2],
+)
 print(len(upper_string))
 
 """

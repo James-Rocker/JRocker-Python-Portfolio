@@ -27,7 +27,12 @@ linked.head.next = second
 second.next = third
 
 
-print("so here we can see the next attribute links to the next class obj", second.next, second.data, third.data)
+print(
+    "so here we can see the next attribute links to the next class obj",
+    second.next,
+    second.data,
+    third.data,
+)
 
 print("we can then show this in practice by chaining the next method and data")
 print(linked.head.data)

@@ -13,6 +13,7 @@ class Node(object):
     While this isn't best practice to have a class with no public methods
     I like having it as a class
     """
+
     def __init__(self, node_value, left=None, right=None):
         self.value = node_value
         self.left = left

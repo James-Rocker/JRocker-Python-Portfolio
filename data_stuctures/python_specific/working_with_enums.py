@@ -14,6 +14,10 @@ class Colours(Enum):
     BLUE = 3
 
 
-print(Colours.BLUE)  # printing just the attribute doesn't show the value of the attributes
+print(
+    Colours.BLUE
+)  # printing just the attribute doesn't show the value of the attributes
 print(repr(Colours.BLUE))  # getting representation gives the value but it's not ideal
-print(Colours.BLUE.name, Colours.BLUE.value)  # we can instead get the name and value of the attribute similar to dicts
+print(
+    Colours.BLUE.name, Colours.BLUE.value
+)  # we can instead get the name and value of the attribute similar to dicts

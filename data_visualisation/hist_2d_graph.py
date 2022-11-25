@@ -15,7 +15,7 @@ v = np.linspace(-100, 100)
 X, Y = np.meshgrid(u, v)
 
 # Compute Z based on X and Y
-Z = np.sin(3 * np.sqrt(X ** 2 + Y ** 2))
+Z = np.sin(3 * np.sqrt(X**2 + Y**2))
 
 # Generate a 2-D histogram based on 1d
 plt.hist2d(u, v, bins=(50, 50), range=((-100, 100), (-100, 100)))

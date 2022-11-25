@@ -17,4 +17,3 @@ print(my_first_mapping_proxy_type.values())
 # However, tying to update a value results in an error
 my_first_mapping_proxy_type["Terry"] = "Tamagochi"
 print(my_first_mapping_proxy_type)
-

@@ -1,8 +1,8 @@
 # bytes are immutable byte objects
-message = 'Python is fun'
+message = "Python is fun"
 
 # convert string to bytes
-byte_message = bytes(message, 'utf-8')  # we encode with utf8
+byte_message = bytes(message, "utf-8")  # we encode with utf8
 print(byte_message, "then converted back to a string:", byte_message.decode("utf-8"))
 
 # we can turn lists, string, objects, and ints.
@@ -20,7 +20,7 @@ print(arr, "then to lists again", list(arr))
 import sys
 
 a_string = "hello world, I am a thing!"
-a_byte_string = bytes(a_string, 'utf-8')
+a_byte_string = bytes(a_string, "utf-8")
 print("strings byte size is: ", sys.getsizeof(a_string))
 print("byte type byte size is: ", sys.getsizeof(a_byte_string))
 

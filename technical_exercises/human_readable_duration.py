@@ -1,8 +1,10 @@
-times = [("year", 365 * 24 * 60 * 60),
-         ("day", 24 * 60 * 60),
-         ("hour", 60 * 60),
-         ("minute", 60),
-         ("second", 1)]
+times = [
+    ("year", 365 * 24 * 60 * 60),
+    ("day", 24 * 60 * 60),
+    ("hour", 60 * 60),
+    ("minute", 60),
+    ("second", 1),
+]
 
 
 def format_duration(seconds):
@@ -20,7 +22,7 @@ def format_duration(seconds):
         seconds = seconds % time_units
 
     if len(time_chunks) > 1:
-        return ', '.join(time_chunks[:-1]) + ' and ' + time_chunks[-1]
+        return ", ".join(time_chunks[:-1]) + " and " + time_chunks[-1]
     else:
         return time_chunks[0]
 

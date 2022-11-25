@@ -1,7 +1,7 @@
 def likes(names):
     name_count = len(names)
     if name_count == 0:
-        return 'no one likes this'
+        return "no one likes this"
     elif name_count == 1:
         return f"{names[0]} likes this"
     elif name_count == 2:
@@ -14,5 +14,5 @@ def likes(names):
 
 
 print(likes([]))
-print(likes(['Sarah', 'Ryan', 'Jeff']))
-print(likes(['Sarah', 'Ryan', 'Jeff', 'Katie', 'Max']))
+print(likes(["Sarah", "Ryan", "Jeff"]))
+print(likes(["Sarah", "Ryan", "Jeff", "Katie", "Max"]))

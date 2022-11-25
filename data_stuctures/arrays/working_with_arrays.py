@@ -22,7 +22,9 @@ it will be through the numpy library
 import numpy as np
 
 new_array = np.array([1, 2, 3])
-print((new_array / 2).tolist())  # this allows us to divide all objects incredibly quickly
+print(
+    (new_array / 2).tolist()
+)  # this allows us to divide all objects incredibly quickly
 
 # this also allows you to make 2-d arrays
 two_d_array = np.array([[1, 2, 3], [4, 5, 6]])
@@ -42,7 +44,7 @@ print(type(string_array))  # still an array
 
 # However, if we do any mathematical operations, we get a type error
 try:
-    print(string_array/2)
+    print(string_array / 2)
 except TypeError as e:
     print(e, e.__traceback__)
 

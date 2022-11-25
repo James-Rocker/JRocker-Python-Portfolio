@@ -27,4 +27,6 @@ def testing_vectors():
     bar = magic_methods.Vector2D(-9, 7)
     assert (foo - bar) == magic_methods.Vector2D(x=12, y=-3)
     assert (foo + bar) == magic_methods.Vector2D(x=-6, y=11)
-    assert (foo * bar) == magic_methods.Vector2D(x=magic_methods.Vector2D(x=-27, y=21), y=magic_methods.Vector2D(x=-36, y=28))
+    assert (foo * bar) == magic_methods.Vector2D(
+        x=magic_methods.Vector2D(x=-27, y=21), y=magic_methods.Vector2D(x=-36, y=28)
+    )

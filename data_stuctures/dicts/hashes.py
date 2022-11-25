@@ -43,4 +43,3 @@ try:
     d[(0, [0])] = 1  # not fine
 except TypeError as e:
     print(d, e, e.with_traceback)
-
