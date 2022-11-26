@@ -27,11 +27,12 @@ class DummyClass:
 
     def __exit__(self, exit_type, exit_val, exit_traceback):
         """
-        You might notice we are passing 3 exit args
-        # TODO: explain this
-        exit_type =
-        exit_val =
-        exit_traceback =
+        You might notice we are passing 3 exit args. This is done so on error, __exit is raised and this information
+        is given to the end user to explain what went wrong
+
+        exit_type = the class exception
+        exit_val = the type of exception
+        exit_traceback = the traceback, what's needed to resolve
         """
         print("__exit__")
 
