@@ -1,4 +1,3 @@
-
 """
 The __call__ method can be used to turn the instances of the class into callables. Functions are callable objects
 by defining the __call__ method for a class, we can

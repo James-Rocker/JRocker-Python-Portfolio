@@ -1,4 +1,3 @@
-
 """
 If we want to make a class sortable in a list of other class instances, python has a few useful ways
 
@@ -46,7 +45,7 @@ class B:
         return self.score < other.score
 
 
-object_list = [B(10),  B(999), B(999), B(100)]
+object_list = [B(10), B(999), B(999), B(100)]
 object_list.sort(reverse=True)
 for each in object_list:
     print(each.score)
@@ -75,7 +74,7 @@ class C:
         return self.score == other.score
 
 
-object_list = [C(10),  C(999), C(999), C(100)]
+object_list = [C(10), C(999), C(999), C(100)]
 object_list.sort(reverse=True)
 for each in object_list:
     print(each.score)
