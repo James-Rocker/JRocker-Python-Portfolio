@@ -47,7 +47,7 @@ class B:
         return self
 
     def __next__(self):
-        result = 2 ** self.n
+        result = 2**self.n
         self.n += 1
         return result
 
@@ -76,7 +76,7 @@ class C:
 
     def __next__(self):
         if self.n <= self.v:
-            result = 2 ** self.n
+            result = 2**self.n
             self.n += 1
             return result
         else:
@@ -89,5 +89,7 @@ for each in range(10):
     try:
         next(iter_class_c)
     except StopIteration as err:
-        print(f"Cool, we can't run forever and fails on the loop call {each}, run {err.__traceback__}")
+        print(
+            f"Cool, we can't run forever and fails on the loop call {each}, run {err.__traceback__}"
+        )
         break

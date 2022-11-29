@@ -19,5 +19,7 @@ def empirical_dist(data: np.ndarray[Any, Any]) -> Tuple:
     x_axis = np.sort(data)  # we want to graph this data later, so we need this sort
 
     # returns evenly spaced values within a given interval. These should be ints, for decimals use np.linspace
-    y_axis = np.arange(start=1, stop=list_count + 1) / list_count  # divide here, so we always keep the y-axis max of 1
+    y_axis = (
+        np.arange(start=1, stop=list_count + 1) / list_count
+    )  # divide here, so we always keep the y-axis max of 1
     return x_axis, y_axis
