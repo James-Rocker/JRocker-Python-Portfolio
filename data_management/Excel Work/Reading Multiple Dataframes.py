@@ -23,4 +23,5 @@ for data in data_types:
 
 # Concatenate
 data = pd.concat(data, axis="columns")
+data["new_column"] = "silly message"
 print(data)
