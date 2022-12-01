@@ -1,6 +1,5 @@
-import requests
+import profile
 import re
-import time
 
 import cProfile
 import pstats
@@ -8,31 +7,40 @@ import pstats
 import httpx
 import asyncio
 
-# TODO: Fix the files opening. Not sure where this is supposed to come from
-def count_https_in_web_pages():
-    with open("top15USWebsites.txt", "r", encoding="utf-8") as f:
-        urls = [line.strip() for line in f.readlines()]
+"""
+Maybe we want to see what is actually taking so long when a script is running. We can do this by either using the
+profiler when running the script, e.g. python3 -m cProfile common_practices/profiling.py
 
-    htmls = []
-    for url in urls:
-        htmls = htmls + [requests.get(url).text]
+Or by declaring within the script. We can do this with either cProfile or profile class and chaining the run method
+with a string of what we want to run
+"""
 
-    count_https = 0
-    count_http = 0
-    for html in htmls:
-        count_https += len(re.findall("https://", html))
-        count_http += len(re.findall("http://", html))
+profile.run('re.compile("foo|bar")')
 
-    print("finished parsing")
-    time.sleep(2.0)
-    print(f"{count_https=}")
-    print(f"{count_http=}")
-    print(f"{count_https/count_http=}")
+"""
+That's cool, but seems limiting for longer scripts. Instead, we can also use the profiler as a context manager. 
+Let's look back at the better_count_https_in_web_pages and try running it through the profile to see what takes so long
+"""
 
 
 async def better_count_https_in_web_pages():
-    with open("top15USWebsites.txt", "r", encoding="utf-8") as f:
-        urls = [line.strip() for line in f.readlines()]
+    urls = [
+        "https://google.com",
+        "https://youtube.com",
+        "https://facebook.com",
+        "https://amazon.com",
+        "https://yahoo.com",
+        "https://wikipedia.org",
+        "https://zoom.us",
+        "https://live.com",
+        "https://reddit.com",
+        "https://netflix.com",
+        "https://microsoft.com",
+        "https://office.com",
+        "https://instagram.com",
+        "https://msn.com",
+        "https://bing.com",
+    ]
 
     async with httpx.AsyncClient() as client:
         tasks = (client.get(url, follow_redirects=True) for url in urls)
@@ -52,15 +60,10 @@ async def better_count_https_in_web_pages():
     print(f"{count_https/count_http=}")
 
 
-def main():
-    with cProfile.Profile() as pr:
-        asyncio.run(better_count_https_in_web_pages())
+with cProfile.Profile() as pr:
+    asyncio.run(better_count_https_in_web_pages())
 
-    stats = pstats.Stats(pr)
-    stats.sort_stats(pstats.SortKey.TIME)
-    # stats.print_stats()
-    stats.dump_stats(filename="needs_profiling.prof")
-
-
-if __name__ == "__main__":
-    main()
+stats = pstats.Stats(pr)   # pstats allows the reporting of stats
+stats.sort_stats(pstats.SortKey.TIME)  # sort it by the total time taken
+stats.print_stats()  # print it to the console
+# stats.dump_stats(filename="needs_profiling.prof")  # if we want to save this to a file, we can use dump_stats
