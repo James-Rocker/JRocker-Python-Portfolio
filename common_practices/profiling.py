@@ -63,7 +63,7 @@ async def better_count_https_in_web_pages():
 with cProfile.Profile() as pr:
     asyncio.run(better_count_https_in_web_pages())
 
-stats = pstats.Stats(pr)   # pstats allows the reporting of stats
+stats = pstats.Stats(pr)  # pstats allows the reporting of stats
 stats.sort_stats(pstats.SortKey.TIME)  # sort it by the total time taken
 stats.print_stats()  # print it to the console
 # stats.dump_stats(filename="needs_profiling.prof")  # if we want to save this to a file, we can use dump_stats
