@@ -13,3 +13,4 @@ def get_tables_in_db():
 
     # Print table names
     print(engine.table_names())
+    return engine.table_names()

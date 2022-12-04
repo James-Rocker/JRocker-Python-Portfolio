@@ -16,14 +16,3 @@ Build
 14. Add some examples of nosql database usage
 15. Add examples of Binomial Distribution (Success or failure probability)
 16. Add examples of Poisson Distribution (Probability of the events occuring in a time period)
-
-Misc
-
-1. Add further certifications from Datacamp (particularly the machine learning certifications)
-2. Start learning R to a better degree
-3. Finish the codeacademy course
-4. Finish the free code camp course
-5. Start and complete a udemy course
-6. Look into further methods of using python for business intelligence purposes
-7. Does stacking a dataframe only merge indexes? (when the index values are the same)
-8. Have a play around with dataframes and see what swaplevel does, melting dataframes, aggfunc, difference between pivot and pivot_table
