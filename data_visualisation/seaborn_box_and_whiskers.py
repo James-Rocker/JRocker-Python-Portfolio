@@ -9,16 +9,16 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
 
-# TODO: fix the file import
-filename = ""
-df = pd.read_csv(filename)
+# load the example dataset
+df = sns.load_dataset('tips')
 
 # Create box plot with Seaborn's default settings
-sns.boxplot(x="", y="", data=df)
+sns.boxplot(data=df, x='day', y='total_bill')
 
 # Label the axes
-plt.xlabel("")
-plt.ylabel("")
+plt.xlabel("day")
+plt.ylabel("total bill")
 
-# Show the plot
-plt.show()
+# Show the plot, disabling here because I'm using a headless console
+# plt.show()
+plt.savefig("graph_output/box_and_whisker.png")
