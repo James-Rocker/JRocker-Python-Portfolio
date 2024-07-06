@@ -23,7 +23,9 @@ async def better_count_https_in_web_pages():
         "https://bing.com",
     ]
 
-    async with httpx.AsyncClient() as client:  # creates an async client, similar to the requests.session
+    # creates an async client, similar to the requests.session
+    async with httpx.AsyncClient() as client:
+        # generates a list of tasks
         tasks = (
             client.get(url, follow_redirects=True) for url in urls
         )  # creates the requests task as iterable
@@ -31,10 +33,14 @@ async def better_count_https_in_web_pages():
             *tasks
         )  # runs the tasks iterables, gathers the output of these tasks to a list
 
-    htmls = [req.text for req in reqs]  # We can then loop through the list of
+    htmls = [
+        req.text for req in reqs
+    ]  # We can then loop through the list of sites to get the page text
 
+    # we are just going to count the number http and https links
     count_https = 0
     count_http = 0
+
     for html in htmls:
         count_https += len(re.findall("https://", html))
         count_http += len(re.findall("http://", html))
@@ -43,6 +49,5 @@ async def better_count_https_in_web_pages():
 
 
 if __name__ == "__main__":
-    asyncio.run(
-        better_count_https_in_web_pages()
-    )  # the async runner to actually execute the async function
+    # the async runner to actually execute the async function
+    asyncio.run(better_count_https_in_web_pages())
