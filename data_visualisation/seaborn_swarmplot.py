@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the penguins dataset from Seaborn:
-penguins = sns.load_dataset('penguins')
+penguins = sns.load_dataset("penguins")
 
 # Create a swarm plot of flipper length vs species
 sns.swarmplot(x="flipper_length_mm", y="species", data=penguins)
