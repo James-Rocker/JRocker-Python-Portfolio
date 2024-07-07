@@ -17,7 +17,7 @@ example = {
 example = pd.DataFrame(example, index=["A", "B", "C", "D", "E"])
 
 # Create violin plot
-sns.swarmplot(x=example.index, y="Column 3", data=example)  # TODO: fix this
+sns.swarmplot(x=example.index, y="Column 3", data=example)
 
 # Show the plot, disabling here because I'm using a headless console
 # plt.show()
