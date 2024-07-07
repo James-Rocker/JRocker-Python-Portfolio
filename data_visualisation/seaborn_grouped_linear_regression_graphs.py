@@ -9,21 +9,16 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 
-# TODO: fix the file import
-df = pd.read_csv("")
+# load the example dataset
+tips = sns.load_dataset('tips')
 
-# Plot linear regressions grouped row-wise
-sns.lmplot(x="", y="", data=df, row="")
-plt.show()
+# Create a scatter plot of total bill vs tip amount:
+plt.figure(figsize=(8, 6))
+sns.scatterplot(x='total_bill', y='tip', data=tips)
 
-sns.lmplot(data=df, x="", y="", hue="", palette="Set1")
-plt.show()
+# Perform linear regression and add the regression line to the plot:
+sns.regplot(x='total_bill', y='tip', data=tips, ci=None)
 
-# Strip plot
-plt.subplot(2, 1, 1)
-sns.stripplot(x="", y="", data=df)
-
-# Strip plot using jitter and a smaller point size
-plt.subplot(2, 1, 2)
-sns.stripplot(x="", y="", jitter=True, data=df, size=3)
-plt.show()
+# Show the plot, disabling here because I'm using a headless console
+# plt.show()
+plt.savefig("graph_output/linear_regression_scatter_plot.png")
