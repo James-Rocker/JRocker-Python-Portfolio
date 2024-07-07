@@ -5,11 +5,10 @@ Created on Mon Mar 19 17:27:24 2018
 @author: james
 """
 
-# Import plotting modules
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Load the tips dataset from Seaborn:
+# Load the tips dataset from Seaborn
 tips = sns.load_dataset("tips")
 
 # Create a residual plot
