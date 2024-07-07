@@ -11,7 +11,6 @@ import seaborn as sns
 
 # Load the tips dataset from Seaborn:
 tips = sns.load_dataset('tips')
-print(tips.head())
 
 # Create a joint plot with scatterplot, histogram on each axis, and regression line:
 sns.jointplot(x="total_bill", y="tip", data=tips, kind="hist")
