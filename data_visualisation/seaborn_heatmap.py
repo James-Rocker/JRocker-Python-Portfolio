@@ -13,7 +13,7 @@ tips = sns.load_dataset("tips")
 # Create a heatmap of tip percentage vs day of the week and time of day:
 plt.figure(figsize=(10, 8))
 sns.heatmap(
-    tips.pivot_table(values="tip", index="day_of_week", columns="time", aggfunc="mean"),
+    tips.pivot_table(values="tip", index="day", columns="time", aggfunc="mean", observed=False),
     cmap="Blues",
     annot=True,
 )
