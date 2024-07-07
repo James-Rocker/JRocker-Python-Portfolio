@@ -8,10 +8,16 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# TODO: fix the file import
-filename = ""
-df = pd.read_csv(filename)
+tips = sns.load_dataset("tips")
 
-# Creates a heatmap plotting the relationship between multiple variables
-sns.heatmap(df)
-plt.show()
+# Create a heatmap of tip percentage vs day of the week and time of day:
+plt.figure(figsize=(10, 8))
+sns.heatmap(
+    tips.pivot_table(values="tip", index="day_of_week", columns="time", aggfunc="mean"),
+    cmap="Blues",
+    annot=True,
+)
+
+# Show the plot, disabling here because I'm using a headless console
+# plt.show()
+plt.savefig("graph_output/heatmap_graph.png")

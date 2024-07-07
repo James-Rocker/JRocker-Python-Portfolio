@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # load the example dataset
-df = sns.load_dataset('tips')
+df = sns.load_dataset("tips")
 
 # Let's inspect the data
 print(df.head())
@@ -26,14 +26,16 @@ total_cost = total_cost.groupby(by=["day"])["total_bill"].sum().reset_index()
 sorted_total_cost = total_cost.sort_values("total_bill", ascending=False)
 
 # Create box plot with Seaborn's default settings. Let's also compare the smokers as well
-sns.boxplot(data=df, x='day', y='total_bill', hue="smoker", order=sorted_total_cost["day"])
+sns.boxplot(
+    data=df, x="day", y="total_bill", hue="smoker", order=sorted_total_cost["day"]
+)
 
 # Label the axes
 plt.xlabel("day")
 plt.ylabel("total bill")
 
 # setting the title
-plt.title('Tips by Day')
+plt.title("Tips by Day")
 
 # Show the plot, disabling here because I'm using a headless console
 # plt.show()

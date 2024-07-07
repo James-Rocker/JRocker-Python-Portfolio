@@ -10,14 +10,14 @@ import seaborn as sns
 import pandas as pd
 
 # load the example dataset
-tips = sns.load_dataset('tips')
+tips = sns.load_dataset("tips")
 
 # Create a scatter plot of total bill vs tip amount
 plt.figure(figsize=(8, 6))
-sns.scatterplot(x='total_bill', y='tip', data=tips)
+sns.scatterplot(x="total_bill", y="tip", data=tips)
 
 # Perform linear regression and add the regression line to the plot
-sns.regplot(x='total_bill', y='tip', data=tips, ci=None)
+sns.regplot(x="total_bill", y="tip", data=tips, ci=None)
 
 # Show the plot, disabling here because I'm using a headless console
 # plt.show()

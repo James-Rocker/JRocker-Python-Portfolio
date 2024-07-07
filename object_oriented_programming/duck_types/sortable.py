@@ -10,7 +10,6 @@ You need all 4 to accurately sort the objects within a user defined class
 This means we can call the sort method on the list of class objects
 """
 
-
 from functools import total_ordering
 
 
