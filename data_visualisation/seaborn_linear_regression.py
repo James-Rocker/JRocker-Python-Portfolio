@@ -2,18 +2,20 @@
 """
 Created on Mon Mar 19 17:16:28 2018
 
+I had no idea seaborn had a penguin dataset built in!
+
 @author: james
 """
 
 import matplotlib.pyplot as plt
 import seaborn as sns
-import pandas as pd
 
-# TODO: fix the file import
-df = pd.read_csv("")
+# Load the tips dataset from Seaborn:
+penguins = sns.load_dataset("penguins")
 
-# Plot a linear regression plot
-sns.lmplot(x=df[0], y=df[1], data=df)
+# Create a lmplot of penguins bill length to bill depth by species
+sns.lmplot(data=penguins, x="bill_length_mm", y="bill_depth_mm", hue="species")
 
-# Display the plot
-plt.show()
+# Show the plot, disabling here because I'm using a headless console
+# plt.show()
+plt.savefig("graph_output/linear_plot.png")

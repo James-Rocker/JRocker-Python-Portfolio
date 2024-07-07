@@ -13,7 +13,7 @@ import seaborn as sns
 tips = sns.load_dataset("tips")
 
 # Create a residual plot
-sns.residplot(data=tips, x='total_bill', y='tip')
+sns.residplot(data=tips, x="total_bill", y="tip")
 
 # Show the plot, disabling here because I'm using a headless console
 # plt.show()

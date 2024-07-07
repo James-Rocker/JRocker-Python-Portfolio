@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the tips dataset that comes with seaborn
-tips = sns.load_dataset('tips')
+tips = sns.load_dataset("tips")
 
 # Create a violinplot
 sns.violinplot(x="day", y="total_bill", data=tips, inner=None)
