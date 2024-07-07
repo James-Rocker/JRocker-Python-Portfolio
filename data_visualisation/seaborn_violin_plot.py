@@ -5,22 +5,15 @@ Created on Wed Mar 21 07:47:29 2018
 @author: James
 """
 
-import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-filename = ""
-df = pd.read_csv(filename)
+# Load the tips dataset that comes with seaborn
+tips = sns.load_dataset('tips')
 
-# Generate a violin plot
-plt.subplot(2, 1, 1)
-sns.violinplot(x="", y="", data=df)
+# Create a violinplot
+sns.violinplot(x="day", y="total_bill", data=tips, inner=None)
 
-# Generate the same violin plot with a color of 'lightgray' without annotations
-# Strip plot to overlay the violin diagram
-plt.subplot(2, 1, 2)
-sns.violinplot(x="", y="", data=df, inner=None, color="lightgray")
-sns.stripplot(x="", y="", data=df, jitter=True, size=1.5)
-
-# Display the plot
-plt.show()
+# Show the plot, disabling here because I'm using a headless console
+# plt.show()
+plt.savefig("graph_output/violin_plot.png")
