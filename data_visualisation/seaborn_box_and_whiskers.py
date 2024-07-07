@@ -7,7 +7,6 @@ Created on Fri Mar 23 12:08:57 2018
 
 import seaborn as sns
 import matplotlib.pyplot as plt
-import pandas as pd
 
 # load the example dataset
 df = sns.load_dataset("tips")
