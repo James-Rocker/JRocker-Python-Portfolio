@@ -9,14 +9,13 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# TODO: fix the file import
-filename = ""
-df = pd.read_csv(filename)
+# Load the tips dataset from Seaborn:
+tips = sns.load_dataset('tips')
+print(tips.head())
 
-# Generate a joint plot
-sns.jointplot(x="", y="", data=df)
-plt.show()
+# Create a joint plot with scatterplot, histogram on each axis, and regression line:
+sns.jointplot(x="total_bill", y="tip", data=tips, kind="hist")
 
-# Generate a joint plot using a hexbin plot
-sns.jointplot(data=df, x="", y="", kind="hex")
-plt.show()
+# Show the plot, disabling here because I'm using a headless console
+# plt.show()
+plt.savefig("graph_output/joint_plot.png")
