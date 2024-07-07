@@ -9,10 +9,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Load the tips dataset from Seaborn:
-tips = sns.load_dataset('tips')
+# Load the tips dataset from Seaborn
+tips = sns.load_dataset("tips")
 
-# Create a joint plot with scatterplot, histogram on each axis, and regression line:
+# Create a joint plot with scatterplot, histogram on each axis, and regression line
 sns.jointplot(x="total_bill", y="tip", data=tips, kind="hist")
 
 # Show the plot, disabling here because I'm using a headless console

@@ -10,10 +10,12 @@ import seaborn as sns
 
 tips = sns.load_dataset("tips")
 
-# Create a heatmap of tip percentage vs day of the week and time of day:
+# Create a heatmap of tip percentage vs day of the week and time of day
 plt.figure(figsize=(10, 8))
 sns.heatmap(
-    tips.pivot_table(values="tip", index="day", columns="time", aggfunc="mean", observed=False),
+    tips.pivot_table(
+        values="tip", index="day", columns="time", aggfunc="mean", observed=False
+    ),
     cmap="Blues",
     annot=True,
 )

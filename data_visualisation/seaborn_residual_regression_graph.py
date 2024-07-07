@@ -8,12 +8,13 @@ Created on Mon Mar 19 17:27:24 2018
 # Import plotting modules
 import matplotlib.pyplot as plt
 import seaborn as sns
-import pandas as pd
 
-df = pd.read_csv("")  # TODO: just specify a file
+# Load the tips dataset from Seaborn:
+tips = sns.load_dataset("tips")
 
-# Generate a red residual plot for visualizing how far data points diverge from the regression line
-sns.residplot(x=df[0], y=df[1], data=df, color="red")
+# Create a residual plot
+sns.residplot(data=tips, x='total_bill', y='tip')
 
-# Display the plot
-plt.show()
+# Show the plot, disabling here because I'm using a headless console
+# plt.show()
+plt.savefig("graph_output/residplot.png")

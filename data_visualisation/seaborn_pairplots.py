@@ -9,12 +9,13 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# TODO: fix the file import
-filename = ""
-df = pd.read_csv(filename)
 
-sns.pairplot(df)
-plt.show()
+# Load the tips dataset from Seaborn
+tips = sns.load_dataset("tips")
 
-sns.pairplot(df, kind="reg", hue="origin")
-plt.show()
+# Create a pair plot with scatterplot, histogram on each axis, and regression line
+sns.pairplot(data=tips, kind="hist")
+
+# Show the plot, disabling here because I'm using a headless console
+# plt.show()
+plt.savefig("graph_output/pair_plot.png")
