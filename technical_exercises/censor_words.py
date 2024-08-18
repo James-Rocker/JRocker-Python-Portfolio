@@ -26,5 +26,5 @@ def censor(text: str, word: str) -> str:
     return new_text.lstrip(" ")
 
 
-print(censor(word_input, censor_word))
-time.sleep(5)
+if __name__ == "__main__":
+    print(censor(word_input, censor_word))

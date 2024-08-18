@@ -8,7 +8,8 @@ def make_readable(seconds: int):
         return "99:59:59"
 
 
-print(make_readable(5))
-print(make_readable(3500))
-print(make_readable(359998))
-print(make_readable(9000000))
+if __name__ == "__main__":
+    print(make_readable(5))
+    print(make_readable(3500))
+    print(make_readable(359998))
+    print(make_readable(9000000))

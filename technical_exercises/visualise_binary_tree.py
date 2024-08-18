@@ -35,10 +35,11 @@ def output_tree(node: Node, level: int = 0):
         output_tree(node.right, level + 1)
 
 
-node_tree = Node(
-    1,
-    left=Node(2, left=Node(12, left=Node(7)), right=Node(9)),
-    right=Node(3, left=Node(5), right=Node(6)),
-)
+if __name__ == "__main__":
+    node_tree = Node(
+        1,
+        left=Node(2, left=Node(12, left=Node(7)), right=Node(9)),
+        right=Node(3, left=Node(5), right=Node(6)),
+    )
 
-output_tree(node_tree)
+    output_tree(node_tree)

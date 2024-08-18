@@ -10,4 +10,5 @@ def unique_in_order(iterable):
     return unique_list
 
 
-print(unique_in_order("AAAABBBCCDAABBB"))
+if __name__ == "__main__":
+    print(unique_in_order("AAAABBBCCDAABBB"))

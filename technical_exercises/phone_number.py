@@ -5,4 +5,5 @@ def create_phone_number(n):
     return f"{first_three} {mid_three}-{last_four}"
 
 
-print(create_phone_number([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]))
+if __name__ == "__main__":
+    print(create_phone_number([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]))

@@ -21,5 +21,6 @@ def remove_odds_from_list(number_list: list):
     return list_of_numbers
 
 
-output = remove_odds_from_list(int_list)
-print(output)
+if __name__ == "__main__":
+    output = remove_odds_from_list(int_list)
+    print(output)

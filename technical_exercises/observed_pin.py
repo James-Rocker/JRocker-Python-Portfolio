@@ -28,6 +28,7 @@ def get_pins(observed):
         return [joiner(numbers) for numbers in unique_items]
 
 
-print(get_pins("8"))
-print(get_pins("422"))
-print(get_pins("4269888"))
+if __name__ == "__main__":
+    print(get_pins("8"))
+    print(get_pins("422"))
+    print(get_pins("4269888"))

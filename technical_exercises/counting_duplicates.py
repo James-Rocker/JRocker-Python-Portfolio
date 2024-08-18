@@ -11,4 +11,5 @@ def duplicate_count(text: str):
     return len(set(repeat_list))
 
 
-print(duplicate_count("ABBA"))
+if __name__ == "__main__":
+    print(duplicate_count("ABBA"))

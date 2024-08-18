@@ -13,4 +13,5 @@ def order(sentence):
         return sentence
 
 
-print(order("is2 Thi1s T4est 3a"))
+if __name__ == "__main__":
+    print(order("is2 Thi1s T4est 3a"))

@@ -9,4 +9,5 @@ def accumulate(s):
     return output_string[:-1]
 
 
-print(accumulate("abcd"))
+if __name__ == "__main__":
+    print(accumulate("abcd"))

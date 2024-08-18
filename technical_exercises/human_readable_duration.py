@@ -27,7 +27,8 @@ def format_duration(seconds):
         return time_chunks[0]
 
 
-print(format_duration(22222))
-print(format_duration(1))
-print(format_duration(231))
-print(format_duration(222225555222))
+if __name__ == "__main__":
+    print(format_duration(22222))
+    print(format_duration(1))
+    print(format_duration(231))
+    print(format_duration(222225555222))

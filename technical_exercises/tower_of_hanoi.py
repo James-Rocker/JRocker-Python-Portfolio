@@ -22,4 +22,5 @@ def move_tower(disks, from_pole, to_pole, with_pole):
         move_tower(disks - 1, with_pole, to_pole, from_pole)
 
 
-move_tower(3, "A", "B", "C")
+if __name__ == "__main__":
+    move_tower(3, "A", "B", "C")

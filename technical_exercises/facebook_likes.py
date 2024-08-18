@@ -13,6 +13,7 @@ def likes(names):
     pass
 
 
-print(likes([]))
-print(likes(["Sarah", "Ryan", "Jeff"]))
-print(likes(["Sarah", "Ryan", "Jeff", "Katie", "Max"]))
+if __name__ == "__main__":
+    print(likes([]))
+    print(likes(["Sarah", "Ryan", "Jeff"]))
+    print(likes(["Sarah", "Ryan", "Jeff", "Katie", "Max"]))

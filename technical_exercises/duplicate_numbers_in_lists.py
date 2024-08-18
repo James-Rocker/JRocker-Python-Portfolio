@@ -6,4 +6,5 @@ def array_diff(a: list, b: list):
     return [item for item in a if item not in b]
 
 
-print(array_diff([1, 2, 3], [1, 2]))
+if __name__ == "__main__":
+    print(array_diff([1, 2, 3], [1, 2]))

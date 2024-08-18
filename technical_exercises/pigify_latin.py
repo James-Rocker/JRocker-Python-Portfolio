@@ -8,5 +8,6 @@ def pig_it(text: str):
     return new_str.strip(" ")
 
 
-print(pig_it("hello my name is james"))
-print(pig_it("We are making this into a secret code !"))
+if __name__ == "__main__":
+    print(pig_it("hello my name is james"))
+    print(pig_it("We are making this into a secret code !"))

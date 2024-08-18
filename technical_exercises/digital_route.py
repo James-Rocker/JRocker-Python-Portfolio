@@ -4,4 +4,5 @@ def digital_root(n):
     return n
 
 
-print(digital_root(27895))
+if __name__ == "__main__":
+    print(digital_root(27895))

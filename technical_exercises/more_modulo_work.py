@@ -6,4 +6,5 @@ def solution(number):
     return sum(blank_list)
 
 
-print(solution(20))
+if __name__ == "__main__":
+    print(solution(20))
